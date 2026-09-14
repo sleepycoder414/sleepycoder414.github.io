@@ -1,0 +1,305 @@
+{
+  "style": {
+    "id": "30",
+    "slug": "french_country_light",
+    "name": "Light French Country",
+    "blend": "French provincial + contemporary",
+    "definition": "Weathered timber, gentle curves and washed colors interpreted with a light hand.",
+    "materials": "limed oak; linen; cane; aged iron; faded blue cotton",
+    "colors": [
+      "#EFE8D9",
+      "#B7C4C2",
+      "#B9A388",
+      "#817D6A",
+      "#D1BAAA"
+    ],
+    "living": "ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant",
+    "bed": "limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps",
+    "solarium": "weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set",
+    "implement": "Use graceful furniture shapes to soften the black glazing, while keeping ornament restrained.",
+    "avoid": "Avoid ornate chandeliers and faux distressed finishes everywhere.",
+    "fit": "Good with compact furniture",
+    "folder": "style_30_french_country_light"
+  },
+  "tool": "built-in image_gen",
+  "jobs": [
+    {
+      "folder": "style_30_french_country_light",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Light French Country'; no other text or brand names. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Light French Country. Five large clear swatches labeled exactly #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Light French Country\". No room photographs. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid ornate chandeliers and faux distressed finishes everywhere."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid ornate chandeliers and faux distressed finishes everywhere."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid ornate chandeliers and faux distressed finishes everywhere. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room)."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Light French Country: Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials limed oak; linen; cane; aged iron; faded blue cotton; colors #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furnish this BEDROOM ONLY with limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Light French Country: Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials limed oak; linen; cane; aged iron; faded blue cotton; colors #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furnish this SOLARIUM ONLY with weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_30_french_country_light",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Light French Country'; no other text or brand names. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Light French Country. Five large clear swatches labeled exactly #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Light French Country\". No room photographs. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "02_palette_v2.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Light French Country. Five large clear swatches labeled exactly #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Light French Country\". No room photographs. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set. Render a crisp flat graphic palette artwork on clean white background. Absolutely no haze, cast shadows across text, gradients, blur or gray overlay. All title and hex text in solid near-black high contrast. Five clearly separated color chips with exact hex labels. Minimal material samples below. No room photos."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Light French Country: Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials limed oak; linen; cane; aged iron; faded blue cotton; colors #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furnish this SOLARIUM ONLY with weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_10_Solarium_v2.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit supplied furnished solarium image only: restore round structural column on RIGHT to original satin BLACK metal finish, matching black window frames. Preserve every furniture piece, blue cushions, wood ceiling, floor tiles, glazing, composition and camera exactly. No other changes.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_30_french_country_light/condo_10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid ornate chandeliers and faux distressed finishes everywhere.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_30_french_country_light/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_30_french_country_light/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid ornate chandeliers and faux distressed finishes everywhere.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_30_french_country_light/03_example_living.png"
+      ]
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid ornate chandeliers and faux distressed finishes everywhere. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_30_french_country_light/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_30_french_country_light/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Light French Country: Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials limed oak; linen; cane; aged iron; faded blue cotton; colors #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furnish this BEDROOM ONLY with limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_30_french_country_light/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "b24518e95873fd25f942ecedb1f4dcb0d7d8f6d6c1c0de346197e6e5034566d7"
+    },
+    "02_palette.png": {
+      "file": "02_palette_v2.png",
+      "sha256": "cfc86f6dba454436bdd0fdc7eca7dc2cd0d0ba452bf3b75289846dcaf2a5f0ef"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "23e5a4ebc8ad761525e886a8d1f5b03a1dbe835d14b9305ac3b23b7f483919e6"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "f2f1807e5ebb00f5191bb015c9255e3d1b2e1e36537a95757357d80f954667a5"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "d1a740a5cd109e1b33eae84b9a259b20f63ab1aeb9ad8c1e9472816221107955"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "cc11fed34dfb5b41486b5de41e588fbb34dbf949d1d311fd82a7d94fed82e2ab"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate.png",
+      "sha256": "aeb3f4dccd5803512ce6f56b4ac15432da0aade999a1b3ae2429afa693a51b4c"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "670830c9356145c7702c87a9335023f10c0f22d0bdb10f15c01c0edaea8fa831"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "a2f6fb7c5ca6128ef5e6405fee510f2cf11e50b34412cf0235882890e6161c96"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium_v2.png",
+      "sha256": "32b0facce8b0b0b0db9c1e74a2ed9ed1df0daca898399a7e463b3bbd5e31ab3f"
+    }
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_30_french_country_light",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Light French Country'; no other text or brand names. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Light French Country. Five large clear swatches labeled exactly #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Light French Country\". No room photographs. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid ornate chandeliers and faux distressed finishes everywhere."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid ornate chandeliers and faux distressed finishes everywhere."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Light French Country (French provincial + contemporary). Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials: limed oak; linen; cane; aged iron; faded blue cotton. Palette: #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furniture design language: ivory linen sofa with subtle curved arms; pale-blue cane-back armchair; oval limed-oak coffee table; limed-oak media cabinet; round pedestal oak dining table and four cane-back chairs; linen pendant. Bedroom: limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Outdoor: weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid ornate chandeliers and faux distressed finishes everywhere. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Light French Country: Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials limed oak; linen; cane; aged iron; faded blue cotton; colors #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furnish this BEDROOM ONLY with limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Light French Country: Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials limed oak; linen; cane; aged iron; faded blue cotton; colors #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furnish this SOLARIUM ONLY with weathered teak and woven outdoor seating with faded-blue performance cushions; round teak dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ]
+}

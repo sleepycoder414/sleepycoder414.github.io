@@ -1,0 +1,11 @@
+{
+  "folder": "style_39_nordic_folk",
+  "file": "condo_20_Living_Alternate_v2.png",
+  "ref": "20_Living_Alternate.png",
+  "kind": "condo",
+  "prompt": "Edit image1 empty condo camera20. Image2 is same room furnished from another camera, furnishing reference only. Maintain EXACT camera20 geometry of image1. Add Nordic Folk furnishings: cream pine-leg sofa cropped at LEFT foreground facing TV RIGHT solid wall; pine media cabinet under TV, RED oval coffee table, indigo woven pine lounge chair near foreground right, cream-red-blue folk rug and folk floral art. Crucial dining placement: small ROUND PALE PINE table and FOUR spindle chairs at LEFT MIDDLE GROUND, IN FRONT OF the island nearest camera, between sofa zone and island, partially cropped at LEFT edge if needed. NOT behind island, NOT kitchen counter seating. Keep island where original is farther back LEFT, leave a gap to table. Solid white kitchen far-end wall, NO window. Repeat image2 exact furniture family. Single full-frame photorealistic image.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_39_nordic_folk/condo_21_Living_Wide.png"
+  ]
+}

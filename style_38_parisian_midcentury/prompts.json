@@ -1,0 +1,288 @@
+{
+  "style": {
+    "id": "38",
+    "slug": "parisian_midcentury",
+    "name": "Parisian Midcentury",
+    "blend": "Parisian contemporary + midcentury modern",
+    "definition": "Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture.",
+    "materials": "walnut; tobacco velvet; cream wool; brass; marble",
+    "colors": [
+      "#EEE5D8",
+      "#9A6749",
+      "#C6B69B",
+      "#656D70",
+      "#5B4639"
+    ],
+    "living": "cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame",
+    "bed": "cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps",
+    "solarium": "teak outdoor seating with tobacco performance cushions; round teak dining set",
+    "implement": "Pair one antique-looking artwork with clean walnut furniture; keep walls and ceiling architecture intact.",
+    "avoid": "Avoid imitation Haussmann paneling that changes the condo shell.",
+    "fit": "Good with compact furniture",
+    "folder": "style_38_parisian_midcentury"
+  },
+  "tool": "built-in image_gen",
+  "jobs": [
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Parisian Midcentury'; no other text or brand names. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Parisian Midcentury. Five large clear swatches labeled exactly #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Parisian Midcentury\". No room photographs. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid imitation Haussmann paneling that changes the condo shell."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid imitation Haussmann paneling that changes the condo shell."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid imitation Haussmann paneling that changes the condo shell. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room)."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Parisian Midcentury: Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials walnut; tobacco velvet; cream wool; brass; marble; colors #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furnish this BEDROOM ONLY with cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Parisian Midcentury: Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials walnut; tobacco velvet; cream wool; brass; marble; colors #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furnish this SOLARIUM ONLY with teak outdoor seating with tobacco performance cushions; round teak dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Parisian Midcentury'; no other text or brand names. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Parisian Midcentury. Five large clear swatches labeled exactly #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Parisian Midcentury\". No room photographs. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Parisian Midcentury: Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials walnut; tobacco velvet; cream wool; brass; marble; colors #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furnish this SOLARIUM ONLY with teak outdoor seating with tobacco performance cushions; round teak dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid imitation Haussmann paneling that changes the condo shell.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_38_parisian_midcentury/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid imitation Haussmann paneling that changes the condo shell.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_38_parisian_midcentury/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_38_parisian_midcentury/05_example_dining.png"
+      ]
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid imitation Haussmann paneling that changes the condo shell. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_38_parisian_midcentury/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Parisian Midcentury: Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials walnut; tobacco velvet; cream wool; brass; marble; colors #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furnish this BEDROOM ONLY with cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_38_parisian_midcentury/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "390a5c5fa989ce17e39f013bad7890c5005bc85b6d97084b3c8a15189cd33192"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "89057f29422e83a54903f39a99aaca0125285e920751f77fa9570c44b7ba4a69"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "b62649e8ae026e003af52a5cc8f287f591902e3a4da063068995d8903da5ed83"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "6cfbec23dd8bc988685502eced66f3ca3df23e286370c32bfe8c46477f212d1e"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "7057c92a032ab9715fabea26ec0850542d15ff205cecc41c9aad37ec58feae34"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "185f0e869a48c6c9967e45b8eef71762f38e610643b7aa2f9798ecad67ddb4c5"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate.png",
+      "sha256": "0f569233b4a2f4d8233639e3679c6decb5671d19096497a310192f1648d64f08"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "cf5953c695b635b3d7e4f0a367dd5e4f43d472fefa144fd17c1896b43487e75b"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "f951d52be2bfa871635548c347709bec4b947b9c9eef77b1a85b836e451a365c"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium.png",
+      "sha256": "09a8d150b516ed8897ed0ec6b08d63d7f8b1677e0f96fd664f1e186bc249853f"
+    }
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Parisian Midcentury'; no other text or brand names. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Parisian Midcentury. Five large clear swatches labeled exactly #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Parisian Midcentury\". No room photographs. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid imitation Haussmann paneling that changes the condo shell."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid imitation Haussmann paneling that changes the condo shell."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Parisian Midcentury (Parisian contemporary + midcentury modern). Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials: walnut; tobacco velvet; cream wool; brass; marble. Palette: #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furniture design language: cream curved sofa; tobacco velvet walnut lounge chair; oval marble coffee table on walnut legs; walnut media credenza; round walnut table with four cream upholstered chairs; brass globe pendant; large abstract art and a small antique frame. Bedroom: cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Outdoor: teak outdoor seating with tobacco performance cushions; round teak dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid imitation Haussmann paneling that changes the condo shell. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Parisian Midcentury: Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials walnut; tobacco velvet; cream wool; brass; marble; colors #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furnish this BEDROOM ONLY with cream curved queen headboard; ivory bedding and tobacco throw; walnut nightstands with brass dome lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_38_parisian_midcentury",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Parisian Midcentury: Elegant artwork and a touch of brass meet sculptural midcentury walnut furniture. Materials walnut; tobacco velvet; cream wool; brass; marble; colors #EEE5D8, #9A6749, #C6B69B, #656D70, #5B4639. Furnish this SOLARIUM ONLY with teak outdoor seating with tobacco performance cushions; round teak dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ]
+}

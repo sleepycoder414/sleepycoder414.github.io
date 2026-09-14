@@ -1,0 +1,13 @@
+{
+  "folder": "style_25_seventies_earth",
+  "file": "condo_23_Dining_Wide.png",
+  "ref": "23_Dining_Wide.png",
+  "kind": "condo",
+  "prompt": "Edit image 1, the EMPTY condo rendering. Style: Earthy Seventies Revival (1970s modern + contemporary). Rounded lounge furniture, walnut and warm spice colors, edited for a lighter contemporary condo. Materials: walnut; rust corduroy; amber glass; cream shag wool; smoked glass. Palette: #EFE0C8, #AB5836, #7E7044, #6B4632, #D49B48. Furniture design language: rust corduroy low modular sofa; olive rounded swivel chair; smoked-glass rounded-square coffee table; walnut tambour media cabinet; round walnut table with four cream upholstered chairs; amber globe pendant. Bedroom: walnut curved-headboard queen; cream bedding with rust and olive accents; walnut nightstands; amber globe lamps. Outdoor: teak low outdoor sofa and chair with rust weatherproof cushions; round teak dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid sunken floors, conversation pits and oversized shag carpets. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room).",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_25_seventies_earth/03_example_living.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_25_seventies_earth/05_example_dining.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_25_seventies_earth/condo_21_Living_Wide.png"
+  ]
+}

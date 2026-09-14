@@ -1,0 +1,11 @@
+{
+  "folder": "style_35_japandi_deco",
+  "file": "condo_20_Living_Alternate.png",
+  "ref": "20_Living_Alternate.png",
+  "kind": "condo",
+  "prompt": "Edit image 1, the EMPTY condo rendering. Style: Japandi Deco (Japandi + Art Deco). Japanese restraint with a few geometric Deco accents and a richer material contrast. Materials: dark walnut; ivory linen; muted jade; bronze; pale stone. Palette: #EAE5D8, #5E7A6C, #6C4C39, #B59A65, #343936. Furniture design language: ivory low straight sofa; muted-jade rounded chair; pale oval stone coffee table with bronze base; dark walnut media cabinet; compact walnut table with four jade upholstered chairs; opal and bronze globe pendant; one restrained fan-pattern rug. Bedroom: dark walnut low queen with gently curved jade headboard; ivory bedding; walnut nightstands and bronze opal lamps. Outdoor: dark teak outdoor seating with jade performance pads; teak dining table with bronze-tone metal chairs. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid glossy black-and-gold glamour throughout.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_35_japandi_deco/condo_21_Living_Wide.png"
+  ]
+}

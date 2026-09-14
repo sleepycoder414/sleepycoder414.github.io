@@ -1,0 +1,10 @@
+{
+  "folder": "style_31_shaker_contemporary",
+  "file": "condo_20_Living_Alternate_v3.png",
+  "ref": "20_Living_Alternate.png",
+  "kind": "condo",
+  "prompt": "Edit this furnished image only. Move the cherry round dining table and its four ladderback chairs FORWARD toward camera and LEFT of the island, so table is visible in front of island, beside sofa's far end. It must not hide BEHIND kitchen island or overlap counter. Leftmost chairs may crop out of frame. Keep entire living furniture, camera, room shell, cream kitchen and right TV wall unchanged.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_31_shaker_contemporary/condo_20_Living_Alternate_v2.png"
+  ]
+}

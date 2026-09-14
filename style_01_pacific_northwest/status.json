@@ -1,0 +1,26 @@
+{
+  "style": "Pacific Northwest Modern",
+  "expected": 10,
+  "saved": 10,
+  "state": "reviewed",
+  "selected_outputs": {
+    "01_moodboard.png": "01_moodboard.png",
+    "02_palette.png": "02_palette.png",
+    "03_example_living.png": "03_example_living.png",
+    "04_example_bedroom.png": "04_example_bedroom.png",
+    "05_example_dining.png": "05_example_dining.png",
+    "condo_21_Living_Wide.png": "condo_21_Living_Wide.png",
+    "condo_20_Living_Alternate.png": "condo_20_Living_Alternate.png",
+    "condo_23_Dining_Wide.png": "condo_23_Dining_Wide.png",
+    "condo_31_Bedroom_Primary_Wide.png": "condo_31_Bedroom_Primary_Wide.png",
+    "condo_10_Solarium.png": "condo_10_Solarium.png"
+  },
+  "review": {
+    "reviewed_at": "2026-09-13",
+    "approved": true,
+    "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+    "style_signature": "forest-green tailored sofa; round dark-oak coffee table; oak media cabinet; oak rectangular dining table and six oak chairs; black shallow dome pendants",
+    "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+    "pending_corrections": []
+  }
+}

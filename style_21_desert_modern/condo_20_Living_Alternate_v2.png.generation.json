@@ -1,0 +1,9 @@
+{
+  "folder": "style_21_desert_modern",
+  "file": "condo_20_Living_Alternate_v2.png",
+  "src": "condo_20_Living_Alternate.png",
+  "prompt": "Correct furniture placement only. Remove sofa from against the RIGHT TV wall. Place the SAME sand sofa at LEFT FOREGROUND, mostly cropped by the left frame edge, facing the TV on RIGHT. Move the same leather lounge chair toward center-right angled inward and keep travertine coffee table between sofa and TV. Keep architecture, kitchen, camera and style unchanged. Dining should repeat the ROUND walnut four-seat table from living-wide anchor, located before island on left, not against TV wall.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/condo_20_Living_Alternate.png"
+  ]
+}

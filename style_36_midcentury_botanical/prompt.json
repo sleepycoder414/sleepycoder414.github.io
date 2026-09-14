@@ -1,0 +1,299 @@
+{
+  "style": {
+    "id": "36",
+    "slug": "midcentury_botanical",
+    "name": "Botanical Midcentury",
+    "blend": "Midcentury modern + biophilic",
+    "definition": "Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents.",
+    "materials": "walnut; fern velvet; cane; terracotta; botanical cotton",
+    "colors": [
+      "#E7E3D3",
+      "#4E7053",
+      "#B98458",
+      "#708F79",
+      "#594334"
+    ],
+    "living": "fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art",
+    "bed": "walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps",
+    "solarium": "teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants",
+    "implement": "Use a small number of larger plants near glazing and repeat walnut in all main rooms.",
+    "avoid": "Avoid blocking window handles and walkways with pots.",
+    "fit": "Good with compact furniture",
+    "folder": "style_36_midcentury_botanical"
+  },
+  "tool": "built-in image_gen",
+  "jobs": [
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Botanical Midcentury'; no other text or brand names. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Botanical Midcentury. Five large clear swatches labeled exactly #E7E3D3, #4E7053, #B98458, #708F79, #594334 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Botanical Midcentury\". No room photographs. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid blocking window handles and walkways with pots."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid blocking window handles and walkways with pots."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid blocking window handles and walkways with pots. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room)."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Botanical Midcentury: Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials walnut; fern velvet; cane; terracotta; botanical cotton; colors #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furnish this BEDROOM ONLY with walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Botanical Midcentury: Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials walnut; fern velvet; cane; terracotta; botanical cotton; colors #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furnish this SOLARIUM ONLY with teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Botanical Midcentury'; no other text or brand names. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Botanical Midcentury. Five large clear swatches labeled exactly #E7E3D3, #4E7053, #B98458, #708F79, #594334 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Botanical Midcentury\". No room photographs. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Botanical Midcentury: Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials walnut; fern velvet; cane; terracotta; botanical cotton; colors #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furnish this SOLARIUM ONLY with teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid blocking window handles and walkways with pots.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_36_midcentury_botanical/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_20_Living_Alternate_v2.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Correct image 1 only: REMOVE the invented large exterior window at the far LEFT behind the dining area and island. Replace that entire window with the solid warm-white interior wall shown in empty architectural image 2. This kitchen end has NO window, NO balcony, NO exterior opening. Retain all furniture, plants, green sofa, cane chair, walnut cabinet and kidney coffee table exactly as image 1. Retain camera, dining table position, island, cabinetry and floor. Only fix that false architectural opening. Photorealistic condo furnishing concept.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_36_midcentury_botanical/condo_20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png"
+      ]
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid blocking window handles and walkways with pots.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_36_midcentury_botanical/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_36_midcentury_botanical/05_example_dining.png"
+      ]
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid blocking window handles and walkways with pots. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_36_midcentury_botanical/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Botanical Midcentury: Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials walnut; fern velvet; cane; terracotta; botanical cotton; colors #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furnish this BEDROOM ONLY with walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_36_midcentury_botanical/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "54afbfa7fed9339a87e47a2f8239393c49f353b22b50f10103351f4a8db7fed8"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "07d8d7e88e64b9c902c60823c9713a68ed7f5d974ba0fc464a8390adfa42078b"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "829233cbf7db7aabadcd5bfb02ce01f61e000cd22902a532f848c52f6e881221"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "32877235ef43f4721e3ae3b2f724884ef21bcb9e4a6bf4e2d6220f0e843071f7"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "de2972081595fc81d56cad1a30bf7268030b99cce4a77a9b3376d4adc733b41c"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "1de36c186f4b765e134a4c222f6f2dc45bdcf11ecfa8cfc9902d556f1fbfd92a"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate_v2.png",
+      "sha256": "2e29c6e6bae37a112615b8189dd548443f89800b31c6525ac30347975ced6032"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "88c01cb0d13e2662784aab152e5383c9fd792a93a732730a83cabfef78921f9d"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "312ca150ee3c16ad069ac51ec6d9eed0b6f027e5f7490f8d39d5f7eb902ee969"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium.png",
+      "sha256": "2a47ddf05d48a0c826d38eb8475c73cadc844217b12767ca4778a0ec60d3564f"
+    }
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Botanical Midcentury'; no other text or brand names. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Botanical Midcentury. Five large clear swatches labeled exactly #E7E3D3, #4E7053, #B98458, #708F79, #594334 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Botanical Midcentury\". No room photographs. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid blocking window handles and walkways with pots."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid blocking window handles and walkways with pots."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Botanical Midcentury (Midcentury modern + biophilic). Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials: walnut; fern velvet; cane; terracotta; botanical cotton. Palette: #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furniture design language: fern-green walnut-leg sofa; walnut cane lounge chair; kidney-shaped walnut coffee table; walnut tapered media console; compact walnut table with four molded timber chairs; cream saucer pendant; bold botanical art. Bedroom: walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Outdoor: teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid blocking window handles and walkways with pots. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Botanical Midcentury: Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials walnut; fern velvet; cane; terracotta; botanical cotton; colors #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furnish this BEDROOM ONLY with walnut spindle queen; ivory linen and fern quilt; walnut nightstands with terracotta lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Botanical Midcentury: Classic tapered timber furniture surrounded by layered greens and leaf-shaped accents. Materials walnut; fern velvet; cane; terracotta; botanical cotton; colors #E7E3D3, #4E7053, #B98458, #708F79, #594334. Furnish this SOLARIUM ONLY with teak outdoor lounge seating with fern performance cushions; teak dining set; generous grouped plants. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ]
+}

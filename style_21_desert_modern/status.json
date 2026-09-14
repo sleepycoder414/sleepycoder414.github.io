@@ -1,0 +1,26 @@
+{
+  "style": "Desert Modern",
+  "expected": 10,
+  "saved": 10,
+  "state": "reviewed",
+  "selected_outputs": {
+    "01_moodboard.png": "01_moodboard.png",
+    "02_palette.png": "02_palette.png",
+    "03_example_living.png": "03_example_living.png",
+    "04_example_bedroom.png": "04_example_bedroom.png",
+    "05_example_dining.png": "05_example_dining.png",
+    "condo_21_Living_Wide.png": "condo_21_Living_Wide.png",
+    "condo_20_Living_Alternate.png": "condo_20_Living_Alternate_v2.png",
+    "condo_23_Dining_Wide.png": "condo_23_Dining_Wide_v2.png",
+    "condo_31_Bedroom_Primary_Wide.png": "condo_31_Bedroom_Primary_Wide_v2.png",
+    "condo_10_Solarium.png": "condo_10_Solarium_v2.png"
+  },
+  "review": {
+    "approved": true,
+    "reviewed_at": "2026-09-13",
+    "style_signature": "sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant",
+    "observations": "Ten assets visually reviewed. Corrected alternate sofa orientation, reverse dining placement, bedroom room-type contamination and outdoor furniture. Selected condo dining is round walnut with four leather chairs. Sand box sofa, leather sling chair, travertine and rust/clay accents clearly match Desert Modern examples.",
+    "limitations": "AI concepts; minor furniture scale, artwork and outdoor glimpse differences between views remain.",
+    "pending_corrections": []
+  }
+}

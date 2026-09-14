@@ -1,0 +1,12 @@
+{
+  "folder": "style_28_modern_cottage",
+  "file": "condo_21_Living_Wide.png",
+  "ref": "21_Living_Wide.png",
+  "kind": "condo",
+  "prompt": "Edit image 1, the EMPTY condo rendering. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid excessive ruffles and decorative shelves along the narrow passage.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_28_modern_cottage/03_example_living.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_28_modern_cottage/05_example_dining.png"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "revision": "empty-shell-v2",
+  "style": "Warm Scandinavian",
+  "signature": "Light sage sofa on delicate pale timber legs; blond oak round pedestal table; blond spindle-back lounge chair; opal globe lamps; soft blue accents and botanical art; birch spindle bed.",
+  "jobs": [
+    {
+      "folder": "style_03_warm_scandinavian",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "prompt": "Edit image 1, the EMPTY condo architectural rendering. Furnish it completely in Warm Scandinavian style, with the same design strength as the supplied GENERIC STYLE EXAMPLES. The examples are furnishing/style references ONLY: transfer furniture silhouettes, fabrics, rugs, lighting and art, NOT their room architecture. Create a convincing designer interior, not a minimally decorated staging. Light, practical Nordic rooms softened by tactile textiles and warm wood rather than stark white. Signature design: Light sage sofa on delicate pale timber legs; blond oak round pedestal table; blond spindle-back lounge chair; opal globe lamps; soft blue accents and botanical art; birch spindle bed. Materials pale ash; birch; wool; cotton; opal glass. Palette #F3EFE5, #D6C3A5, #B7C2AE, #A8B7C1, #535A54. Outdoor language: light teak chairs with sage cushions and matching table. Shared living/dining room, view looking toward kitchen. Put 2.1m sofa in LEFT FOREGROUND living zone near the glazing, facing the solid RIGHT TV wall. One lounge chair near sofa angled inward, a coffee table and rug between sofa and TV, low 1.6m media cabinet with flat TV on RIGHT wall. Small four-person dining table (about 120x75cm, exactly FOUR chairs) in middle distance BEFORE the kitchen island, clear of doorways. No extra sofa. Preserve exact source camera position, lens, framing, walls, ceiling height 2.7m, openings, kitchen footprint/appliances, floor geometry, window mullions, round column and outdoor lake view. Interior wall paint may be subtly coordinated, but no new arches, wall panels, fireplaces or room enlargement. Furnish freely from the empty shell; no requirement to recreate IKEA furniture. Strong style specificity must be visible in at least sofa/headboard silhouette, lighting, rug and furniture construction, not just cushion color. Realistic scale, physical contact shadows, clear circulation, daylight plus warm lamps, polished photoreal architectural visualization. No text, people, collage or watermark. If an additional furnished condo view is supplied, it is the SAME apartment from another camera: repeat its exact furniture family, upholstery, table/chair designs, art and placements while preserving image1 camera. Only one sofa, one living accent chair, one living coffee table, one TV cabinet, and exactly four INDOOR dining chairs across the shared room; show only what this camera naturally sees."
+    },
+    {
+      "folder": "style_03_warm_scandinavian",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "prompt": "Edit image 1, the EMPTY condo architectural rendering. Furnish it completely in Warm Scandinavian style, with the same design strength as the supplied GENERIC STYLE EXAMPLES. The examples are furnishing/style references ONLY: transfer furniture silhouettes, fabrics, rugs, lighting and art, NOT their room architecture. Create a convincing designer interior, not a minimally decorated staging. Light, practical Nordic rooms softened by tactile textiles and warm wood rather than stark white. Signature design: Light sage sofa on delicate pale timber legs; blond oak round pedestal table; blond spindle-back lounge chair; opal globe lamps; soft blue accents and botanical art; birch spindle bed. Materials pale ash; birch; wool; cotton; opal glass. Palette #F3EFE5, #D6C3A5, #B7C2AE, #A8B7C1, #535A54. Outdoor language: light teak chairs with sage cushions and matching table. Same shared room from alternate angle toward kitchen on left. TV and low media cabinet on large RIGHT wall in foreground/midground. Sofa is opposite TV, partly cropped in LEFT foreground; one lounge chair and coffee table occupy living foreground. The same small dining table with exactly FOUR chairs is farther back near kitchen, not inside kitchen work aisle. Preserve exact source camera position, lens, framing, walls, ceiling height 2.7m, openings, kitchen footprint/appliances, floor geometry, window mullions, round column and outdoor lake view. Interior wall paint may be subtly coordinated, but no new arches, wall panels, fireplaces or room enlargement. Furnish freely from the empty shell; no requirement to recreate IKEA furniture. Strong style specificity must be visible in at least sofa/headboard silhouette, lighting, rug and furniture construction, not just cushion color. Realistic scale, physical contact shadows, clear circulation, daylight plus warm lamps, polished photoreal architectural visualization. No text, people, collage or watermark. If an additional furnished condo view is supplied, it is the SAME apartment from another camera: repeat its exact furniture family, upholstery, table/chair designs, art and placements while preserving image1 camera. Only one sofa, one living accent chair, one living coffee table, one TV cabinet, and exactly four INDOOR dining chairs across the shared room; show only what this camera naturally sees."
+    },
+    {
+      "folder": "style_03_warm_scandinavian",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "prompt": "Edit image 1, the EMPTY condo architectural rendering. Furnish it completely in Warm Scandinavian style, with the same design strength as the supplied GENERIC STYLE EXAMPLES. The examples are furnishing/style references ONLY: transfer furniture silhouettes, fabrics, rugs, lighting and art, NOT their room architecture. Create a convincing designer interior, not a minimally decorated staging. Light, practical Nordic rooms softened by tactile textiles and warm wood rather than stark white. Signature design: Light sage sofa on delicate pale timber legs; blond oak round pedestal table; blond spindle-back lounge chair; opal globe lamps; soft blue accents and botanical art; birch spindle bed. Materials pale ash; birch; wool; cotton; opal glass. Palette #F3EFE5, #D6C3A5, #B7C2AE, #A8B7C1, #535A54. Outdoor language: light teak chairs with sage cushions and matching table. Reverse view from dining toward living and glazing. Small four-person dining table with exactly FOUR chairs in FOREGROUND. Sofa in living background against short solid wall just right of corner glazing and LEFT of bedroom doorway, facing TV opposite (TV/media cabinet near LEFT edge or off-camera, do not invent a TV on glazing). One lounge chair toward left glazing, coffee table and rug in front of sofa. Preserve bedroom doorway at right and visible kitchen counter at lower right. Preserve exact source camera position, lens, framing, walls, ceiling height 2.7m, openings, kitchen footprint/appliances, floor geometry, window mullions, round column and outdoor lake view. Interior wall paint may be subtly coordinated, but no new arches, wall panels, fireplaces or room enlargement. Furnish freely from the empty shell; no requirement to recreate IKEA furniture. Strong style specificity must be visible in at least sofa/headboard silhouette, lighting, rug and furniture construction, not just cushion color. Realistic scale, physical contact shadows, clear circulation, daylight plus warm lamps, polished photoreal architectural visualization. No text, people, collage or watermark. If an additional furnished condo view is supplied, it is the SAME apartment from another camera: repeat its exact furniture family, upholstery, table/chair designs, art and placements while preserving image1 camera. Only one sofa, one living accent chair, one living coffee table, one TV cabinet, and exactly four INDOOR dining chairs across the shared room; show only what this camera naturally sees."
+    },
+    {
+      "folder": "style_03_warm_scandinavian",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "prompt": "Edit image 1, the EMPTY condo architectural rendering. Furnish it completely in Warm Scandinavian style, with the same design strength as the supplied GENERIC STYLE EXAMPLES. The examples are furnishing/style references ONLY: transfer furniture silhouettes, fabrics, rugs, lighting and art, NOT their room architecture. Create a convincing designer interior, not a minimally decorated staging. Light, practical Nordic rooms softened by tactile textiles and warm wood rather than stark white. Signature design: Light sage sofa on delicate pale timber legs; blond oak round pedestal table; blond spindle-back lounge chair; opal globe lamps; soft blue accents and botanical art; birch spindle bed. Materials pale ash; birch; wool; cotton; opal glass. Palette #F3EFE5, #D6C3A5, #B7C2AE, #A8B7C1, #535A54. Outdoor language: light teak chairs with sage cushions and matching table. Primary bedroom. One queen bed with 1524x2032mm mattress, headboard against broad blank wall on RIGHT, foot pointing toward foreground. EXACTLY two compact nightstands flanking headboard, each with a table lamp. Rug partly under bed, styled bedding and art above headboard. Do not put furniture against left glazing, do not obstruct slider. No dining/TV setup inside this bedroom. Preserve exact source camera position, lens, framing, walls, ceiling height 2.7m, openings, kitchen footprint/appliances, floor geometry, window mullions, round column and outdoor lake view. Interior wall paint may be subtly coordinated, but no new arches, wall panels, fireplaces or room enlargement. Furnish freely from the empty shell; no requirement to recreate IKEA furniture. Strong style specificity must be visible in at least sofa/headboard silhouette, lighting, rug and furniture construction, not just cushion color. Realistic scale, physical contact shadows, clear circulation, daylight plus warm lamps, polished photoreal architectural visualization. No text, people, collage or watermark. If an additional furnished condo view is supplied, it is the SAME apartment from another camera: repeat its exact furniture family, upholstery, table/chair designs, art and placements while preserving image1 camera. Only one sofa, one living accent chair, one living coffee table, one TV cabinet, and exactly four INDOOR dining chairs across the shared room; show only what this camera naturally sees."
+    },
+    {
+      "folder": "style_03_warm_scandinavian",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "prompt": "Edit image 1, the EMPTY condo architectural rendering. Furnish it completely in Warm Scandinavian style, with the same design strength as the supplied GENERIC STYLE EXAMPLES. The examples are furnishing/style references ONLY: transfer furniture silhouettes, fabrics, rugs, lighting and art, NOT their room architecture. Create a convincing designer interior, not a minimally decorated staging. Light, practical Nordic rooms softened by tactile textiles and warm wood rather than stark white. Signature design: Light sage sofa on delicate pale timber legs; blond oak round pedestal table; blond spindle-back lounge chair; opal globe lamps; soft blue accents and botanical art; birch spindle bed. Materials pale ash; birch; wool; cotton; opal glass. Palette #F3EFE5, #D6C3A5, #B7C2AE, #A8B7C1, #535A54. Outdoor language: light teak chairs with sage cushions and matching table. Enclosed solarium, black tile floor, wood ceiling, full exterior glazing, massive round structural column on RIGHT. Furnish with outdoor-rated furniture: compact four-seat outdoor dining set on LEFT/MIDDLE floor area, one two-seat lounge grouping with coffee/side table on RIGHT/foreground left of column. Potted plants tucked into corners. Clear passage beside glazing and sliders. Any glimpse of indoor furniture through LEFT glass must match the living schedule. Preserve exact source camera position, lens, framing, walls, ceiling height 2.7m, openings, kitchen footprint/appliances, floor geometry, window mullions, round column and outdoor lake view. Interior wall paint may be subtly coordinated, but no new arches, wall panels, fireplaces or room enlargement. Furnish freely from the empty shell; no requirement to recreate IKEA furniture. Strong style specificity must be visible in at least sofa/headboard silhouette, lighting, rug and furniture construction, not just cushion color. Realistic scale, physical contact shadows, clear circulation, daylight plus warm lamps, polished photoreal architectural visualization. No text, people, collage or watermark. If an additional furnished condo view is supplied, it is the SAME apartment from another camera: repeat its exact furniture family, upholstery, table/chair designs, art and placements while preserving image1 camera. Only one sofa, one living accent chair, one living coffee table, one TV cabinet, and exactly four INDOOR dining chairs across the shared room; show only what this camera naturally sees."
+    }
+  ],
+  "tool": "built-in image_gen",
+  "input_roles": [
+    "Empty condo camera/architecture target",
+    "Generic style furnishing reference",
+    "Generic dining reference",
+    "Furnished living-wide consistency reference when applicable"
+  ],
+  "generation_records": [
+    {
+      "folder": "style_03_warm_scandinavian",
+      "input": "condo_10_Solarium.png",
+      "file": "condo_10_Solarium_v2.png",
+      "prompt": "Correct only indoor glimpse behind left glass: remove bed and bedroom furnishings; show back of a light sage sofa with pale oak TV cabinet and TV on rear solid wall in warm Scandinavian style. This glass overlooks living room. Keep all outdoor furniture, column, glazing, camera and lighting unchanged.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_03_warm_scandinavian/condo_10_Solarium.png"
+      ]
+    }
+  ],
+  "historical_corrections": [
+    {
+      "folder": "style_03_warm_scandinavian",
+      "file": "condo_20_Living_Alternate_v2.png",
+      "prompt": "Edit image1 with ONLY these corrections. Remove the invented exterior glazed door/window at far back LEFT beyond dining and replace with continuous plain warm cream opaque wall matching the empty architectural reference image2. Make the dining table rectangular pale ash, same as image3, with exactly FOUR spindle chairs. Keep camera/framing, sofa, chair, coffee table, TV, cabinet, botanical artwork, kitchen and all other furnishings in image1 unchanged. Image2 is architecture reference; image3 is matching furniture reference."
+    }
+  ],
+  "base_image_prompts": [
+    {
+      "file": "01_moodboard.png",
+      "prompt": "Use case: stylized-concept. Create one premium interior designer material mood board, editorial flat lay of physical samples with miniature furniture inspiration cutouts. Style: Warm Scandinavian. Light, practical Nordic rooms softened by tactile textiles and warm wood rather than stark white. Materials: pale ash; birch; wool; cotton; opal glass. Palette: #F3EFE5, #D6C3A5, #B7C2AE, #A8B7C1, #535A54. LOCKED WHOLE-CONDO SCHEDULE: Living/dining: pale sage tailored sofa; round pale-oak coffee table; pale-oak media cabinet; pale-ash rectangular dining table and six spindle chairs; opal globe pendants. Bedrooms: birch spindle beds, white cotton, blue-gray throws, simple botanical prints. Solarium: light teak chairs with sage cushions and matching table. Repeat identical designs, colors and materials across views. Text only: 'Warm Scandinavian'. Include five color swatches. No invented brands. Clear separation, tactile photoreal textures.",
+      "folder": "style_03_warm_scandinavian"
+    },
+    {
+      "file": "02_palette.png",
+      "prompt": "Use case: infographic-diagram. Create one elegant color palette board for Warm Scandinavian, five large solid swatches labeled exactly #F3EFE5, #D6C3A5, #B7C2AE, #A8B7C1, #535A54 in that order. Roles in order: Base, Timber or secondary, Main accent, Supporting accent, Contrast. Small matching material samples underneath: pale ash; birch; wool; cotton; opal glass. Warm neutral background, crisp typography, generous spacing. Title 'Warm Scandinavian'. Treat hex labels as exact text.",
+      "folder": "style_03_warm_scandinavian"
+    },
+    {
+      "file": "03_example_living.png",
+      "prompt": "Use case: photorealistic-natural. One generic editorial interior photograph of a beautiful living room in Warm Scandinavian style. Style: Warm Scandinavian. Light, practical Nordic rooms softened by tactile textiles and warm wood rather than stark white. Materials: pale ash; birch; wool; cotton; opal glass. Palette: #F3EFE5, #D6C3A5, #B7C2AE, #A8B7C1, #535A54. LOCKED WHOLE-CONDO SCHEDULE: Living/dining: pale sage tailored sofa; round pale-oak coffee table; pale-oak media cabinet; pale-ash rectangular dining table and six spindle chairs; opal globe pendants. Bedrooms: birch spindle beds, white cotton, blue-gray throws, simple botanical prints. Solarium: light teak chairs with sage cushions and matching table. Repeat identical designs, colors and materials across views. This is a generic inspiration room, not the condo. Human-scale apartment interior, realistic proportions and achievable furniture, soft daylight, rich material texture, landscape 3:2 composition, no collage, no people, no text, no watermark.",
+      "folder": "style_03_warm_scandinavian"
+    },
+    {
+      "file": "04_example_bedroom.png",
+      "prompt": "Use case: photorealistic-natural. One generic editorial interior photograph of a beautiful bedroom in Warm Scandinavian style. Style: Warm Scandinavian. Light, practical Nordic rooms softened by tactile textiles and warm wood rather than stark white. Materials: pale ash; birch; wool; cotton; opal glass. Palette: #F3EFE5, #D6C3A5, #B7C2AE, #A8B7C1, #535A54. LOCKED WHOLE-CONDO SCHEDULE: Living/dining: pale sage tailored sofa; round pale-oak coffee table; pale-oak media cabinet; pale-ash rectangular dining table and six spindle chairs; opal globe pendants. Bedrooms: birch spindle beds, white cotton, blue-gray throws, simple botanical prints. Solarium: light teak chairs with sage cushions and matching table. Repeat identical designs, colors and materials across views. This is a generic inspiration room, not the condo. Human-scale apartment interior, realistic proportions and achievable furniture, soft daylight, rich material texture, landscape 3:2 composition, no collage, no people, no text, no watermark.",
+      "folder": "style_03_warm_scandinavian"
+    },
+    {
+      "file": "05_example_dining.png",
+      "prompt": "Use case: photorealistic-natural. One generic editorial interior photograph of a beautiful dining room in Warm Scandinavian style. Style: Warm Scandinavian. Light, practical Nordic rooms softened by tactile textiles and warm wood rather than stark white. Materials: pale ash; birch; wool; cotton; opal glass. Palette: #F3EFE5, #D6C3A5, #B7C2AE, #A8B7C1, #535A54. LOCKED WHOLE-CONDO SCHEDULE: Living/dining: pale sage tailored sofa; round pale-oak coffee table; pale-oak media cabinet; pale-ash rectangular dining table and six spindle chairs; opal globe pendants. Bedrooms: birch spindle beds, white cotton, blue-gray throws, simple botanical prints. Solarium: light teak chairs with sage cushions and matching table. Repeat identical designs, colors and materials across views. This is a generic inspiration room, not the condo. Human-scale apartment interior, realistic proportions and achievable furniture, soft daylight, rich material texture, landscape 3:2 composition, no collage, no people, no text, no watermark.",
+      "folder": "style_03_warm_scandinavian"
+    }
+  ],
+  "provenance_note": "Original base assets retained; missing interrupted-run base slots completed. Base prompts are the original specifications. Rework jobs hold initial condo prompts; generation_records hold exact resumed calls and corrections. Earlier calls may include supplemental constraints recorded in the conversation.",
+  "selected_outputs": {
+    "21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "768608dd9a6f89b57db6425717b7156ec13b2528f5f773edd10d942cee5699dd"
+    },
+    "20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate_v2.png",
+      "sha256": "c41186ca396ddcfba141cd0245db0ce888e310c4d40e3a04546d08366e267397"
+    },
+    "23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "aafce999063cfcabdee74d2ed86d1cefd486ccbcc04044eb503b4a05d98c563c"
+    },
+    "31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "605bf8b16f3f00385f99afbd8d48f0b5826c63c88b9f4bf0b59afced233f1fdf"
+    },
+    "10_Solarium.png": {
+      "file": "condo_10_Solarium_v2.png",
+      "sha256": "880e52d262adeba2caaa5c6fcc8deb3dee4b0c4c22a0781fb1ac40de886ae689"
+    }
+  }
+}

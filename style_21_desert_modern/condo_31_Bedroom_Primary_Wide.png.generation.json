@@ -1,0 +1,13 @@
+{
+  "folder": "style_21_desert_modern",
+  "file": "condo_31_Bedroom_Primary_Wide.png",
+  "ref": "31_Bedroom_Primary_Wide.png",
+  "kind": "condo",
+  "prompt": "Edit image 1, the EMPTY condo rendering. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set. Primary bedroom: queen mattress 1.524 x 2.032m, headboard against RIGHT wall, TWO compact nightstands and TWO table lamps, bedding rug and art. Preserve left sliding glass and separate operable window bay. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid cacti as a theme or artificial desert architecture.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/04_example_bedroom.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/05_example_dining.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/condo_21_Living_Wide.png"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "folder": "style_37_belgian_mediterranean",
+  "file": "condo_21_Living_Wide.png",
+  "ref": "21_Living_Wide.png",
+  "kind": "condo",
+  "prompt": "Edit image 1, the EMPTY condo rendering. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux arches or replacing the fixed kitchen surfaces.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_37_belgian_mediterranean/03_example_living.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_37_belgian_mediterranean/05_example_dining.png"
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "style": {
+    "id": "31",
+    "slug": "shaker_contemporary",
+    "name": "Shaker Contemporary",
+    "blend": "Shaker + warm minimalism",
+    "definition": "Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort.",
+    "materials": "maple; cherry; woven tape; cream cotton; black iron",
+    "colors": [
+      "#F0E9DB",
+      "#CDAA7B",
+      "#9C6344",
+      "#7B856B",
+      "#343B35"
+    ],
+    "living": "cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant",
+    "bed": "cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps",
+    "solarium": "teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table",
+    "implement": "Choose visible joinery and practical drawers; let proportion supply the decoration.",
+    "avoid": "Avoid faux barn doors and rustic clutter.",
+    "fit": "Good with compact furniture",
+    "folder": "style_31_shaker_contemporary"
+  },
+  "tool": "built-in image_gen",
+  "jobs": [
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Shaker Contemporary'; no other text or brand names. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Shaker Contemporary. Five large clear swatches labeled exactly #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Shaker Contemporary\". No room photographs. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux barn doors and rustic clutter."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux barn doors and rustic clutter."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux barn doors and rustic clutter. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room)."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Shaker Contemporary: Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials maple; cherry; woven tape; cream cotton; black iron; colors #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furnish this BEDROOM ONLY with cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Shaker Contemporary: Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials maple; cherry; woven tape; cream cotton; black iron; colors #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furnish this SOLARIUM ONLY with teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Shaker Contemporary'; no other text or brand names. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Shaker Contemporary. Five large clear swatches labeled exactly #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Shaker Contemporary\". No room photographs. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Shaker Contemporary: Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials maple; cherry; woven tape; cream cotton; black iron; colors #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furnish this SOLARIUM ONLY with teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux barn doors and rustic clutter.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_31_shaker_contemporary/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_20_Living_Alternate_v2.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux barn doors and rustic clutter. CRITICAL: Round cherry dining table with four ladderback chairs must be at REAR LEFT before the kitchen island, NOT along RIGHT TV wall beside refrigerator. Right wall between fridge and TV remains clear. Preserve sofa LEFT foreground, TV RIGHT, original empty room camera.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_31_shaker_contemporary/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_20_Living_Alternate_v3.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit this furnished image only. Move the cherry round dining table and its four ladderback chairs FORWARD toward camera and LEFT of the island, so table is visible in front of island, beside sofa's far end. It must not hide BEHIND kitchen island or overlap counter. Leftmost chairs may crop out of frame. Keep entire living furniture, camera, room shell, cream kitchen and right TV wall unchanged.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_31_shaker_contemporary/condo_20_Living_Alternate_v2.png"
+      ]
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux barn doors and rustic clutter.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_31_shaker_contemporary/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_31_shaker_contemporary/05_example_dining.png"
+      ]
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux barn doors and rustic clutter. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_31_shaker_contemporary/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Shaker Contemporary: Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials maple; cherry; woven tape; cream cotton; black iron; colors #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furnish this BEDROOM ONLY with cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_31_shaker_contemporary/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "bb012675750b4c82a94a1540d962f28441895e66fbedc6b48eb0e66c00ddb538"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "4d4cfe5412af97ca94851d46e9c23fcafdd7dd8f9f37cfb999e2e6bd93941324"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "7d0a8c0a17a98502cc4359a08dafed74046358143045f770aea505cd4fc484dc"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "530f817cc6c41ae1a16883168e9c260612698b734a1d959e89ca7df9f6d145ed"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "9cb2a77c6de1b5830b5f0816eca634fe662373e1928befebe9cd9693cf768b15"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "60d4db4285d56a08a04d871dc47f1f3adb45e355d524aa0cbfd029204a633c29"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate_v3.png",
+      "sha256": "e76f78461c36b0442fce80c18932678b4dd0e42f6c7d9c54ac9f808af83edfa0"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "8ee2c23e4d718fe8ff75a22e5171fdc56cd84bb39ea7b45c0d8e6e2b6eb3e75e"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "403ba24c8d37c315ce95e4b59d71949fb2d9e4918dfbc7319e32f2abe5143e06"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium.png",
+      "sha256": "1816f578dc66f9214db0fa6ed4a9f57b04fcdf8e3c59570207d61580652fa336"
+    }
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Shaker Contemporary'; no other text or brand names. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Shaker Contemporary. Five large clear swatches labeled exactly #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Shaker Contemporary\". No room photographs. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux barn doors and rustic clutter."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux barn doors and rustic clutter."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Shaker Contemporary (Shaker + warm minimalism). Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials: maple; cherry; woven tape; cream cotton; black iron. Palette: #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furniture design language: cream upright sofa on cherry legs; cherry woven-seat armchair; rectangular cherry coffee table; cherry paneled media cabinet; compact cherry table with four ladder-back woven-seat chairs; simple cream dome pendant. Bedroom: cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Outdoor: teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux barn doors and rustic clutter. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Shaker Contemporary: Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials maple; cherry; woven tape; cream cotton; black iron; colors #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furnish this BEDROOM ONLY with cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Shaker Contemporary: Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials maple; cherry; woven tape; cream cotton; black iron; colors #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furnish this SOLARIUM ONLY with teak slat outdoor lounge furniture with sage pads; simple teak four-seat dining table. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ]
+}

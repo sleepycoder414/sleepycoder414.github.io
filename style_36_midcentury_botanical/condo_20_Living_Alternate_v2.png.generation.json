@@ -1,0 +1,11 @@
+{
+  "folder": "style_36_midcentury_botanical",
+  "file": "condo_20_Living_Alternate_v2.png",
+  "ref": "20_Living_Alternate.png",
+  "kind": "condo",
+  "prompt": "Correct image 1 only: REMOVE the invented large exterior window at the far LEFT behind the dining area and island. Replace that entire window with the solid warm-white interior wall shown in empty architectural image 2. This kitchen end has NO window, NO balcony, NO exterior opening. Retain all furniture, plants, green sofa, cane chair, walnut cabinet and kidney coffee table exactly as image 1. Retain camera, dining table position, island, cabinetry and floor. Only fix that false architectural opening. Photorealistic condo furnishing concept.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_36_midcentury_botanical/condo_20_Living_Alternate.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "n": 20,
+  "file": "condo_20_Living_Alternate_v2.png",
+  "src": "condo_20_Living_Alternate.png",
+  "prompt": "Edit only the invented exterior window at the far back LEFT behind dining table. Replace all that blue sky, window frame and view with a solid warm cream wall with layered vintage framed artwork. No exterior opening at that far end. Keep every other object, exact camera, burgundy sofa, patterned chair, walnut furniture, rugs and four seat dining set unchanged.",
+  "folder": "style_20_curated_maximalism",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_20_curated_maximalism/condo_20_Living_Alternate.png"
+  ]
+}

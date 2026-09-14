@@ -1,0 +1,11 @@
+{
+  "folder": "style_30_french_country_light",
+  "file": "condo_31_Bedroom_Primary_Wide.png",
+  "ref": "31_Bedroom_Primary_Wide.png",
+  "kind": "condo",
+  "prompt": "Edit image1 EMPTY BEDROOM render. Style Light French Country: Weathered timber, gentle curves and washed colors interpreted with a light hand. Materials limed oak; linen; cane; aged iron; faded blue cotton; colors #EFE8D9, #B7C4C2, #B9A388, #817D6A, #D1BAAA. Furnish this BEDROOM ONLY with limed-oak curved queen headboard; white linen with faded blue quilt; two oak nightstands and cream urn lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_30_french_country_light/04_example_bedroom.png"
+  ]
+}

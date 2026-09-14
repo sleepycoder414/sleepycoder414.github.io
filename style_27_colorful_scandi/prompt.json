@@ -1,0 +1,303 @@
+{
+  "style": {
+    "id": "27",
+    "slug": "colorful_scandi",
+    "name": "Colorful Scandinavian",
+    "blend": "Scandinavian + contemporary color",
+    "definition": "Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow.",
+    "materials": "birch; cotton; cobalt lacquer; striped wool; opal glass",
+    "colors": [
+      "#F3EDD9",
+      "#759DB3",
+      "#BE493B",
+      "#E3CB78",
+      "#AEB99A"
+    ],
+    "living": "dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug",
+    "bed": "birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps",
+    "solarium": "light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table",
+    "implement": "Keep colored pieces small and repeat each accent twice for coherence.",
+    "avoid": "Avoid changing every surface to a different saturated color.",
+    "fit": "Good with compact furniture",
+    "folder": "style_27_colorful_scandi"
+  },
+  "tool": "built-in image_gen",
+  "jobs": [
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Colorful Scandinavian'; no other text or brand names. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Colorful Scandinavian. Five large clear swatches labeled exactly #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Colorful Scandinavian\". No room photographs. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid changing every surface to a different saturated color."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid changing every surface to a different saturated color."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid changing every surface to a different saturated color. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room)."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Colorful Scandinavian: Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials birch; cotton; cobalt lacquer; striped wool; opal glass; colors #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furnish this BEDROOM ONLY with birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Colorful Scandinavian: Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials birch; cotton; cobalt lacquer; striped wool; opal glass; colors #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furnish this SOLARIUM ONLY with light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Colorful Scandinavian'; no other text or brand names. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Colorful Scandinavian. Five large clear swatches labeled exactly #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Colorful Scandinavian\". No room photographs. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Colorful Scandinavian: Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials birch; cotton; cobalt lacquer; striped wool; opal glass; colors #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furnish this SOLARIUM ONLY with light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid changing every surface to a different saturated color.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_27_colorful_scandi/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_27_colorful_scandi/05_example_dining.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_27_colorful_scandi/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid changing every surface to a different saturated color.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_27_colorful_scandi/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_27_colorful_scandi/05_example_dining.png"
+      ]
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid changing every surface to a different saturated color. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room).",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_27_colorful_scandi/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_27_colorful_scandi/05_example_dining.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_27_colorful_scandi/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_23_Dining_Wide_v2.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid changing every surface to a different saturated color. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_27_colorful_scandi/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Colorful Scandinavian: Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials birch; cotton; cobalt lacquer; striped wool; opal glass; colors #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furnish this BEDROOM ONLY with birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_27_colorful_scandi/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "c5d5e2c6ed8589d28353042660254dd53b1cd3780fe3c61962c0ef147547923f"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "a41fbd5bab290bc199d933ce592a47321f6bca9e62e5a7b460fef67f39e0b4e5"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "b555209747d8424348df6a0ef6c6046e8327cf14172e4000dd06ab31dbb26370"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "2a6abf9261eac60ea2703a9ec0ed3d7d09828a4e68792116523d946530604efd"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "20d167212b93fe270f1a2b2325279d5b9960addc316ac92567d11243d8fb3b67"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "78f1a4075987ddfe7169638a7f81a237cc7cf4012c9b74a3fa67c376cfc89487"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate.png",
+      "sha256": "542a373aa498888744557a1c0fc3d7c398e97069499134b18b8766e2459baed2"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide_v2.png",
+      "sha256": "9f17be64a50cbd0ee01cd9907c825a9a0942db93779bf7e59e1877266c5b20d4"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "8d46139acfa084b8807d5da76666e8475c50c73e32bd11682e6c1809f0a529a6"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium.png",
+      "sha256": "cbb4ad3efcb224a84b438eae97a79b6b2c50fb234e5ccc4124dbeab31c6e606f"
+    }
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Colorful Scandinavian'; no other text or brand names. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Colorful Scandinavian. Five large clear swatches labeled exactly #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Colorful Scandinavian\". No room photographs. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid changing every surface to a different saturated color."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid changing every surface to a different saturated color."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid changing every surface to a different saturated color. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Colorful Scandinavian: Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials birch; cotton; cobalt lacquer; striped wool; opal glass; colors #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furnish this BEDROOM ONLY with birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Colorful Scandinavian: Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials birch; cotton; cobalt lacquer; striped wool; opal glass; colors #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furnish this SOLARIUM ONLY with light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ]
+}

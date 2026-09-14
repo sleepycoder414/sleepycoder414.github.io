@@ -1,0 +1,14 @@
+{
+  "reviewed_at": "2026-09-13",
+  "approved": true,
+  "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+  "style_signature": "cream linen sofa; round pale-stone coffee table; oak media cabinet; oak rectangular table and six rush-seat chairs; woven pendants",
+  "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+  "resolved_corrections": [
+    {
+      "file": "condo_20_Living_Alternate.png",
+      "required_change": "Edit this image only: the large exterior sliding glass door between refrigerator and TV is a hallucination. Completely remove that opening, view and curtains and replace with a continuous solid warm cream plaster wall, with one framed terracotta abstract artwork. Keep every other object, Mediterranean furnishings, camera and lighting exactly unchanged."
+    }
+  ],
+  "pending_corrections": []
+}

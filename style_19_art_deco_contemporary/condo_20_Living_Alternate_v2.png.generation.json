@@ -1,0 +1,10 @@
+{
+  "n": 19,
+  "file": "condo_20_Living_Alternate_v2.png",
+  "src": "condo_20_Living_Alternate.png",
+  "prompt": "Edit only the invented exterior glass door behind the dining table between kitchen and TV. Fill it completely with solid cream wall and one Art Deco artwork. There is no exterior opening on this wall. Preserve every other object, camera, emerald sofa, burgundy chair, walnut furniture, brass, rug and dining set.",
+  "folder": "style_19_art_deco_contemporary",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_19_art_deco_contemporary/condo_20_Living_Alternate.png"
+  ]
+}

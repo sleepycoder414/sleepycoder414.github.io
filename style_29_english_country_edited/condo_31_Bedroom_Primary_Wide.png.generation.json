@@ -1,0 +1,11 @@
+{
+  "folder": "style_29_english_country_edited",
+  "file": "condo_31_Bedroom_Primary_Wide.png",
+  "ref": "31_Bedroom_Primary_Wide.png",
+  "kind": "condo",
+  "prompt": "Edit image1 EMPTY BEDROOM render. Style Edited English Country: Traditional comfort and collected pattern with fewer, better-scaled pieces. Materials walnut; moss velvet; tartan wool; aged brass; botanical cotton; colors #E9E0CE, #586445, #A46855, #705140, #B4A078. Furnish this BEDROOM ONLY with walnut gently curved queen headboard; ivory quilt; moss and russet plaid throw; walnut nightstands and brass pleated lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_29_english_country_edited/04_example_bedroom.png"
+  ]
+}

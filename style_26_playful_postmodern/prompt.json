@@ -1,0 +1,303 @@
+{
+  "style": {
+    "id": "26",
+    "slug": "playful_postmodern",
+    "name": "Playful Postmodern",
+    "blend": "Postmodern + soft contemporary",
+    "definition": "Sculptural shapes and unexpected color pairings create a playful but usable interior.",
+    "materials": "powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo",
+    "colors": [
+      "#EEE9DE",
+      "#B9ACCA",
+      "#6C8A72",
+      "#C96C50",
+      "#DCC56B"
+    ],
+    "living": "lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant",
+    "bed": "cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps",
+    "solarium": "green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set",
+    "implement": "Repeat circles in the table, lamp and artwork while using plain cream walls as breathing room.",
+    "avoid": "Avoid novelty objects that obstruct circulation.",
+    "fit": "Good with compact furniture",
+    "folder": "style_26_playful_postmodern"
+  },
+  "tool": "built-in image_gen",
+  "jobs": [
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Playful Postmodern'; no other text or brand names. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Playful Postmodern. Five large clear swatches labeled exactly #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Playful Postmodern\". No room photographs. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid novelty objects that obstruct circulation."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid novelty objects that obstruct circulation."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid novelty objects that obstruct circulation. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room)."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Playful Postmodern: Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo; colors #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furnish this BEDROOM ONLY with cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Playful Postmodern: Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo; colors #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furnish this SOLARIUM ONLY with green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Playful Postmodern'; no other text or brand names. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Playful Postmodern. Five large clear swatches labeled exactly #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Playful Postmodern\". No room photographs. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Playful Postmodern: Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo; colors #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furnish this SOLARIUM ONLY with green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid novelty objects that obstruct circulation.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_26_playful_postmodern/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_26_playful_postmodern/05_example_dining.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_26_playful_postmodern/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid novelty objects that obstruct circulation.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_26_playful_postmodern/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_26_playful_postmodern/05_example_dining.png"
+      ]
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid novelty objects that obstruct circulation. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room).",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_26_playful_postmodern/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_26_playful_postmodern/05_example_dining.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_26_playful_postmodern/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_23_Dining_Wide_v2.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid novelty objects that obstruct circulation. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL CAMERA ORIENTATION: TV and cream cabinet ONLY on far LEFT edge solid wall, mostly cropped. Lavender sofa at BACK RIGHT against short wall beside glazing; NO TV on this short wall. Four terracotta chairs around cream round table foreground. Preserve empty camera architecture.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_26_playful_postmodern/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Playful Postmodern: Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo; colors #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furnish this BEDROOM ONLY with cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_26_playful_postmodern/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "36e981ba0e545e6b7444cef93a81aaf4f5097ef202b97e530ee27b9414453a35"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "778095ccbaaf2c01abd0cfc1e532c6f844b9a1e0230d28a5b95b2b7306518b89"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "756911e9054dc63e5db544684a0be7de65c140489d05dd41f88c76abd9056d0d"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "12c59011567152b75b261d657b37b59c0d950b63f6c37eb37a4d0152f7f6cd08"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "d3951622df999fee1deafb13dd5366d0ca1fbec05ef308cc0e5e811bc5bdca3a"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "3811e55f671350e2cf9a81ed03379e36491fe21de1045e51e01c9e2042b1a9e3"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate.png",
+      "sha256": "7ab5b4869e440c7e4203b07b84ac32963ab53392dfbc48f51e6c9acb41ab7f5c"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide_v2.png",
+      "sha256": "884d9df15395c98b8e2ea0b84b57b3ee63669ef4c2bf4f9144964df76c73b095"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "63823ebbb05743fc89a7c2be2fc7b9b70ddc7a576dfd2c7be9a693ddfded5648"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium.png",
+      "sha256": "9227ce8261671233b570cc1297fa0b7ba1fa3b14352149408b4f442796ad3cb9"
+    }
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Playful Postmodern'; no other text or brand names. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Playful Postmodern. Five large clear swatches labeled exactly #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Playful Postmodern\". No room photographs. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid novelty objects that obstruct circulation."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid novelty objects that obstruct circulation."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid novelty objects that obstruct circulation. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Playful Postmodern: Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo; colors #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furnish this BEDROOM ONLY with cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Playful Postmodern: Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo; colors #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furnish this SOLARIUM ONLY with green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ]
+}

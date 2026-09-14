@@ -1,0 +1,11 @@
+{
+  "folder": "style_31_shaker_contemporary",
+  "file": "condo_31_Bedroom_Primary_Wide.png",
+  "ref": "31_Bedroom_Primary_Wide.png",
+  "kind": "condo",
+  "prompt": "Edit image1 EMPTY BEDROOM render. Style Shaker Contemporary: Useful timber furniture, modest proportions and precise craftsmanship with contemporary comfort. Materials maple; cherry; woven tape; cream cotton; black iron; colors #F0E9DB, #CDAA7B, #9C6344, #7B856B, #343B35. Furnish this BEDROOM ONLY with cherry spindle queen; cream quilt with sage throw; two modest cherry nightstands and cream table lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_31_shaker_contemporary/04_example_bedroom.png"
+  ]
+}

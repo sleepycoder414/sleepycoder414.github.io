@@ -1,0 +1,11 @@
+{
+  "folder": "style_40_tropical_modern",
+  "file": "condo_20_Living_Alternate.png",
+  "ref": "20_Living_Alternate.png",
+  "kind": "condo",
+  "prompt": "Edit image 1, the EMPTY condo rendering. Style: Tropical Modern (Tropical modernism + contemporary). Airy teak, woven surfaces and broad-leaf greenery with architectural restraint. Materials: teak; cane; ivory linen; palm-green cotton; dark bronze. Palette: #EAE4D5, #4F735E, #AD855B, #B6BA8C, #374941. Furniture design language: ivory teak-frame sofa; palm-green cane lounge chair; rectangular teak coffee table; teak cane-front TV cabinet; round teak table with four cane chairs; woven shallow pendant; large botanical artwork. Bedroom: teak slatted queen; ivory bedding and palm-green throw; teak nightstands with woven-shade lamps. Outdoor: teak and rope outdoor lounge seating with palm-green performance cushions; round teak dining set; broad-leaf plants. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid resort props, bamboo wall cladding or dense indoor plant walls.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_40_tropical_modern/condo_21_Living_Wide.png"
+  ]
+}

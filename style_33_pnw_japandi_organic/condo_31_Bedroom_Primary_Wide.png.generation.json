@@ -1,0 +1,11 @@
+{
+  "folder": "style_33_pnw_japandi_organic",
+  "file": "condo_31_Bedroom_Primary_Wide.png",
+  "ref": "31_Bedroom_Primary_Wide.png",
+  "kind": "condo",
+  "prompt": "Edit image1 EMPTY BEDROOM render. Style Forest Japandi: Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials oak; moss wool; river stone; rice paper; linen; colors #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furnish this BEDROOM ONLY with low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_33_pnw_japandi_organic/04_example_bedroom.png"
+  ]
+}

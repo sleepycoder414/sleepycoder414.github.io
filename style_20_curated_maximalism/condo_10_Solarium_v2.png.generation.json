@@ -1,0 +1,10 @@
+{
+  "n": 20,
+  "file": "condo_10_Solarium_v2.png",
+  "src": "condo_10_Solarium.png",
+  "prompt": "Edit ONLY the interior glimpse through LEFT glass: remove the bed, headboard and bedroom arrangement. This glass looks into the LIVING ROOM. Show the back of the burgundy sofa facing inward toward a walnut TV cabinet and wall television, with vintage gallery art. Keep solarium outdoor rope/wood furniture, patterns, plants, architecture and camera unchanged.",
+  "folder": "style_20_curated_maximalism",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_20_curated_maximalism/condo_10_Solarium.png"
+  ]
+}

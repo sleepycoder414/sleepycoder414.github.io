@@ -1,0 +1,344 @@
+{
+  "style": {
+    "id": "21",
+    "slug": "desert_modern",
+    "name": "Desert Modern",
+    "blend": "Desert modernism",
+    "definition": "Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home.",
+    "materials": "sand linen; saddle leather; travertine; walnut; clay",
+    "colors": [
+      "#E9DDCB",
+      "#C59A71",
+      "#A95E41",
+      "#746955",
+      "#3F3934"
+    ],
+    "living": "sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant",
+    "bed": "walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art",
+    "solarium": "teak sling lounge furniture with rust weatherproof pads; slatted teak dining set",
+    "implement": "Let low silhouettes echo the long glazing; use terracotta in textiles and pots instead of replacing floors.",
+    "avoid": "Avoid cacti as a theme or artificial desert architecture.",
+    "fit": "Good with compact furniture",
+    "folder": "style_21_desert_modern"
+  },
+  "tool": "built-in image_gen",
+  "jobs": [
+    {
+      "folder": "style_21_desert_modern",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Desert Modern'; no other text or brand names. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Desert Modern. Five large clear swatches labeled exactly #E9DDCB, #C59A71, #A95E41, #746955, #3F3934 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Desert Modern\". No room photographs. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid cacti as a theme or artificial desert architecture."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid cacti as a theme or artificial desert architecture."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid cacti as a theme or artificial desert architecture. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room)."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Desert Modern: Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials sand linen; saddle leather; travertine; walnut; clay; colors #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furnish this BEDROOM ONLY with walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Desert Modern: Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials sand linen; saddle leather; travertine; walnut; clay; colors #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furnish this SOLARIUM ONLY with teak sling lounge furniture with rust weatherproof pads; slatted teak dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_21_desert_modern",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Desert Modern'; no other text or brand names. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Desert Modern. Five large clear swatches labeled exactly #E9DDCB, #C59A71, #A95E41, #746955, #3F3934 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Desert Modern\". No room photographs. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set. Solarium: outdoor dining left/middle; outdoor sofa and chair with weatherproof cushions in foreground, coffee table and plants. Preserve black tiled floor, wood ceiling, large black cylindrical pillar RIGHT, glazing and outlook. LEFT interior glass looks into LIVING ROOM, never bedroom: partial sofa-back and TV cabinet only. All solarium seating must show outdoor wood/metal/rope frames; no indoor velvet or fully upholstered dining chairs. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid cacti as a theme or artificial desert architecture.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/05_example_dining.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_10_Solarium_v2.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Desert Modern: Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials sand linen; saddle leather; travertine; walnut; clay; colors #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furnish this SOLARIUM ONLY with teak sling lounge furniture with rust weatherproof pads; slatted teak dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark.",
+      "paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ],
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid cacti as a theme or artificial desert architecture.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/05_example_dining.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_20_Living_Alternate_v2.png",
+      "src": "condo_20_Living_Alternate.png",
+      "prompt": "Correct furniture placement only. Remove sofa from against the RIGHT TV wall. Place the SAME sand sofa at LEFT FOREGROUND, mostly cropped by the left frame edge, facing the TV on RIGHT. Move the same leather lounge chair toward center-right angled inward and keep travertine coffee table between sofa and TV. Keep architecture, kitchen, camera and style unchanged. Dining should repeat the ROUND walnut four-seat table from living-wide anchor, located before island on left, not against TV wall.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/condo_20_Living_Alternate.png"
+      ]
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid cacti as a theme or artificial desert architecture.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/05_example_dining.png"
+      ]
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid cacti as a theme or artificial desert architecture.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/05_example_dining.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_23_Dining_Wide_v2.png",
+      "src": "condo_23_Dining_Wide.png",
+      "prompt": "Correct furniture placement. Move the round walnut four-seat DINING TABLE to NEAR FOREGROUND. Move sand sofa back against the short solid wall beside glazing, with its seat facing toward camera and left TV, not with its back floating in middle of room. Leather chair beside glazing, stone coffee table in front of sofa. Preserve all architecture, camera and furniture designs.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/condo_23_Dining_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set. Primary bedroom: queen mattress 1.524 x 2.032m, headboard against RIGHT wall, TWO compact nightstands and TWO table lamps, bedding rug and art. Preserve left sliding glass and separate operable window bay. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid cacti as a theme or artificial desert architecture.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/04_example_bedroom.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/05_example_dining.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_31_Bedroom_Primary_Wide_v2.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Desert Modern: Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials sand linen; saddle leather; travertine; walnut; clay; colors #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furnish this BEDROOM ONLY with walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+      "src": "../ref/31_Bedroom_Primary_Wide.png",
+      "paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/04_example_bedroom.png"
+      ],
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "2f3cc26a8b9917f1313943c801e023f732d52295b82a3c904464dedbc9286a55"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "72e58208c66fb61a4eed2e9f0ff749ad17e63ba86b12031d1c23964b702adb57"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "c3b7b93a95ff21218435b2b3eefb620c6402a15f07da065a58647a5f5a690f48"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "0cfecb00c445643e39579121a7f32e448e586947d7b46daab73e7f7b1b14de78"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "fe8ec2a146d34ea1f5150e9fc1b495cd4d91a2b25d36cb6eb367bded9490b790"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "a9cfa4f101bcd7e1b7055d6caa0588f0dbddb3514fb01e2619c017d1e534d51e"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate_v2.png",
+      "sha256": "c1e65c210a8677283ff7d484965809c517c54d1490ac0bd5b9400d2963965103"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide_v2.png",
+      "sha256": "4f928f1a5d61647bef09ec95e9ba5a38dcc5fca7dfe54fef2fc9d532dd6f500f"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide_v2.png",
+      "sha256": "45cea0083be2711b5d148640d10780445ced97f60134c3d157348e6417882de7"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium_v2.png",
+      "sha256": "dd02059c386277e279bff4de47dc798d3dbeb44dc66c63f06286f02c45442208"
+    }
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_21_desert_modern",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Desert Modern'; no other text or brand names. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Desert Modern. Five large clear swatches labeled exactly #E9DDCB, #C59A71, #A95E41, #746955, #3F3934 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Desert Modern\". No room photographs. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid cacti as a theme or artificial desert architecture."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid cacti as a theme or artificial desert architecture."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Desert Modern (Desert modernism). Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials: sand linen; saddle leather; travertine; walnut; clay. Palette: #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furniture design language: sand low box sofa; saddle-leather sling chair; rectangular travertine coffee table; walnut slatted TV cabinet; compact rectangular walnut dining table with four saddle-leather chairs; clay dome pendant. Bedroom: walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Outdoor: teak sling lounge furniture with rust weatherproof pads; slatted teak dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid cacti as a theme or artificial desert architecture. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Desert Modern: Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials sand linen; saddle leather; travertine; walnut; clay; colors #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furnish this BEDROOM ONLY with walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Desert Modern: Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials sand linen; saddle leather; travertine; walnut; clay; colors #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furnish this SOLARIUM ONLY with teak sling lounge furniture with rust weatherproof pads; slatted teak dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ]
+}

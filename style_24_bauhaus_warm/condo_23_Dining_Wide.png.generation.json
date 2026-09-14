@@ -1,0 +1,13 @@
+{
+  "folder": "style_24_bauhaus_warm",
+  "file": "condo_23_Dining_Wide.png",
+  "ref": "23_Dining_Wide.png",
+  "kind": "condo",
+  "prompt": "Edit image 1, the EMPTY condo rendering. Style: Warm Bauhaus (Bauhaus + contemporary). Clear geometry, tubular frames and functional furniture balanced by tactile neutrals and controlled primary color. Materials: chrome tube; black leather; oak; wool; lacquer. Palette: #EEE8DD, #242726, #B74332, #D4AA3A, #3D5A85. Furniture design language: cream rectilinear sofa on tubular chrome base; black leather cantilever lounge chair; round glass coffee table on chrome frame; low oak media cabinet; compact rectangular oak table and four chrome cantilever chairs; white globe light; one red-blue-yellow geometric artwork. Bedroom: simple oak queen; cream bedding with mustard throw; black nightstands and spherical opal lamps. Outdoor: black tubular aluminum outdoor lounge chairs with cream mesh cushions; simple metal four-seat dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid filling the room with competing primary-color furniture. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room).",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_24_bauhaus_warm/03_example_living.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_24_bauhaus_warm/05_example_dining.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_24_bauhaus_warm/condo_21_Living_Wide.png"
+  ]
+}

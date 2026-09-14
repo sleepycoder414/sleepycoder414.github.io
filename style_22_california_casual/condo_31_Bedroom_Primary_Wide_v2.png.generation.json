@@ -1,0 +1,11 @@
+{
+  "folder": "style_22_california_casual",
+  "file": "condo_31_Bedroom_Primary_Wide_v2.png",
+  "ref": "31_Bedroom_Primary_Wide.png",
+  "kind": "condo",
+  "prompt": "Edit image1 EMPTY BEDROOM render. Style California Casual: A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials washed oak; ivory cotton; rattan; limestone; muted blue; colors #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furnish this BEDROOM ONLY with washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_22_california_casual/04_example_bedroom.png"
+  ]
+}

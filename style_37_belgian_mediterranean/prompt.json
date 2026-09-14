@@ -1,0 +1,288 @@
+{
+  "style": {
+    "id": "37",
+    "slug": "belgian_mediterranean",
+    "name": "Belgian Mediterranean",
+    "blend": "Belgian linen + Mediterranean",
+    "definition": "Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone.",
+    "materials": "flax linen; weathered oak; limestone; terracotta; woven rush",
+    "colors": [
+      "#E8DECA",
+      "#B7A58C",
+      "#B17959",
+      "#8E8A70",
+      "#62594B"
+    ],
+    "living": "flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant",
+    "bed": "weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps",
+    "solarium": "weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots",
+    "implement": "Make linen the dominant texture and reserve terracotta for lamps, throws and pots.",
+    "avoid": "Avoid faux arches or replacing the fixed kitchen surfaces.",
+    "fit": "Good with compact furniture",
+    "folder": "style_37_belgian_mediterranean"
+  },
+  "tool": "built-in image_gen",
+  "jobs": [
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Belgian Mediterranean'; no other text or brand names. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Belgian Mediterranean. Five large clear swatches labeled exactly #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Belgian Mediterranean\". No room photographs. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux arches or replacing the fixed kitchen surfaces."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux arches or replacing the fixed kitchen surfaces."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux arches or replacing the fixed kitchen surfaces. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room)."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Belgian Mediterranean: Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials flax linen; weathered oak; limestone; terracotta; woven rush; colors #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furnish this BEDROOM ONLY with weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Belgian Mediterranean: Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials flax linen; weathered oak; limestone; terracotta; woven rush; colors #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furnish this SOLARIUM ONLY with weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Belgian Mediterranean'; no other text or brand names. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Belgian Mediterranean. Five large clear swatches labeled exactly #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Belgian Mediterranean\". No room photographs. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Belgian Mediterranean: Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials flax linen; weathered oak; limestone; terracotta; woven rush; colors #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furnish this SOLARIUM ONLY with weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux arches or replacing the fixed kitchen surfaces.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_37_belgian_mediterranean/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux arches or replacing the fixed kitchen surfaces.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_37_belgian_mediterranean/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_37_belgian_mediterranean/05_example_dining.png"
+      ]
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux arches or replacing the fixed kitchen surfaces. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_37_belgian_mediterranean/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Belgian Mediterranean: Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials flax linen; weathered oak; limestone; terracotta; woven rush; colors #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furnish this BEDROOM ONLY with weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_37_belgian_mediterranean/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "47b0ccc795fe2b2cf843a66382c7fe81c83deed31c476bf00f225347ef5d6066"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "505c748b805e9c9705f305a66a455c9b6430238853e0c7473fcbbee0fc8224eb"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "125d3f59e1b072a34721a45ba726242c6e0e449606e45f3e192de53b938bbf6a"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "22e4da9278ef703fce2374c1d18af048c4ad62d73feee34029c51727438e4682"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "f4d2dcb992605092a61c15643e4d27214872479a27257cddf8c91bd6685b8130"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "78ed690505ad2d35ca12b487c07b66d703901e9a2453c339608aeaaac20294ff"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate.png",
+      "sha256": "a64506dea73d5756e706e175ae9d38c68118866169665a96975dd8673a6a2f27"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "3faffbfe45ac37f0ad1987a0546d25fa1bce3ecb55a0a0e772467ca225b82118"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "f2f7c057473073a03d442be99150d9fb5e2ad39de6067d1d650bc47b10761dc5"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium.png",
+      "sha256": "22980aaec8af27524c93b221f8ad2da7119f9c7076b2e4890812c8a86a2dad5f"
+    }
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Belgian Mediterranean'; no other text or brand names. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Belgian Mediterranean. Five large clear swatches labeled exactly #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Belgian Mediterranean\". No room photographs. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux arches or replacing the fixed kitchen surfaces."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux arches or replacing the fixed kitchen surfaces."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux arches or replacing the fixed kitchen surfaces. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Belgian Mediterranean: Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials flax linen; weathered oak; limestone; terracotta; woven rush; colors #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furnish this BEDROOM ONLY with weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_37_belgian_mediterranean",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Belgian Mediterranean: Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials flax linen; weathered oak; limestone; terracotta; woven rush; colors #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furnish this SOLARIUM ONLY with weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "folder": "style_37_belgian_mediterranean",
+  "file": "condo_20_Living_Alternate.png",
+  "ref": "20_Living_Alternate.png",
+  "kind": "condo",
+  "prompt": "Edit image 1, the EMPTY condo rendering. Style: Belgian Mediterranean (Belgian linen + Mediterranean). Relaxed Belgian linen and weathered wood warmed with Mediterranean clay and pale stone. Materials: flax linen; weathered oak; limestone; terracotta; woven rush. Palette: #E8DECA, #B7A58C, #B17959, #8E8A70, #62594B. Furniture design language: flax slipcovered sofa; weathered-oak rush armchair; oval limestone coffee table; weathered-oak media cabinet; rectangular oak table and four rush-seat chairs; oversized flax pendant. Bedroom: weathered-oak queen with flax headboard; ivory linen and clay throw; oak nightstands and clay lamps. Outdoor: weathered teak outdoor sofa and chair with flax performance cushions; teak dining set and clay pots. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid faux arches or replacing the fixed kitchen surfaces.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_37_belgian_mediterranean/condo_21_Living_Wide.png"
+  ]
+}

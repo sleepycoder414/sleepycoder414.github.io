@@ -1,0 +1,299 @@
+{
+  "style": {
+    "id": "39",
+    "slug": "nordic_folk",
+    "name": "Nordic Folk Modern",
+    "blend": "Scandinavian + folk craft",
+    "definition": "Simple pale timber furniture animated by woven pattern and handmade color.",
+    "materials": "pine; woven wool; indigo cotton; red painted wood; glazed ceramic",
+    "colors": [
+      "#ECE3D0",
+      "#405E79",
+      "#AD4D3E",
+      "#CBA956",
+      "#A9B296"
+    ],
+    "living": "cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug",
+    "bed": "pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps",
+    "solarium": "teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set",
+    "implement": "Put the strongest woven pattern on one rug and keep upholstery mostly solid.",
+    "avoid": "Avoid costume-like themed objects or mixing unrelated motifs.",
+    "fit": "Good with compact furniture",
+    "folder": "style_39_nordic_folk"
+  },
+  "tool": "built-in image_gen",
+  "jobs": [
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Nordic Folk Modern'; no other text or brand names. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Nordic Folk Modern. Five large clear swatches labeled exactly #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Nordic Folk Modern\". No room photographs. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid costume-like themed objects or mixing unrelated motifs."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid costume-like themed objects or mixing unrelated motifs."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid costume-like themed objects or mixing unrelated motifs. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room)."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Nordic Folk Modern: Simple pale timber furniture animated by woven pattern and handmade color. Materials pine; woven wool; indigo cotton; red painted wood; glazed ceramic; colors #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furnish this BEDROOM ONLY with pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Nordic Folk Modern: Simple pale timber furniture animated by woven pattern and handmade color. Materials pine; woven wool; indigo cotton; red painted wood; glazed ceramic; colors #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furnish this SOLARIUM ONLY with teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Nordic Folk Modern'; no other text or brand names. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Nordic Folk Modern. Five large clear swatches labeled exactly #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Nordic Folk Modern\". No room photographs. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Nordic Folk Modern: Simple pale timber furniture animated by woven pattern and handmade color. Materials pine; woven wool; indigo cotton; red painted wood; glazed ceramic; colors #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furnish this SOLARIUM ONLY with teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid costume-like themed objects or mixing unrelated motifs.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_39_nordic_folk/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_20_Living_Alternate_v2.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image1 empty condo camera20. Image2 is same room furnished from another camera, furnishing reference only. Maintain EXACT camera20 geometry of image1. Add Nordic Folk furnishings: cream pine-leg sofa cropped at LEFT foreground facing TV RIGHT solid wall; pine media cabinet under TV, RED oval coffee table, indigo woven pine lounge chair near foreground right, cream-red-blue folk rug and folk floral art. Crucial dining placement: small ROUND PALE PINE table and FOUR spindle chairs at LEFT MIDDLE GROUND, IN FRONT OF the island nearest camera, between sofa zone and island, partially cropped at LEFT edge if needed. NOT behind island, NOT kitchen counter seating. Keep island where original is farther back LEFT, leave a gap to table. Solid white kitchen far-end wall, NO window. Repeat image2 exact furniture family. Single full-frame photorealistic image.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_39_nordic_folk/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid costume-like themed objects or mixing unrelated motifs.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_39_nordic_folk/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_39_nordic_folk/05_example_dining.png"
+      ]
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid costume-like themed objects or mixing unrelated motifs. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_39_nordic_folk/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Nordic Folk Modern: Simple pale timber furniture animated by woven pattern and handmade color. Materials pine; woven wool; indigo cotton; red painted wood; glazed ceramic; colors #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furnish this BEDROOM ONLY with pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_39_nordic_folk/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "8e1ecb4ae2e7f40992ceda429c80349cd60ff94708ed5157d01aa53c06559812"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "1f86d74a8ca3e453d31ed614c9b650145cec5e83b4e548b2fe51a2d584c7a967"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "18c5f8032c60b0f2cd473e5d5e574a0de03cebf978809b0d6c4801e52d97422b"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "43c8c3a4113176e5ac57b4a23df558f9e97c1cfd50e498da045218046dfccb9e"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "f93b7f5b53402007960dfc3bbe33b4dd0b077808a0eae6c7472bb5659cd9e408"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "c51c263dac2983f42c5f9e5e00efd7353ccb79b5d02df98d880ec88fb94de4ee"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate_v2.png",
+      "sha256": "fda740337f57bd238211b2356ae7468bb73545e5b358f3a0b562ac6b0604bb52"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "51b1e190091b9bf755f0af932266f82a069fed5e0c90ac5153c941ec7fdbe0a1"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "7dd87af6b87c7923aa3d074086fc301ec6233baa9dfd67aa5847834835a6a714"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium.png",
+      "sha256": "6fba95848427fc8159c3490b2fa707e6f5719cf140edc3146b280c8e9d6b9d3e"
+    }
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Nordic Folk Modern'; no other text or brand names. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Nordic Folk Modern. Five large clear swatches labeled exactly #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Nordic Folk Modern\". No room photographs. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid costume-like themed objects or mixing unrelated motifs."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid costume-like themed objects or mixing unrelated motifs."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Nordic Folk Modern (Scandinavian + folk craft). Simple pale timber furniture animated by woven pattern and handmade color. Materials: pine; woven wool; indigo cotton; red painted wood; glazed ceramic. Palette: #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furniture design language: cream pine-leg sofa; indigo woven pine armchair; red painted oval coffee table; pine media cabinet; compact pine table with four spindle chairs; pleated paper pendant; restrained red-blue folk-pattern rug. Bedroom: pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Outdoor: teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid costume-like themed objects or mixing unrelated motifs. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Nordic Folk Modern: Simple pale timber furniture animated by woven pattern and handmade color. Materials pine; woven wool; indigo cotton; red painted wood; glazed ceramic; colors #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furnish this BEDROOM ONLY with pine spindle queen; ivory quilt and indigo-red woven throw; pine nightstands and blue ceramic lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Nordic Folk Modern: Simple pale timber furniture animated by woven pattern and handmade color. Materials pine; woven wool; indigo cotton; red painted wood; glazed ceramic; colors #ECE3D0, #405E79, #AD4D3E, #CBA956, #A9B296. Furnish this SOLARIUM ONLY with teak outdoor seating with indigo performance cushions and red patterned pillows; simple teak dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ]
+}

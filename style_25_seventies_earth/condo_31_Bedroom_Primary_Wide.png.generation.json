@@ -1,0 +1,11 @@
+{
+  "folder": "style_25_seventies_earth",
+  "file": "condo_31_Bedroom_Primary_Wide.png",
+  "ref": "31_Bedroom_Primary_Wide.png",
+  "kind": "condo",
+  "prompt": "Edit image1 EMPTY BEDROOM render. Style Earthy Seventies Revival: Rounded lounge furniture, walnut and warm spice colors, edited for a lighter contemporary condo. Materials walnut; rust corduroy; amber glass; cream shag wool; smoked glass; colors #EFE0C8, #AB5836, #7E7044, #6B4632, #D49B48. Furnish this BEDROOM ONLY with walnut curved-headboard queen; cream bedding with rust and olive accents; walnut nightstands; amber globe lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_25_seventies_earth/04_example_bedroom.png"
+  ]
+}

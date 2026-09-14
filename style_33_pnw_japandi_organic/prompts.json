@@ -1,0 +1,288 @@
+{
+  "style": {
+    "id": "33",
+    "slug": "pnw_japandi_organic",
+    "name": "Forest Japandi",
+    "blend": "Pacific Northwest + Japandi + organic modern",
+    "definition": "Forest color and regional timber soften Japanese restraint with a few rounded organic forms.",
+    "materials": "oak; moss wool; river stone; rice paper; linen",
+    "colors": [
+      "#EAE5D8",
+      "#7A896B",
+      "#B49772",
+      "#666F63",
+      "#333E37"
+    ],
+    "living": "moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant",
+    "bed": "low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps",
+    "solarium": "low teak outdoor seating with moss weatherproof cushions; round teak dining set",
+    "implement": "Combine only three strong cues: forest textiles, restrained timber furniture and one pebble-shaped table.",
+    "avoid": "Avoid duplicating the original green PNW room with only different cushions.",
+    "fit": "Good with compact furniture",
+    "folder": "style_33_pnw_japandi_organic"
+  },
+  "tool": "built-in image_gen",
+  "jobs": [
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Forest Japandi'; no other text or brand names. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Forest Japandi. Five large clear swatches labeled exactly #EAE5D8, #7A896B, #B49772, #666F63, #333E37 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Forest Japandi\". No room photographs. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid duplicating the original green PNW room with only different cushions."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid duplicating the original green PNW room with only different cushions."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid duplicating the original green PNW room with only different cushions. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room)."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Forest Japandi: Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials oak; moss wool; river stone; rice paper; linen; colors #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furnish this BEDROOM ONLY with low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Forest Japandi: Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials oak; moss wool; river stone; rice paper; linen; colors #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furnish this SOLARIUM ONLY with low teak outdoor seating with moss weatherproof cushions; round teak dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Forest Japandi'; no other text or brand names. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Forest Japandi. Five large clear swatches labeled exactly #EAE5D8, #7A896B, #B49772, #666F63, #333E37 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Forest Japandi\". No room photographs. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Forest Japandi: Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials oak; moss wool; river stone; rice paper; linen; colors #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furnish this SOLARIUM ONLY with low teak outdoor seating with moss weatherproof cushions; round teak dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid duplicating the original green PNW room with only different cushions.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_33_pnw_japandi_organic/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid duplicating the original green PNW room with only different cushions.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_33_pnw_japandi_organic/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_33_pnw_japandi_organic/05_example_dining.png"
+      ]
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid duplicating the original green PNW room with only different cushions. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_33_pnw_japandi_organic/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Forest Japandi: Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials oak; moss wool; river stone; rice paper; linen; colors #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furnish this BEDROOM ONLY with low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_33_pnw_japandi_organic/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "0204a45e44e1f562acb54c910e31637def802af9bb4562ba6f10772a03ea4361"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "7e4c73e88847f006240d762a084853c53d3de10cc74b85ebe7facdf31849bd45"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "6c36426036cbc465df6805c46b1743946734fca9f8f26340e40a0d5c09984d33"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "4684f47397f0cae9f2b893fa1697c66341b0b8d5b3f79e4f3b52b13de6b555a1"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "2b3f9b95f942b90718905f91fa17931ca4bb0c8902e3debe79923faab9ec62fd"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "1188ce87049b0853f3f1c4f1a0f1a0c62a5feb93ecb83711729581ae6e44a223"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate.png",
+      "sha256": "a865ac8d90633f7bc639f5f312c6e30ece352cf808b9517de46798687dd427b4"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "73141575bfd724cd14d54db7ae3b72b83f21b1cde62fc3eb8fec523365663645"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "8f26bf82972918de646b4829abb82fccf268762dba2a4464c207349b815ce71f"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium.png",
+      "sha256": "af6da3a414ab062c1ec2d0e907e2adbe04fbae432a3be86c6e376f3ad205fb6a"
+    }
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Forest Japandi'; no other text or brand names. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Forest Japandi. Five large clear swatches labeled exactly #EAE5D8, #7A896B, #B49772, #666F63, #333E37 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Forest Japandi\". No room photographs. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid duplicating the original green PNW room with only different cushions."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid duplicating the original green PNW room with only different cushions."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Forest Japandi (Pacific Northwest + Japandi + organic modern). Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials: oak; moss wool; river stone; rice paper; linen. Palette: #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furniture design language: moss low tailored sofa; oak woven-seat lounge chair; rounded river-stone coffee table; low oak media cabinet; round oak four-seat table with four woven-seat chairs; paper oval pendant. Bedroom: low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Outdoor: low teak outdoor seating with moss weatherproof cushions; round teak dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid duplicating the original green PNW room with only different cushions. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Forest Japandi: Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials oak; moss wool; river stone; rice paper; linen; colors #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furnish this BEDROOM ONLY with low oak queen; cream linen and moss throw; two oak cube nightstands with paper table lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_33_pnw_japandi_organic",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Forest Japandi: Forest color and regional timber soften Japanese restraint with a few rounded organic forms. Materials oak; moss wool; river stone; rice paper; linen; colors #EAE5D8, #7A896B, #B49772, #666F63, #333E37. Furnish this SOLARIUM ONLY with low teak outdoor seating with moss weatherproof cushions; round teak dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ]
+}

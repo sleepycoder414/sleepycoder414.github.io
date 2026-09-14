@@ -1,0 +1,13 @@
+{
+  "folder": "style_27_colorful_scandi",
+  "file": "condo_23_Dining_Wide.png",
+  "ref": "23_Dining_Wide.png",
+  "kind": "condo",
+  "prompt": "Edit image 1, the EMPTY condo rendering. Style: Colorful Scandinavian (Scandinavian + contemporary color). Nordic practicality with cheerful, carefully repeated blues, reds and butter yellow. Materials: birch; cotton; cobalt lacquer; striped wool; opal glass. Palette: #F3EDD9, #759DB3, #BE493B, #E3CB78, #AEB99A. Furniture design language: dusty blue tailored birch-leg sofa; butter-yellow birch armchair; cobalt lacquer oval coffee table; birch TV cabinet; round birch table with four red spindle chairs; opal pendant; striped wool rug. Bedroom: birch spindle queen; white bedding with blue stripe and yellow throw; birch nightstands; red small table lamps. Outdoor: light teak outdoor seating with blue striped performance cushions; red aluminum dining chairs and teak table. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid changing every surface to a different saturated color. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room).",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_27_colorful_scandi/03_example_living.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_27_colorful_scandi/05_example_dining.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_27_colorful_scandi/condo_21_Living_Wide.png"
+  ]
+}

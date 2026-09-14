@@ -1,0 +1,10 @@
+{
+  "n": 14,
+  "file": "condo_20_Living_Alternate_v2.png",
+  "src": "condo_20_Living_Alternate.png",
+  "prompt": "Edit this image only: the large exterior sliding glass door between refrigerator and TV is a hallucination. Completely remove that opening, view and curtains and replace with a continuous solid warm cream plaster wall, with one framed terracotta abstract artwork. Keep every other object, Mediterranean furnishings, camera and lighting exactly unchanged.",
+  "folder": "style_14_mediterranean_modern",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_14_mediterranean_modern/condo_20_Living_Alternate.png"
+  ]
+}

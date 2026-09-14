@@ -1,0 +1,11 @@
+{
+  "folder": "style_26_playful_postmodern",
+  "file": "condo_31_Bedroom_Primary_Wide.png",
+  "ref": "31_Bedroom_Primary_Wide.png",
+  "kind": "condo",
+  "prompt": "Edit image1 EMPTY BEDROOM render. Style Playful Postmodern: Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo; colors #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furnish this BEDROOM ONLY with cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_26_playful_postmodern/04_example_bedroom.png"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "folder": "style_21_desert_modern",
+  "file": "condo_31_Bedroom_Primary_Wide_v2.png",
+  "ref": "31_Bedroom_Primary_Wide.png",
+  "kind": "condo",
+  "prompt": "Edit image1 EMPTY BEDROOM render. Style Desert Modern: Low horizontal furniture and sun-baked colors bring the calm of desert modernism into an urban home. Materials sand linen; saddle leather; travertine; walnut; clay; colors #E9DDCB, #C59A71, #A95E41, #746955, #3F3934. Furnish this BEDROOM ONLY with walnut platform queen; sand linen; rust woven throw; two walnut nightstands and clay table lamps; desert abstract art. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+  "src": "../ref/31_Bedroom_Primary_Wide.png",
+  "paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/04_example_bedroom.png"
+  ],
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_21_desert_modern/04_example_bedroom.png"
+  ]
+}

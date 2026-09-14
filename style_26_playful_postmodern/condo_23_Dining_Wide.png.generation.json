@@ -1,0 +1,13 @@
+{
+  "folder": "style_26_playful_postmodern",
+  "file": "condo_23_Dining_Wide.png",
+  "ref": "23_Dining_Wide.png",
+  "kind": "condo",
+  "prompt": "Edit image 1, the EMPTY condo rendering. Style: Playful Postmodern (Postmodern + soft contemporary). Sculptural shapes and unexpected color pairings create a playful but usable interior. Materials: powder-coated metal; lavender wool; green lacquer; cream upholstery; terrazzo. Palette: #EEE9DE, #B9ACCA, #6C8A72, #C96C50, #DCC56B. Furniture design language: lavender curved sofa; cream sculptural rounded chair; green lacquer cylinder coffee table; cream low media cabinet with round handles; round cream pedestal dining table and four terracotta curved chairs; yellow disc pendant. Bedroom: cream arched queen headboard; lavender bedding accents; green cylinder side tables with small yellow lamps. Outdoor: green powder-coated outdoor sofa and chair with cream performance pads; round terracotta metal dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid novelty objects that obstruct circulation. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room).",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_26_playful_postmodern/03_example_living.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_26_playful_postmodern/05_example_dining.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_26_playful_postmodern/condo_21_Living_Wide.png"
+  ]
+}

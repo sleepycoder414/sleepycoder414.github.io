@@ -1,0 +1,36 @@
+{
+  "style": "Curated Eclectic / Maximalism",
+  "expected": 10,
+  "saved": 10,
+  "state": "reviewed",
+  "selected_outputs": {
+    "01_moodboard.png": "01_moodboard.png",
+    "02_palette.png": "02_palette.png",
+    "03_example_living.png": "03_example_living.png",
+    "04_example_bedroom.png": "04_example_bedroom.png",
+    "05_example_dining.png": "05_example_dining.png",
+    "condo_21_Living_Wide.png": "condo_21_Living_Wide.png",
+    "condo_20_Living_Alternate.png": "condo_20_Living_Alternate_v2.png",
+    "condo_23_Dining_Wide.png": "condo_23_Dining_Wide.png",
+    "condo_31_Bedroom_Primary_Wide.png": "condo_31_Bedroom_Primary_Wide.png",
+    "condo_10_Solarium.png": "condo_10_Solarium_v2.png"
+  },
+  "review": {
+    "reviewed_at": "2026-09-13",
+    "approved": true,
+    "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+    "style_signature": "burgundy velvet sofa; round walnut coffee table; walnut media cabinet; walnut rectangular table and six olive upholstered chairs; ochre pleated pendants; jewel-tone patterned rug",
+    "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+    "resolved_corrections": [
+      {
+        "file": "condo_20_Living_Alternate.png",
+        "required_change": "Edit only the invented exterior window at the far back LEFT behind dining table. Replace all that blue sky, window frame and view with a solid warm cream wall with layered vintage framed artwork. No exterior opening at that far end. Keep every other object, exact camera, burgundy sofa, patterned chair, walnut furniture, rugs and four seat dining set unchanged."
+      },
+      {
+        "file": "condo_10_Solarium.png",
+        "required_change": "Edit ONLY the interior glimpse through LEFT glass: remove the bed, headboard and bedroom arrangement. This glass looks into the LIVING ROOM. Show the back of the burgundy sofa facing inward toward a walnut TV cabinet and wall television, with vintage gallery art. Keep solarium outdoor rope/wood furniture, patterns, plants, architecture and camera unchanged."
+      }
+    ],
+    "pending_corrections": []
+  }
+}

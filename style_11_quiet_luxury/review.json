@@ -1,0 +1,14 @@
+{
+  "reviewed_at": "2026-09-13",
+  "approved": true,
+  "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+  "style_signature": "warm ivory tailored sofa; round honed brown-stone coffee table; walnut media cabinet; walnut rectangular dining table and six taupe upholstered chairs; bronze and opal pendants",
+  "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+  "resolved_corrections": [
+    {
+      "file": "condo_21_Living_Wide_v2.png",
+      "required_change": "Precise object removal. There are five dining chairs. Remove the extra far-left dining chair whose back is visible immediately beside the closed interior door, behind the large front chair. Leave exactly four dining chairs total around the same compact rectangular walnut table. Preserve the remaining four chairs and ALL other image pixels, furniture, camera, architecture, artwork, lighting and crisp detail."
+    }
+  ],
+  "pending_corrections": []
+}

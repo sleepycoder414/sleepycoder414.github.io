@@ -1,0 +1,26 @@
+{
+  "style": "Earthy Seventies Revival",
+  "expected": 10,
+  "saved": 10,
+  "state": "reviewed",
+  "selected_outputs": {
+    "01_moodboard.png": "01_moodboard.png",
+    "02_palette.png": "02_palette.png",
+    "03_example_living.png": "03_example_living.png",
+    "04_example_bedroom.png": "04_example_bedroom.png",
+    "05_example_dining.png": "05_example_dining.png",
+    "condo_21_Living_Wide.png": "condo_21_Living_Wide.png",
+    "condo_20_Living_Alternate.png": "condo_20_Living_Alternate.png",
+    "condo_23_Dining_Wide.png": "condo_23_Dining_Wide_v2.png",
+    "condo_31_Bedroom_Primary_Wide.png": "condo_31_Bedroom_Primary_Wide.png",
+    "condo_10_Solarium.png": "condo_10_Solarium.png"
+  },
+  "review": {
+    "approved": true,
+    "reviewed_at": "2026-09-13",
+    "style_signature": "rust corduroy low modular sofa; olive rounded swivel chair; smoked-glass rounded-square coffee table; walnut tambour media cabinet; round walnut table with four cream upholstered chairs; amber globe pendant",
+    "observations": "All ten assets visually inspected against the examples. Corrected reverse dining view TV/sofa orientation. Queen bedroom with two lamps and outdoor solarium furniture verified.",
+    "limitations": "Concept images; minor artwork, scale and partial-room-glimpse differences remain.",
+    "pending_corrections": []
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "style": {
+    "id": "22",
+    "slug": "california_casual",
+    "name": "California Casual",
+    "blend": "Coastal + organic modern",
+    "definition": "A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents.",
+    "materials": "washed oak; ivory cotton; rattan; limestone; muted blue",
+    "colors": [
+      "#F1EBDD",
+      "#CCB899",
+      "#A4B3B2",
+      "#B79170",
+      "#575D54"
+    ],
+    "living": "ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant",
+    "bed": "washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps",
+    "solarium": "weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set",
+    "implement": "Keep curtains light and use a large woven rug to unify the shared room.",
+    "avoid": "Avoid oversized sectionals that pinch the kitchen passage.",
+    "fit": "Good with compact furniture",
+    "folder": "style_22_california_casual"
+  },
+  "tool": "built-in image_gen",
+  "jobs": [
+    {
+      "folder": "style_22_california_casual",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'California Casual'; no other text or brand names. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for California Casual. Five large clear swatches labeled exactly #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"California Casual\". No room photographs. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid oversized sectionals that pinch the kitchen passage."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid oversized sectionals that pinch the kitchen passage."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid oversized sectionals that pinch the kitchen passage. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room)."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style California Casual: A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials washed oak; ivory cotton; rattan; limestone; muted blue; colors #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furnish this BEDROOM ONLY with washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style California Casual: A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials washed oak; ivory cotton; rattan; limestone; muted blue; colors #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furnish this SOLARIUM ONLY with weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_22_california_casual",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'California Casual'; no other text or brand names. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for California Casual. Five large clear swatches labeled exactly #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"California Casual\". No room photographs. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set. Solarium: outdoor dining left/middle; outdoor sofa and chair with weatherproof cushions in foreground, coffee table and plants. Preserve black tiled floor, wood ceiling, large black cylindrical pillar RIGHT, glazing and outlook. LEFT interior glass looks into LIVING ROOM, never bedroom: partial sofa-back and TV cabinet only. All solarium seating must show outdoor wood/metal/rope frames; no indoor velvet or fully upholstered dining chairs. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid oversized sectionals that pinch the kitchen passage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_22_california_casual/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_22_california_casual/05_example_dining.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_22_california_casual/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_10_Solarium_v2.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style California Casual: A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials washed oak; ivory cotton; rattan; limestone; muted blue; colors #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furnish this SOLARIUM ONLY with weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid oversized sectionals that pinch the kitchen passage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_22_california_casual/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_22_california_casual/05_example_dining.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_22_california_casual/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid oversized sectionals that pinch the kitchen passage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_22_california_casual/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_22_california_casual/05_example_dining.png"
+      ]
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid oversized sectionals that pinch the kitchen passage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_22_california_casual/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_22_california_casual/05_example_dining.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_22_california_casual/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set. Primary bedroom: queen mattress 1.524 x 2.032m, headboard against RIGHT wall, TWO compact nightstands and TWO table lamps, bedding rug and art. Preserve left sliding glass and separate operable window bay. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid oversized sectionals that pinch the kitchen passage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_22_california_casual/04_example_bedroom.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_22_california_casual/05_example_dining.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_22_california_casual/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_31_Bedroom_Primary_Wide_v2.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style California Casual: A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials washed oak; ivory cotton; rattan; limestone; muted blue; colors #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furnish this BEDROOM ONLY with washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_22_california_casual/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "4ef207346e513b7c1ad02033f263ec40cb07f27260d0204bcbb1af9e120a8c6d"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "6cf41ababdaa1b039f8340d263f26eba5bff7fddc8c2efdf563b58de8109aa15"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "1ecafe1792764b3e87056e536a82d07bcc0720089c9d5f8397ab2658f0140e03"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "92719c080a99c6cc6c2df94691d2f94039b81e37f89ebd51da5f61bd7a4b94f6"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "51be948d992c4a8632493fd5181150fa6fbd961435fea2009f7e8ccdfa31f015"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "2de877a4d686986372e24972bbc7a38276309ef78df606ca42be9ebb7207b987"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate.png",
+      "sha256": "2b4f1d777e6e276afdd6e555da8cc715e12381b1172bb75be86f5d579c8d6d5c"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "734cc4f407be1fb9ed30d5af53e3e537badea7a6e08f6e156293a8e7f79ee06a"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide_v2.png",
+      "sha256": "64bdf8c6f1f9a00ab4bcb6fee1139e0bb50305b9689fc78d3548c92e0e7ffb22"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium_v2.png",
+      "sha256": "d15567627fcf96355fea2751bfb26f2383dc78ef081cd8b27317cf771db0f046"
+    }
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_22_california_casual",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'California Casual'; no other text or brand names. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for California Casual. Five large clear swatches labeled exactly #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"California Casual\". No room photographs. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid oversized sectionals that pinch the kitchen passage."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid oversized sectionals that pinch the kitchen passage."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: California Casual (Coastal + organic modern). A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials: washed oak; ivory cotton; rattan; limestone; muted blue. Palette: #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furniture design language: ivory deep slipcovered sofa; woven rattan armchair; oval pale-oak coffee table; oak media console; round oak four-seat table with four woven-back chairs; linen drum pendant. Bedroom: washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Outdoor: weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid oversized sectionals that pinch the kitchen passage. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style California Casual: A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials washed oak; ivory cotton; rattan; limestone; muted blue; colors #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furnish this BEDROOM ONLY with washed-oak queen with linen headboard; white bedding and pale blue throw; oak nightstands with ceramic lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style California Casual: A relaxed, sunny mix of comfortable slipcovers, pale timber and handcrafted accents. Materials washed oak; ivory cotton; rattan; limestone; muted blue; colors #F1EBDD, #CCB899, #A4B3B2, #B79170, #575D54. Furnish this SOLARIUM ONLY with weathered teak outdoor sofa and armchair with ivory performance cushions; round teak four-seat dining set. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ]
+}

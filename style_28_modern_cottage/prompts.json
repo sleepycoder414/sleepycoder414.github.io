@@ -1,0 +1,292 @@
+{
+  "style": {
+    "id": "28",
+    "slug": "modern_cottage",
+    "name": "Modern Cottage",
+    "blend": "Cottage + Scandinavian",
+    "definition": "Small-scale florals and painted wood meet the simplicity of Nordic furniture.",
+    "materials": "painted sage timber; linen; oak; small floral cotton; woven rush",
+    "colors": [
+      "#F0E9DA",
+      "#9CA68A",
+      "#B9988A",
+      "#866C50",
+      "#D6C4A1"
+    ],
+    "living": "cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant",
+    "bed": "sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps",
+    "solarium": "sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table",
+    "implement": "Let one floral textile carry the cottage character; keep the furniture compact.",
+    "avoid": "Avoid excessive ruffles and decorative shelves along the narrow passage.",
+    "fit": "Good with compact furniture",
+    "folder": "style_28_modern_cottage"
+  },
+  "tool": "built-in image_gen",
+  "jobs": [
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Modern Cottage'; no other text or brand names. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Modern Cottage. Five large clear swatches labeled exactly #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Modern Cottage\". No room photographs. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid excessive ruffles and decorative shelves along the narrow passage."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid excessive ruffles and decorative shelves along the narrow passage."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid excessive ruffles and decorative shelves along the narrow passage. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room)."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Modern Cottage: Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials painted sage timber; linen; oak; small floral cotton; woven rush; colors #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furnish this BEDROOM ONLY with sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Modern Cottage: Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials painted sage timber; linen; oak; small floral cotton; woven rush; colors #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furnish this SOLARIUM ONLY with sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Modern Cottage'; no other text or brand names. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Modern Cottage. Five large clear swatches labeled exactly #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Modern Cottage\". No room photographs. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Modern Cottage: Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials painted sage timber; linen; oak; small floral cotton; woven rush; colors #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furnish this SOLARIUM ONLY with sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid excessive ruffles and decorative shelves along the narrow passage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_28_modern_cottage/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_28_modern_cottage/05_example_dining.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_28_modern_cottage/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid excessive ruffles and decorative shelves along the narrow passage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_28_modern_cottage/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_28_modern_cottage/05_example_dining.png"
+      ]
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid excessive ruffles and decorative shelves along the narrow passage. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room).",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_28_modern_cottage/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_28_modern_cottage/05_example_dining.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_28_modern_cottage/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Modern Cottage: Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials painted sage timber; linen; oak; small floral cotton; woven rush; colors #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furnish this BEDROOM ONLY with sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_28_modern_cottage/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "f77a94a175c7f52714dc8c2bf43d492e4769c863a9f3c4cfc4d0865675a33125"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "d5994dc2d672514f9c4de3a94ab0964382c3b17036e271206cc559d4c2757fe3"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "b8839318fdd6504532fa0a3237d50450bda85c96b7eae2df3f842dba6b1417b8"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "967467e44ae60248216f6adb1ccbc19fd234cfb981839c5e3657f075f4560a8b"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "74fa3c7f9e7220ee23a7f4c81771971ebb89afccdb7fe534e9e8b50a9613d4aa"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "7923928756b3a217dd0719739e0a7b40a5e3df9b70cd1efa9cb360120ace9763"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate.png",
+      "sha256": "47c5feea4286c51716bbbfc85c01a88ed34d39448449b8cb6b5db5251d945c59"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "ab3a0f3544595baeb7506cd575195fff567b3026a70dbaf81db62b9f0b04592a"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "389f16e6aee9ed50221f75d8297e2fc94720064870347d677409f74d8b0433b1"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium.png",
+      "sha256": "21202f475fb9516e6e93f5707ca1064ff3ed4814dac9aac2a0d6561361422e9b"
+    }
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Modern Cottage'; no other text or brand names. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Modern Cottage. Five large clear swatches labeled exactly #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1 with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Modern Cottage\". No room photographs. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid excessive ruffles and decorative shelves along the narrow passage."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid excessive ruffles and decorative shelves along the narrow passage."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Modern Cottage (Cottage + Scandinavian). Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials: painted sage timber; linen; oak; small floral cotton; woven rush. Palette: #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furniture design language: cream linen skirted sofa; muted rose small-floral armchair; oval oak coffee table; sage painted TV cabinet; compact oak table with four sage spindle chairs; pleated cream pendant. Bedroom: sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Outdoor: sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid excessive ruffles and decorative shelves along the narrow passage. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Modern Cottage: Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials painted sage timber; linen; oak; small floral cotton; woven rush; colors #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furnish this BEDROOM ONLY with sage painted spindle queen; white quilt with muted rose floral accents; oak nightstands; pleated ceramic lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_28_modern_cottage",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Modern Cottage: Small-scale florals and painted wood meet the simplicity of Nordic furniture. Materials painted sage timber; linen; oak; small floral cotton; woven rush; colors #F0E9DA, #9CA68A, #B9988A, #866C50, #D6C4A1. Furnish this SOLARIUM ONLY with sage powder-coated outdoor seating with cream performance pads; teak four-seat dining table. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ]
+}

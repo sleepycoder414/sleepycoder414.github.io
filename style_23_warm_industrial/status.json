@@ -1,0 +1,26 @@
+{
+  "style": "Warm Industrial",
+  "expected": 10,
+  "saved": 10,
+  "state": "reviewed",
+  "selected_outputs": {
+    "01_moodboard.png": "01_moodboard.png",
+    "02_palette.png": "02_palette.png",
+    "03_example_living.png": "03_example_living.png",
+    "04_example_bedroom.png": "04_example_bedroom.png",
+    "05_example_dining.png": "05_example_dining.png",
+    "condo_21_Living_Wide.png": "condo_21_Living_Wide.png",
+    "condo_20_Living_Alternate.png": "condo_20_Living_Alternate.png",
+    "condo_23_Dining_Wide.png": "condo_23_Dining_Wide.png",
+    "condo_31_Bedroom_Primary_Wide.png": "condo_31_Bedroom_Primary_Wide.png",
+    "condo_10_Solarium.png": "condo_10_Solarium.png"
+  },
+  "review": {
+    "approved": true,
+    "reviewed_at": "2026-09-13",
+    "style_signature": "tan leather track-arm sofa; charcoal upholstered steel-frame chair; smoked-oak rectangular steel-leg coffee table; black steel and oak media unit; compact oak dining table and four black metal chairs with tan pads; ribbed glass pendant",
+    "observations": "Ten assets reviewed. Tan leather, black steel, smoked timber, charcoal rug and ribbed glass match examples. Four-seat dining, queen bedroom and outdoor seating present.",
+    "limitations": "Image concepts; minor scale/artwork/partial-room-glimpse differences remain between cameras.",
+    "pending_corrections": []
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "style": {
+    "id": "34",
+    "slug": "coastal_japandi",
+    "name": "Coastal Japandi",
+    "blend": "Japandi + coastal",
+    "definition": "Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color.",
+    "materials": "bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton",
+    "colors": [
+      "#F0EDE3",
+      "#AEC3BD",
+      "#C6B89E",
+      "#7E9696",
+      "#4E605C"
+    ],
+    "living": "sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern",
+    "bed": "low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps",
+    "solarium": "pale teak outdoor seating with sea-glass performance cushions; round teak dining table",
+    "implement": "Use pale green-blue in large textiles and keep artwork nearly monochrome.",
+    "avoid": "Avoid nautical ropes, anchors or beach signs.",
+    "fit": "Good with compact furniture",
+    "folder": "style_34_coastal_japandi"
+  },
+  "tool": "built-in image_gen",
+  "jobs": [
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Coastal Japandi'; no other text or brand names. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Coastal Japandi. Five large clear swatches labeled exactly #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Coastal Japandi\". No room photographs. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid nautical ropes, anchors or beach signs."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid nautical ropes, anchors or beach signs."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid nautical ropes, anchors or beach signs. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room)."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Coastal Japandi: Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton; colors #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furnish this BEDROOM ONLY with low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Coastal Japandi: Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton; colors #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furnish this SOLARIUM ONLY with pale teak outdoor seating with sea-glass performance cushions; round teak dining table. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Coastal Japandi'; no other text or brand names. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Coastal Japandi. Five large clear swatches labeled exactly #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Coastal Japandi\". No room photographs. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Coastal Japandi: Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton; colors #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furnish this SOLARIUM ONLY with pale teak outdoor seating with sea-glass performance cushions; round teak dining table. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid nautical ropes, anchors or beach signs.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_34_coastal_japandi/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid nautical ropes, anchors or beach signs.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_34_coastal_japandi/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_34_coastal_japandi/05_example_dining.png"
+      ]
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid nautical ropes, anchors or beach signs. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_34_coastal_japandi/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Coastal Japandi: Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton; colors #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furnish this BEDROOM ONLY with low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_34_coastal_japandi/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "9c278c6d963a8ae459b2c8ad33049ababf7bdd6fc88dadff4ec1b295456f0d42"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "3659621cf1c3c7246bcc61404022b207d44c47bed14f84edf67a4203ec7cc706"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "e73e0263bbbef9fd1deec69c5630621c5fd726e1bc2874d4fd41bf37cf59d2ac"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "28a067ca4f44596410caa4f2a3a5a85cfcae852192c0276d1e60e226e2c81751"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "76deab5a52eba97da33207a4e0ceab217ec6b613720dff5fea4f3044c0165335"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "10a8a0642d1695820818d91e8c580d773a32a6081d3fe278938dc3e5b01e66e8"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate.png",
+      "sha256": "bdcd97bd53c9af36e41e6a89f97702250f5abd8a575a481387b9aab1913f9ab9"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "e0e1da76610b18ab590cc0ea05e45d7e0ce77cf4103c2291fc27959c8187dd41"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "3c051e85c2b26ff5fa19fba0f9224bd70c4628e18f35340a53e7ca1defd57614"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium.png",
+      "sha256": "c3e0129c81d3defab8f7afdbc9f0245511a66309ccbddf91d2e9350ea918bc2a"
+    }
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "01_moodboard.png",
+      "kind": "base",
+      "prompt": "Create an elegant interior designer material moodboard, photographed overhead on cream paper, combining realistic textile swatches, timber, metal, ceramics, a furniture cutout and two small room inspiration photographs. Carefully spaced editorial composition. Only title text 'Coastal Japandi'; no other text or brand names. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "02_palette.png",
+      "kind": "base",
+      "prompt": "Create a polished landscape color palette board for Coastal Japandi. Five large clear swatches labeled exactly #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C with tasteful realistic material chips below each. Cream background, generous white space, refined readable typography. The title is \"Coastal Japandi\". No room photographs. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "03_example_living.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial living room example in a generic apartment, showcasing the specified sofa, accent chair, coffee table, TV cabinet, rug, art and lighting. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "04_example_bedroom.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial primary bedroom example in a generic apartment, showcasing the specified queen bed, TWO bedside tables and TWO lamps, bedding, art and rug. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "05_example_dining.png",
+      "kind": "base",
+      "prompt": "Create ONE standalone photoreal editorial dining area example in a generic apartment, showcasing the specified compact table with exactly FOUR matching chairs, pendant, art and small centerpiece. Strong style identity. Eye-level wide view. No collage, panels, palette strip, text or watermark. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "condo_21_Living_Wide.png",
+      "ref": "21_Living_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table. Living/dining toward kitchen: one sofa LEFT foreground near glazing facing TV/cabinet on solid RIGHT wall. Chair and coffee table near sofa. Compact dining set BEFORE kitchen island, four chairs total. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid nautical ropes, anchors or beach signs."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "condo_20_Living_Alternate.png",
+      "ref": "20_Living_Alternate.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table. Alternate living view: sofa cropped LEFT foreground; TV/cabinet on large solid RIGHT wall; dining farther back LEFT before kitchen. Preserve the empty camera exactly. The kitchen far end is SOLID WALL. NO exterior window at far LEFT end and NO glass door between refrigerator and TV. Do not move dining to a nonexistent balcony. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid nautical ropes, anchors or beach signs."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "condo_23_Dining_Wide.png",
+      "ref": "23_Dining_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image 1, the EMPTY condo rendering. Style: Coastal Japandi (Japandi + coastal). Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials: bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton. Palette: #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furniture design language: sea-glass low sofa; pale oak paper-cord chair; oval bleached-oak coffee table; low bleached-oak TV cabinet; round pale-oak table with four paper-cord chairs; white paper lantern. Bedroom: low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Outdoor: pale teak outdoor seating with sea-glass performance cushions; round teak dining table. Reverse dining view: compact FOUR-seat table foreground; sofa and lounge chair beyond near glazing; glimpse of primary bedroom through RIGHT doorway. Keep kitchen black counter at lower RIGHT. Supporting images show furniture/style ONLY; do not copy their architecture or camera. Furnish fully and make the distinctive silhouettes, materials, lighting and art unmistakable. Preserve exact image1 lens, viewpoint, crop, walls, openings, glazing mullions, ceiling 2.7m, floor, cream kitchen and BLACK MARBLE counters, appliances and lake view. NO new windows, doors, arches, fireplaces, room enlargement or wall removal. One living sofa, one lounge chair, one coffee table, one TV with cabinet. Indoor dining exactly FOUR chairs, compact round table about105cm or rectangle120x75cm as specified. Repeat identical furniture designs and colors from supplied furnished condo anchor in all views of same room. Single photoreal full-frame image, no text, collage, people or watermark. Avoid nautical ropes, anchors or beach signs. CRITICAL layout: dining table is in the NEAR FOREGROUND, before the living zone; sofa BACK against the short wall beside glazing (not floating with back toward camera in middle of room). CRITICAL REVERSE CAMERA: TV and media cabinet ONLY on far LEFT edge solid wall, mostly cropped. Sofa at BACK RIGHT against short wall beside solarium glazing. NO TV on this back short wall. Dining table foreground four chairs."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "ref": "31_Bedroom_Primary_Wide.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY BEDROOM render. Style Coastal Japandi: Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton; colors #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furnish this BEDROOM ONLY with low pale-oak queen; ivory linen and sea-glass quilt; pale-oak nightstands and chalk ceramic lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark."
+    },
+    {
+      "folder": "style_34_coastal_japandi",
+      "file": "condo_10_Solarium.png",
+      "ref": "10_Solarium.png",
+      "kind": "condo",
+      "prompt": "Edit image1 EMPTY SOLARIUM render. Style Coastal Japandi: Low, calm Japanese-influenced furniture with pale driftwood tones and soft sea-glass color. Materials bleached oak; sea-glass linen; woven paper cord; chalk ceramic; cotton; colors #F0EDE3, #AEC3BD, #C6B89E, #7E9696, #4E605C. Furnish this SOLARIUM ONLY with pale teak outdoor seating with sea-glass performance cushions; round teak dining table. Outdoor dining left/middle, outdoor sofa and chair foreground with coffee table. Weatherproof cushions; clearly outdoor wood/metal/rope furniture frames. Preserve image1 black tile, wood ceiling, black glazing, lake outlook and large cylindrical pillar RIGHT. LEFT glass looks into living room: only subtle partial furniture glimpse. NO bedroom or bed through that glass. Interior style reference is ONLY for colors; never transfer indoor upholstery to solarium. Single full-frame photoreal image, no collage,text or watermark."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "folder": "style_32_arts_crafts_modern",
+  "file": "condo_31_Bedroom_Primary_Wide.png",
+  "ref": "31_Bedroom_Primary_Wide.png",
+  "kind": "condo",
+  "prompt": "Edit image1 EMPTY BEDROOM render. Style Arts & Crafts Modern: Honest oak joinery and nature-derived pattern balanced with clean upholstery. Materials quarter-sawn oak; olive wool; copper; botanical textiles; ceramic; colors #E7DDC9, #7A8256, #AA6F46, #604B37, #B9A27B. Furnish this BEDROOM ONLY with oak slat-headboard queen; ivory bedding with olive botanical throw; oak nightstands and ceramic lamps. Queen bed against RIGHT wall, two side tables and two TABLE LAMPS. No sofa, kitchen, dining table or TV. Image2 is a BEDROOM furnishing style reference, not architecture. Exact image1 bedroom camera and wall footprint, sliding window and separate operable bay must remain unchanged. Do not import another room's geometry. Single full-frame photoreal image, no collage, text or watermark.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_32_arts_crafts_modern/04_example_bedroom.png"
+  ]
+}

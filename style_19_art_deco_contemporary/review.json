@@ -1,0 +1,18 @@
+{
+  "reviewed_at": "2026-09-13",
+  "approved": true,
+  "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+  "style_signature": "emerald channel-backed sofa; round dark-marble coffee table with brass base; walnut media cabinet; walnut rectangular table and six emerald chairs; ribbed-glass pendants",
+  "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+  "resolved_corrections": [
+    {
+      "file": "condo_20_Living_Alternate.png",
+      "required_change": "Edit only the invented exterior glass door behind the dining table between kitchen and TV. Fill it completely with solid cream wall and one Art Deco artwork. There is no exterior opening on this wall. Preserve every other object, camera, emerald sofa, burgundy chair, walnut furniture, brass, rug and dining set."
+    },
+    {
+      "file": "condo_10_Solarium.png",
+      "required_change": "Change ONLY the four emerald upholstered dining chairs to clearly outdoor teak and black metal dining chairs with slender curved backs and removable emerald weatherproof seat pads. Preserve Art Deco brass accents, dining table, outdoor lounge furniture, architecture, rug, view and camera exactly."
+    }
+  ],
+  "pending_corrections": []
+}
