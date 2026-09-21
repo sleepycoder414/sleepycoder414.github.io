@@ -1,0 +1,29 @@
+{
+  "style": "Silver Screen Soft Deco",
+  "expected": 10,
+  "saved": 10,
+  "state": "reviewed",
+  "selected_outputs": {
+    "01_moodboard.png": "01_moodboard.png",
+    "02_palette.png": "02_palette.png",
+    "03_example_living.png": "03_example_living.png",
+    "04_example_bedroom.png": "04_example_bedroom.png",
+    "05_example_dining.png": "05_example_dining.png",
+    "condo_21_Living_Wide.png": "condo_21_Living_Wide.png",
+    "condo_20_Living_Alternate.png": "condo_20_Living_Alternate.png",
+    "condo_23_Dining_Wide.png": "condo_23_Dining_Wide.png",
+    "condo_31_Bedroom_Primary_Wide.png": "condo_31_Bedroom_Primary_Wide.png",
+    "condo_10_Solarium.png": "condo_10_Solarium.png"
+  },
+  "review": {
+    "approved": true,
+    "reviewed_at": "2026-09-20",
+    "scope": "Image concept review, not measured furniture fit",
+    "notes": [
+      "All ten selected images compared with guide and generic examples; distinct upholstery, timber, metal and palette represented.",
+      "Living/dining furniture stays on the corresponding room sides, with four-seat dining, queen bedroom and outdoor solarium furnishings.",
+      "Major placement and solarium color/architecture drift corrected where needed. Minor artwork locations, upholstery details and apparent scale vary between views."
+    ],
+    "pending_corrections": []
+  }
+}

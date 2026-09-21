@@ -1,0 +1,8 @@
+{
+  "folder": "style_45_pearl_noir_paris",
+  "file": "condo_10_Solarium.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Pearl & Noir Paris (Parisian Contemporary + Quiet Luxury Contemporary). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: black aluminum outdoor frames with pearl cushions; round black outdoor dining set. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool; palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+  ]
+}

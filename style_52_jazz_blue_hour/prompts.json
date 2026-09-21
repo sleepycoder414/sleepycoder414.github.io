@@ -1,0 +1,244 @@
+{
+  "style": {
+    "id": "52",
+    "slug": "jazz_blue_hour",
+    "name": "Jazz Piano Lounge \u00b7 Blue Hour",
+    "blend": "Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco",
+    "definition": "Ink blue and amber pools of light make a smart, relaxed music room that still welcomes breakfast.",
+    "materials": "ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass",
+    "colors": [
+      "#E7E0D3",
+      "#293D51",
+      "#B47A3F",
+      "#9B8B77",
+      "#353431"
+    ],
+    "living": "small ink-blue 180cm rounded two-seat sofa; one oatmeal linen 80cm swivel chair; oval smoked-oak 85x45cm coffee table; slim smoked-oak TV cabinet and discreet TV; 100cm round smoked-oak dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano with bench; amber-glass table lamp; brass reading lamp; single stepped silver-bronze Deco mirror; two small framed black-and-white portraits of Bill Evans and Nina Simone; one playful ochre abstract print",
+    "bed": "ink-blue upholstered queen; smoked oak nightstands; amber glass bedside lamps; oatmeal bedding",
+    "solarium": "black metal and blue outdoor cushions; amber portable lamps; round outdoor dining set",
+    "implement": "Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music.",
+    "avoid": "Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry.",
+    "fit": "Promising; verify piano and bench clearance in the measured model",
+    "folder": "style_52_jazz_blue_hour",
+    "collection": "jazz"
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "01_moodboard.png",
+      "prompt": "Style Jazz Piano Lounge \u00c2\u00b7 Blue Hour: Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco. Ink blue and amber pools of light make a smart, relaxed music room that still welcomes breakfast. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass. Palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one elegant editorial flat-lay moodboard: tactile material samples, upholstery swatches, wood and metal, lighting and furnishing detail cutouts. Style title legible. small ink-blue 180cm rounded two-seat sofa; one oatmeal linen 80cm swivel chair; oval smoked-oak 85x45cm coffee table; slim smoked-oak TV cabinet and discreet TV; 100cm round smoked-oak dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano with bench; amber-glass table lamp; brass reading lamp; single stepped silver-bronze Deco mirror; two small framed black-and-white portraits of Bill Evans and Nina Simone; one playful ochre abstract print. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "02_palette.png",
+      "prompt": "Style Jazz Piano Lounge \u00c2\u00b7 Blue Hour: Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco. Ink blue and amber pools of light make a smart, relaxed music room that still welcomes breakfast. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass. Palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one attractive designer color palette board with five large color fields labeled exact hex codes #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431, tactile material details beside swatches. Jazz Piano Lounge \u00c2\u00b7 Blue Hour title. No room photograph. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "03_example_living.png",
+      "prompt": "Style Jazz Piano Lounge \u00c2\u00b7 Blue Hour: Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco. Ink blue and amber pools of light make a smart, relaxed music room that still welcomes breakfast. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass. Palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic living room and adjacent four-seat dining example. Furniture small ink-blue 180cm rounded two-seat sofa; one oatmeal linen 80cm swivel chair; oval smoked-oak 85x45cm coffee table; slim smoked-oak TV cabinet and discreet TV; 100cm round smoked-oak dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano with bench; amber-glass table lamp; brass reading lamp; single stepped silver-bronze Deco mirror; two small framed black-and-white portraits of Bill Evans and Nina Simone; one playful ochre abstract print. Landscape 3:2, polished editorial presentation, no people. Reference is PRODUCT only: Kawai NV12 black hybrid grand styling, shallow 87cm body depth,151.5cm width,three pedals,bench,short lid prop. Warm amber lamps with readable moody evening light, cozy joyful lived-in home, no stage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "04_example_bedroom.png",
+      "prompt": "Style Jazz Piano Lounge \u00c2\u00b7 Blue Hour: Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco. Ink blue and amber pools of light make a smart, relaxed music room that still welcomes breakfast. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass. Palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic primary bedroom ONLY, ink-blue upholstered queen; smoked oak nightstands; amber glass bedside lamps; oatmeal bedding; queen bed, TWO nightstands and TWO table lamps, quiet residential retreat; no piano, no living room. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "05_example_dining.png",
+      "prompt": "Style Jazz Piano Lounge \u00c2\u00b7 Blue Hour: Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco. Ink blue and amber pools of light make a smart, relaxed music room that still welcomes breakfast. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass. Palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic intimate four-seat residential dining space with adjoining sitting area glimpse. Furnish small ink-blue 180cm rounded two-seat sofa; one oatmeal linen 80cm swivel chair; oval smoked-oak 85x45cm coffee table; slim smoked-oak TV cabinet and discreet TV; 100cm round smoked-oak dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano with bench; amber-glass table lamp; brass reading lamp; single stepped silver-bronze Deco mirror; two small framed black-and-white portraits of Bill Evans and Nina Simone; one playful ochre abstract print. Show table and FOUR chairs prominently, no restaurant. Landscape 3:2, polished editorial presentation, no people. Reference is PRODUCT only: Kawai NV12 black hybrid grand styling, shallow 87cm body depth,151.5cm width,three pedals,bench,short lid prop. Warm amber lamps with readable moody evening light, cozy joyful lived-in home, no stage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "condo_21_Living_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00c2\u00b7 Blue Hour (Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco). Living wide: sofa LEFT by glazing, TV RIGHT wall, dining middle background BEFORE island, kitchen rear RIGHT. Furniture: small ink-blue 180cm rounded two-seat sofa; one oatmeal linen 80cm swivel chair; oval smoked-oak 85x45cm coffee table; slim smoked-oak TV cabinet and discreet TV; 100cm round smoked-oak dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano with bench; amber-glass table lamp; brass reading lamp; single stepped silver-bronze Deco mirror; two small framed black-and-white portraits of Bill Evans and Nina Simone; one playful ochre abstract print. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass; palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_52_jazz_blue_hour/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "condo_20_Living_Alternate.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00c2\u00b7 Blue Hour (Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: small ink-blue 180cm rounded two-seat sofa; one oatmeal linen 80cm swivel chair; oval smoked-oak 85x45cm coffee table; slim smoked-oak TV cabinet and discreet TV; 100cm round smoked-oak dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano with bench; amber-glass table lamp; brass reading lamp; single stepped silver-bronze Deco mirror; two small framed black-and-white portraits of Bill Evans and Nina Simone; one playful ochre abstract print. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass; palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_52_jazz_blue_hour/condo_21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "condo_23_Dining_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00c2\u00b7 Blue Hour (Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: small ink-blue 180cm rounded two-seat sofa; one oatmeal linen 80cm swivel chair; oval smoked-oak 85x45cm coffee table; slim smoked-oak TV cabinet and discreet TV; 100cm round smoked-oak dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano with bench; amber-glass table lamp; brass reading lamp; single stepped silver-bronze Deco mirror; two small framed black-and-white portraits of Bill Evans and Nina Simone; one playful ochre abstract print. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass; palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_52_jazz_blue_hour/condo_21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00c2\u00b7 Blue Hour (Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: ink-blue upholstered queen; smoked oak nightstands; amber glass bedside lamps; oatmeal bedding. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass; palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_52_jazz_blue_hour/04_example_bedroom.png"
+      ]
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "condo_10_Solarium.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00c2\u00b7 Blue Hour (Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: black metal and blue outdoor cushions; amber portable lamps; round outdoor dining set. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass; palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "01_moodboard.png",
+      "prompt": "Style Jazz Piano Lounge \u00b7 Blue Hour: Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco. Ink blue and amber pools of light make a smart, relaxed music room that still welcomes breakfast. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass. Palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one elegant editorial flat-lay moodboard: tactile material samples, upholstery swatches, wood and metal, lighting and furnishing detail cutouts. Style title legible. small ink-blue 180cm rounded two-seat sofa; one oatmeal linen 80cm swivel chair; oval smoked-oak 85x45cm coffee table; slim smoked-oak TV cabinet and discreet TV; 100cm round smoked-oak dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano with bench; amber-glass table lamp; brass reading lamp; single stepped silver-bronze Deco mirror; two small framed black-and-white portraits of Bill Evans and Nina Simone; one playful ochre abstract print. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "02_palette.png",
+      "prompt": "Style Jazz Piano Lounge \u00b7 Blue Hour: Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco. Ink blue and amber pools of light make a smart, relaxed music room that still welcomes breakfast. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass. Palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one attractive designer color palette board with five large color fields labeled exact hex codes #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431, tactile material details beside swatches. Jazz Piano Lounge \u00b7 Blue Hour title. No room photograph. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "03_example_living.png",
+      "prompt": "Style Jazz Piano Lounge \u00b7 Blue Hour: Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco. Ink blue and amber pools of light make a smart, relaxed music room that still welcomes breakfast. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass. Palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic living room and adjacent four-seat dining example. Furniture small ink-blue 180cm rounded two-seat sofa; one oatmeal linen 80cm swivel chair; oval smoked-oak 85x45cm coffee table; slim smoked-oak TV cabinet and discreet TV; 100cm round smoked-oak dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano with bench; amber-glass table lamp; brass reading lamp; single stepped silver-bronze Deco mirror; two small framed black-and-white portraits of Bill Evans and Nina Simone; one playful ochre abstract print. Landscape 3:2, polished editorial presentation, no people. Reference is PRODUCT only: Kawai NV12 black hybrid grand styling, shallow 87cm body depth,151.5cm width,three pedals,bench,short lid prop. Warm amber lamps with readable moody evening light, cozy joyful lived-in home, no stage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "04_example_bedroom.png",
+      "prompt": "Style Jazz Piano Lounge \u00b7 Blue Hour: Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco. Ink blue and amber pools of light make a smart, relaxed music room that still welcomes breakfast. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass. Palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic primary bedroom ONLY, ink-blue upholstered queen; smoked oak nightstands; amber glass bedside lamps; oatmeal bedding; queen bed, TWO nightstands and TWO table lamps, quiet residential retreat; no piano, no living room. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "05_example_dining.png",
+      "prompt": "Style Jazz Piano Lounge \u00b7 Blue Hour: Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco. Ink blue and amber pools of light make a smart, relaxed music room that still welcomes breakfast. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass. Palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic intimate four-seat residential dining space with adjoining sitting area glimpse. Furnish small ink-blue 180cm rounded two-seat sofa; one oatmeal linen 80cm swivel chair; oval smoked-oak 85x45cm coffee table; slim smoked-oak TV cabinet and discreet TV; 100cm round smoked-oak dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano with bench; amber-glass table lamp; brass reading lamp; single stepped silver-bronze Deco mirror; two small framed black-and-white portraits of Bill Evans and Nina Simone; one playful ochre abstract print. Show table and FOUR chairs prominently, no restaurant. Landscape 3:2, polished editorial presentation, no people. Reference is PRODUCT only: Kawai NV12 black hybrid grand styling, shallow 87cm body depth,151.5cm width,three pedals,bench,short lid prop. Warm amber lamps with readable moody evening light, cozy joyful lived-in home, no stage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "condo_10_Solarium.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00b7 Blue Hour (Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: black metal and blue outdoor cushions; amber portable lamps; round outdoor dining set. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass; palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1. Match the shared-room mirror on sofa-side wall, portraits and ochre art above piano, no mirror on fridge. Through solarium LEFTglass the living sofa is INK BLUE.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "condo_20_Living_Alternate.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00b7 Blue Hour (Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: small ink-blue 180cm rounded two-seat sofa; one oatmeal linen 80cm swivel chair; oval smoked-oak 85x45cm coffee table; slim smoked-oak TV cabinet and discreet TV; 100cm round smoked-oak dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano with bench; amber-glass table lamp; brass reading lamp; single stepped silver-bronze Deco mirror; two small framed black-and-white portraits of Bill Evans and Nina Simone; one playful ochre abstract print. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass; palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths. Match the shared-room mirror on sofa-side wall, portraits and ochre art above piano, no mirror on fridge. Through solarium LEFTglass the living sofa is INK BLUE.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_52_jazz_blue_hour/condo_21_Living_Wide_v2.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "condo_21_Living_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00b7 Blue Hour (Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco). Living wide: sofa LEFT by glazing, TV RIGHT wall, dining middle background BEFORE island, kitchen rear RIGHT. Furniture: small ink-blue 180cm rounded two-seat sofa; one oatmeal linen 80cm swivel chair; oval smoked-oak 85x45cm coffee table; slim smoked-oak TV cabinet and discreet TV; 100cm round smoked-oak dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano with bench; amber-glass table lamp; brass reading lamp; single stepped silver-bronze Deco mirror; two small framed black-and-white portraits of Bill Evans and Nina Simone; one playful ochre abstract print. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass; palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths. Keep the tall refrigerator rearRIGHT fully recognizable light cream/gray. No wallpaper on it; do not remove fridge or build wall to fit piano. Piano and wallpaper only on existing foregroundRIGHTwall, closer camera than fridge. Four chairs clearly at dining.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_52_jazz_blue_hour/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "condo_21_Living_Wide_v2.png",
+      "prompt": "Edit this furnished condo image ONLY remove the Art Deco mirror currently attached to the cream refrigerator at back right. Restore plain refrigerator finish there. Hang that same mirror on LEFT short wall beside dining table, replacing the ochre art there. Keep ALL other furniture, piano, wall geometry, view, lighting and colors exactly unchanged.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_52_jazz_blue_hour/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "condo_23_Dining_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00b7 Blue Hour (Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: small ink-blue 180cm rounded two-seat sofa; one oatmeal linen 80cm swivel chair; oval smoked-oak 85x45cm coffee table; slim smoked-oak TV cabinet and discreet TV; 100cm round smoked-oak dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano with bench; amber-glass table lamp; brass reading lamp; single stepped silver-bronze Deco mirror; two small framed black-and-white portraits of Bill Evans and Nina Simone; one playful ochre abstract print. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass; palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths. Match the shared-room mirror on sofa-side wall, portraits and ochre art above piano, no mirror on fridge. Through solarium LEFTglass the living sofa is INK BLUE.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_52_jazz_blue_hour/condo_21_Living_Wide_v2.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "condo_23_Dining_Wide_v2.png",
+      "prompt": "Furnish EMPTY IMAGE1 from this EXACT reverse camera. Image2 furnishes same room from opposite direction: style/furniture identity only. ABSOLUTE layout: BLUE rounded sofa against BACK RIGHT SHORT WALL BESIDE bedroom door. Piano and TV on LEFT foreground wall, mostly OUTSIDE FRAME LEFT: show ONLY cropped black keyboard edge at FAR LEFT if visible. NEVER show piano on back wall. Never put wallpaper/portraits above sofa; leave that wall warm ivory, small stepped mirror above sofa-side wall. FOUR oatmeal dining chairs round smoked oak table foreground. Oatmeal rounded accent chair near glazing LEFT of sofa, oval smoked oak coffee table. Inkblue herringbone wallpaper on LEFT wall only, mostly cropped. Warm amber moody lighting, original geometry doors/window mullions and counter corner unchanged. Do not change camera to reveal piano. Blue Hour Jazz residential concept. Piano deliberately cropped is correct.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_52_jazz_blue_hour/condo_21_Living_Wide_v2.png"
+      ]
+    },
+    {
+      "folder": "style_52_jazz_blue_hour",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00b7 Blue Hour (Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: ink-blue upholstered queen; smoked oak nightstands; amber glass bedside lamps; oatmeal bedding. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass; palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1. Match the shared-room mirror on sofa-side wall, portraits and ochre art above piano, no mirror on fridge. Through solarium LEFTglass the living sofa is INK BLUE.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_52_jazz_blue_hour/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "36f44e3a6b69acfd83abe0ddeea0c464ea006ba8953e9da4b7fef88928cab8d4"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "3e01e4810b7df119bed5afead9661332001d2e8237110ad2443a938dee631ae7"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "53ccfb5282474e0ea74b7e10454a66107de08b0eb8b5daf6107c0a6e043afa83"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "33826821cb3b6622096a889d3dd0124e8af432baaba1d7eb539a21a9b508c057"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "2b4773d0947e224fc4f1f853f03be9d4dfab8709f6497298b77c28a639cee9ea"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide_v2.png",
+      "sha256": "3a2d1049d0b9c897d97693328cfa19ecefd1b595686bd0a9ae2c7979056262e0"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate.png",
+      "sha256": "1cc9225921649cff85d58cf1df303613a2ae2a63c3858766fd57e4f2ec860f3d"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide_v2.png",
+      "sha256": "526fe7b4121b0a75694cd2cd099d23aae7fde93d41f453059d43a56751ceba1f"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "07965a4e7f987684e24fefb1c4a08838c42720cb3cf34bbb6be356ec90be0d7b"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium.png",
+      "sha256": "ad9f5752052fdf1eda57d0ecb3e852275e88d9c223b96e567d3f5d4da743e7a3"
+    }
+  }
+}

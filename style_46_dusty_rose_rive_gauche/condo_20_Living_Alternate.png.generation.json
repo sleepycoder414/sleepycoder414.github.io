@@ -1,0 +1,9 @@
+{
+  "folder": "style_46_dusty_rose_rive_gauche",
+  "file": "condo_20_Living_Alternate.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Dusty Rose Rive Gauche (Parisian Contemporary + Contemporary Art Deco). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: dusty rose curved 200cm sofa; aubergine rounded chair; oval cream marble table with walnut base; walnut media cabinet; 105cm round walnut table and four mushroom chairs; brass opal pendant. Materials dusty rose velvet; aubergine wool; walnut; cream marble; antique brass; palette #ECE3D8, #B78985, #604852, #8B654E, #C0A577. Use one humorous abstract still life and a small stepped brass mirror; keep pattern to a rug and two cushions. Avoid pink on every wall and overly ornate floral decor.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_46_dusty_rose_rive_gauche/condo_21_Living_Wide.png"
+  ]
+}

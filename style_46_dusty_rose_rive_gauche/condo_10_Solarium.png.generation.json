@@ -1,0 +1,8 @@
+{
+  "folder": "style_46_dusty_rose_rive_gauche",
+  "file": "condo_10_Solarium.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Dusty Rose Rive Gauche (Parisian Contemporary + Contemporary Art Deco). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: teak frames with muted rose outdoor cushions; round teak dining. Materials dusty rose velvet; aubergine wool; walnut; cream marble; antique brass; palette #ECE3D8, #B78985, #604852, #8B654E, #C0A577. Use one humorous abstract still life and a small stepped brass mirror; keep pattern to a rug and two cushions. Avoid pink on every wall and overly ornate floral decor.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+  ]
+}

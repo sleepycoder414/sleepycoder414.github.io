@@ -1,0 +1,217 @@
+{
+  "style": {
+    "id": "50",
+    "slug": "burgundy_brass_gallery",
+    "name": "Burgundy & Brass Gallery",
+    "blend": "Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary",
+    "definition": "Burgundy, warm ivory and sculptural brass make a lively but composed gallery-like home.",
+    "materials": "burgundy velvet; ivory linen; walnut; dark marble; brushed brass",
+    "colors": [
+      "#EDE4D4",
+      "#713D47",
+      "#936B4C",
+      "#B49A6B",
+      "#2B3334"
+    ],
+    "living": "burgundy low curved 205cm sofa; ivory linen club chair; oval dark-marble coffee table on slim brass legs; walnut media cabinet; 105cm walnut pedestal table and four ivory chairs; brass globe pendant",
+    "bed": "burgundy arched queen headboard; walnut nightstands; linen brass lamps; ivory bedding",
+    "solarium": "dark teak frames with burgundy outdoor cushions; round teak dining set",
+    "implement": "Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug.",
+    "avoid": "Avoid ornate gold trim and wall-to-wall dark finishes.",
+    "fit": "Very good",
+    "folder": "style_50_burgundy_brass_gallery",
+    "collection": "favorites"
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "01_moodboard.png",
+      "prompt": "Style Burgundy & Brass Gallery: Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary. Burgundy, warm ivory and sculptural brass make a lively but composed gallery-like home. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass. Palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one elegant editorial flat-lay moodboard: tactile material samples, upholstery swatches, wood and metal, lighting and furnishing detail cutouts. Style title legible. burgundy low curved 205cm sofa; ivory linen club chair; oval dark-marble coffee table on slim brass legs; walnut media cabinet; 105cm walnut pedestal table and four ivory chairs; brass globe pendant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "02_palette.png",
+      "prompt": "Style Burgundy & Brass Gallery: Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary. Burgundy, warm ivory and sculptural brass make a lively but composed gallery-like home. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass. Palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one attractive designer color palette board with five large color fields labeled exact hex codes #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334, tactile material details beside swatches. Burgundy & Brass Gallery title. No room photograph. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "03_example_living.png",
+      "prompt": "Style Burgundy & Brass Gallery: Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary. Burgundy, warm ivory and sculptural brass make a lively but composed gallery-like home. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass. Palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic living room and adjacent four-seat dining example. Furniture burgundy low curved 205cm sofa; ivory linen club chair; oval dark-marble coffee table on slim brass legs; walnut media cabinet; 105cm walnut pedestal table and four ivory chairs; brass globe pendant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "04_example_bedroom.png",
+      "prompt": "Style Burgundy & Brass Gallery: Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary. Burgundy, warm ivory and sculptural brass make a lively but composed gallery-like home. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass. Palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic primary bedroom ONLY, burgundy arched queen headboard; walnut nightstands; linen brass lamps; ivory bedding; queen bed, TWO nightstands and TWO table lamps, quiet residential retreat; no piano, no living room. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "05_example_dining.png",
+      "prompt": "Style Burgundy & Brass Gallery: Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary. Burgundy, warm ivory and sculptural brass make a lively but composed gallery-like home. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass. Palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic intimate four-seat residential dining space with adjoining sitting area glimpse. Furnish burgundy low curved 205cm sofa; ivory linen club chair; oval dark-marble coffee table on slim brass legs; walnut media cabinet; 105cm walnut pedestal table and four ivory chairs; brass globe pendant. Show table and FOUR chairs prominently, no restaurant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "condo_21_Living_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Burgundy & Brass Gallery (Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary). Living wide: sofa LEFT by glazing, TV RIGHT wall, dining middle background BEFORE island, kitchen rear RIGHT. Furniture: burgundy low curved 205cm sofa; ivory linen club chair; oval dark-marble coffee table on slim brass legs; walnut media cabinet; 105cm walnut pedestal table and four ivory chairs; brass globe pendant. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass; palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_50_burgundy_brass_gallery/03_example_living.png"
+      ]
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "condo_20_Living_Alternate.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Burgundy & Brass Gallery (Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: burgundy low curved 205cm sofa; ivory linen club chair; oval dark-marble coffee table on slim brass legs; walnut media cabinet; 105cm walnut pedestal table and four ivory chairs; brass globe pendant. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass; palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_50_burgundy_brass_gallery/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "condo_23_Dining_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Burgundy & Brass Gallery (Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: burgundy low curved 205cm sofa; ivory linen club chair; oval dark-marble coffee table on slim brass legs; walnut media cabinet; 105cm walnut pedestal table and four ivory chairs; brass globe pendant. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass; palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_50_burgundy_brass_gallery/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Burgundy & Brass Gallery (Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: burgundy arched queen headboard; walnut nightstands; linen brass lamps; ivory bedding. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass; palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_50_burgundy_brass_gallery/04_example_bedroom.png"
+      ]
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "condo_10_Solarium.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Burgundy & Brass Gallery (Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: dark teak frames with burgundy outdoor cushions; round teak dining set. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass; palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "01_moodboard.png",
+      "prompt": "Style Burgundy & Brass Gallery: Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary. Burgundy, warm ivory and sculptural brass make a lively but composed gallery-like home. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass. Palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one elegant editorial flat-lay moodboard: tactile material samples, upholstery swatches, wood and metal, lighting and furnishing detail cutouts. Style title legible. burgundy low curved 205cm sofa; ivory linen club chair; oval dark-marble coffee table on slim brass legs; walnut media cabinet; 105cm walnut pedestal table and four ivory chairs; brass globe pendant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "02_palette.png",
+      "prompt": "Style Burgundy & Brass Gallery: Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary. Burgundy, warm ivory and sculptural brass make a lively but composed gallery-like home. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass. Palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one attractive designer color palette board with five large color fields labeled exact hex codes #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334, tactile material details beside swatches. Burgundy & Brass Gallery title. No room photograph. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "03_example_living.png",
+      "prompt": "Style Burgundy & Brass Gallery: Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary. Burgundy, warm ivory and sculptural brass make a lively but composed gallery-like home. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass. Palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic living room and adjacent four-seat dining example. Furniture burgundy low curved 205cm sofa; ivory linen club chair; oval dark-marble coffee table on slim brass legs; walnut media cabinet; 105cm walnut pedestal table and four ivory chairs; brass globe pendant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "04_example_bedroom.png",
+      "prompt": "Style Burgundy & Brass Gallery: Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary. Burgundy, warm ivory and sculptural brass make a lively but composed gallery-like home. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass. Palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic primary bedroom ONLY, burgundy arched queen headboard; walnut nightstands; linen brass lamps; ivory bedding; queen bed, TWO nightstands and TWO table lamps, quiet residential retreat; no piano, no living room. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "05_example_dining.png",
+      "prompt": "Style Burgundy & Brass Gallery: Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary. Burgundy, warm ivory and sculptural brass make a lively but composed gallery-like home. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass. Palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic intimate four-seat residential dining space with adjoining sitting area glimpse. Furnish burgundy low curved 205cm sofa; ivory linen club chair; oval dark-marble coffee table on slim brass legs; walnut media cabinet; 105cm walnut pedestal table and four ivory chairs; brass globe pendant. Show table and FOUR chairs prominently, no restaurant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "condo_10_Solarium.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Burgundy & Brass Gallery (Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: dark teak frames with burgundy outdoor cushions; round teak dining set. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass; palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "condo_10_Solarium_v2.png",
+      "prompt": "Tiny edit ONLY indoor sofa through LEFT glass: replace ivory straight sofa with burgundy velvet curved sofa, ivory cushions. Keep everything else identical including outdoor furniture column glass floor ceiling view.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_50_burgundy_brass_gallery/condo_10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "condo_20_Living_Alternate.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Burgundy & Brass Gallery (Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: burgundy low curved 205cm sofa; ivory linen club chair; oval dark-marble coffee table on slim brass legs; walnut media cabinet; 105cm walnut pedestal table and four ivory chairs; brass globe pendant. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass; palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Dining table MUST be LEFT in front of island, never RIGHT beside fridge; right wall between fridge and TV is plain ivory, no mirror.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_50_burgundy_brass_gallery/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "condo_21_Living_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Burgundy & Brass Gallery (Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary). Living wide: sofa LEFT by glazing, TV RIGHT wall, dining middle background BEFORE island, kitchen rear RIGHT. Furniture: burgundy low curved 205cm sofa; ivory linen club chair; oval dark-marble coffee table on slim brass legs; walnut media cabinet; 105cm walnut pedestal table and four ivory chairs; brass globe pendant. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass; palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_50_burgundy_brass_gallery/03_example_living.png"
+      ]
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "condo_23_Dining_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Burgundy & Brass Gallery (Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: burgundy low curved 205cm sofa; ivory linen club chair; oval dark-marble coffee table on slim brass legs; walnut media cabinet; 105cm walnut pedestal table and four ivory chairs; brass globe pendant. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass; palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_50_burgundy_brass_gallery/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_50_burgundy_brass_gallery",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Burgundy & Brass Gallery (Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: burgundy arched queen headboard; walnut nightstands; linen brass lamps; ivory bedding. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass; palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_50_burgundy_brass_gallery/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "a460577807d7d6ab8918e6406c8e87f082661b8101fdf11b6c32c35fca868a3c"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "9fed1a4937e625d79a62ec4b927a9d6073abf4926c9607fbf8384aeb71360f8e"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "29928e6ae6bb1b6995c5eeb849a2386dd37e1a896e0c2663920bf5c91308fc03"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "964c028dc9be34f9bf2dded025a9124ecd7ba0766466f3d1a84d47d1c73d4b9d"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "f135e1f907a1ae6146bdab0420a2064b57d1921c9f6915948f7a6b1cd56d94b6"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "cd937d4777134da902516c0c54dbd5cbece0a063ad84da44dccd61e7d617e8cc"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate.png",
+      "sha256": "c87ae10061e1ac09dc4d732c41f46cbf0609cfb4c815644f5f08709a48d00647"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "ff55a173b49ebf4f94e0a3ababcde05f6f462e226fec4bcd8ace8cced28ea566"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "d1c2287fbb6453dce12636e1948457f7b6d35198597ba5d58ccdb5dcbf4ce499"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium_v2.png",
+      "sha256": "4443a1d13109f5c7a92e4c2d9ae9cb87221e6c352a1eb3e8fdf0b98871466529"
+    }
+  }
+}

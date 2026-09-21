@@ -1,0 +1,253 @@
+{
+  "style": {
+    "id": "51",
+    "slug": "jazz_emerald_encore",
+    "name": "Jazz Piano Lounge \u00b7 Emerald Encore",
+    "blend": "Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary",
+    "definition": "A warm emerald and cognac living room where a compact hybrid grand is part of daily life.",
+    "materials": "emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper",
+    "colors": [
+      "#E8DDCA",
+      "#275448",
+      "#A46D46",
+      "#B29660",
+      "#333A36"
+    ],
+    "living": "small emerald velvet 180cm two-seat sofa; one cognac leather 80cm club chair; small oval walnut coffee table 85x45cm; compact walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR cream upholstered chairs; compact black Kawai NV12 hybrid grand piano and padded bench; slim bronze floor lamp; amber table lamp; one narrow stepped bronze Deco mirror; two framed black-and-white portraits of Oscar Peterson and Ella Fitzgerald",
+    "bed": "emerald upholstered queen; walnut nightstands; warm amber ceramic bedside lamps; cream bedding and cognac throw",
+    "solarium": "teak and emerald outdoor seating; bronze rechargeable table lamps; compact teak dining set",
+    "implement": "Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness.",
+    "avoid": "Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale.",
+    "fit": "Promising; verify piano and bench clearance in the measured model",
+    "folder": "style_51_jazz_emerald_encore",
+    "collection": "jazz"
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "01_moodboard.png",
+      "prompt": "Style Jazz Piano Lounge \u00c2\u00b7 Emerald Encore: Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary. A warm emerald and cognac living room where a compact hybrid grand is part of daily life. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper. Palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one elegant editorial flat-lay moodboard: tactile material samples, upholstery swatches, wood and metal, lighting and furnishing detail cutouts. Style title legible. small emerald velvet 180cm two-seat sofa; one cognac leather 80cm club chair; small oval walnut coffee table 85x45cm; compact walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR cream upholstered chairs; compact black Kawai NV12 hybrid grand piano and padded bench; slim bronze floor lamp; amber table lamp; one narrow stepped bronze Deco mirror; two framed black-and-white portraits of Oscar Peterson and Ella Fitzgerald. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "02_palette.png",
+      "prompt": "Style Jazz Piano Lounge \u00c2\u00b7 Emerald Encore: Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary. A warm emerald and cognac living room where a compact hybrid grand is part of daily life. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper. Palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one attractive designer color palette board with five large color fields labeled exact hex codes #E8DDCA, #275448, #A46D46, #B29660, #333A36, tactile material details beside swatches. Jazz Piano Lounge \u00c2\u00b7 Emerald Encore title. No room photograph. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "03_example_living.png",
+      "prompt": "Style Jazz Piano Lounge \u00c2\u00b7 Emerald Encore: Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary. A warm emerald and cognac living room where a compact hybrid grand is part of daily life. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper. Palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic living room and adjacent four-seat dining example. Furniture small emerald velvet 180cm two-seat sofa; one cognac leather 80cm club chair; small oval walnut coffee table 85x45cm; compact walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR cream upholstered chairs; compact black Kawai NV12 hybrid grand piano and padded bench; slim bronze floor lamp; amber table lamp; one narrow stepped bronze Deco mirror; two framed black-and-white portraits of Oscar Peterson and Ella Fitzgerald. Landscape 3:2, polished editorial presentation, no people. Reference is PRODUCT only: Kawai NV12 black hybrid grand styling, shallow 87cm body depth,151.5cm width,three pedals,bench,short lid prop. Warm amber lamps with readable moody evening light, cozy joyful lived-in home, no stage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "04_example_bedroom.png",
+      "prompt": "Style Jazz Piano Lounge \u00c2\u00b7 Emerald Encore: Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary. A warm emerald and cognac living room where a compact hybrid grand is part of daily life. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper. Palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic primary bedroom ONLY, emerald upholstered queen; walnut nightstands; warm amber ceramic bedside lamps; cream bedding and cognac throw; queen bed, TWO nightstands and TWO table lamps, quiet residential retreat; no piano, no living room. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "05_example_dining.png",
+      "prompt": "Style Jazz Piano Lounge \u00c2\u00b7 Emerald Encore: Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary. A warm emerald and cognac living room where a compact hybrid grand is part of daily life. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper. Palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic intimate four-seat residential dining space with adjoining sitting area glimpse. Furnish small emerald velvet 180cm two-seat sofa; one cognac leather 80cm club chair; small oval walnut coffee table 85x45cm; compact walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR cream upholstered chairs; compact black Kawai NV12 hybrid grand piano and padded bench; slim bronze floor lamp; amber table lamp; one narrow stepped bronze Deco mirror; two framed black-and-white portraits of Oscar Peterson and Ella Fitzgerald. Show table and FOUR chairs prominently, no restaurant. Landscape 3:2, polished editorial presentation, no people. Reference is PRODUCT only: Kawai NV12 black hybrid grand styling, shallow 87cm body depth,151.5cm width,three pedals,bench,short lid prop. Warm amber lamps with readable moody evening light, cozy joyful lived-in home, no stage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "condo_21_Living_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00c2\u00b7 Emerald Encore (Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary). Living wide: sofa LEFT by glazing, TV RIGHT wall, dining middle background BEFORE island, kitchen rear RIGHT. Furniture: small emerald velvet 180cm two-seat sofa; one cognac leather 80cm club chair; small oval walnut coffee table 85x45cm; compact walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR cream upholstered chairs; compact black Kawai NV12 hybrid grand piano and padded bench; slim bronze floor lamp; amber table lamp; one narrow stepped bronze Deco mirror; two framed black-and-white portraits of Oscar Peterson and Ella Fitzgerald. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper; palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_51_jazz_emerald_encore/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "condo_20_Living_Alternate.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00c2\u00b7 Emerald Encore (Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: small emerald velvet 180cm two-seat sofa; one cognac leather 80cm club chair; small oval walnut coffee table 85x45cm; compact walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR cream upholstered chairs; compact black Kawai NV12 hybrid grand piano and padded bench; slim bronze floor lamp; amber table lamp; one narrow stepped bronze Deco mirror; two framed black-and-white portraits of Oscar Peterson and Ella Fitzgerald. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper; palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_51_jazz_emerald_encore/condo_21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "condo_23_Dining_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00c2\u00b7 Emerald Encore (Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: small emerald velvet 180cm two-seat sofa; one cognac leather 80cm club chair; small oval walnut coffee table 85x45cm; compact walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR cream upholstered chairs; compact black Kawai NV12 hybrid grand piano and padded bench; slim bronze floor lamp; amber table lamp; one narrow stepped bronze Deco mirror; two framed black-and-white portraits of Oscar Peterson and Ella Fitzgerald. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper; palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_51_jazz_emerald_encore/condo_21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00c2\u00b7 Emerald Encore (Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: emerald upholstered queen; walnut nightstands; warm amber ceramic bedside lamps; cream bedding and cognac throw. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper; palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_51_jazz_emerald_encore/04_example_bedroom.png"
+      ]
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "condo_10_Solarium.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00c2\u00b7 Emerald Encore (Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: teak and emerald outdoor seating; bronze rechargeable table lamps; compact teak dining set. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper; palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "01_moodboard.png",
+      "prompt": "Style Jazz Piano Lounge \u00b7 Emerald Encore: Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary. A warm emerald and cognac living room where a compact hybrid grand is part of daily life. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper. Palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one elegant editorial flat-lay moodboard: tactile material samples, upholstery swatches, wood and metal, lighting and furnishing detail cutouts. Style title legible. small emerald velvet 180cm two-seat sofa; one cognac leather 80cm club chair; small oval walnut coffee table 85x45cm; compact walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR cream upholstered chairs; compact black Kawai NV12 hybrid grand piano and padded bench; slim bronze floor lamp; amber table lamp; one narrow stepped bronze Deco mirror; two framed black-and-white portraits of Oscar Peterson and Ella Fitzgerald. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "02_palette.png",
+      "prompt": "Style Jazz Piano Lounge \u00b7 Emerald Encore: Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary. A warm emerald and cognac living room where a compact hybrid grand is part of daily life. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper. Palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one attractive designer color palette board with five large color fields labeled exact hex codes #E8DDCA, #275448, #A46D46, #B29660, #333A36, tactile material details beside swatches. Jazz Piano Lounge \u00b7 Emerald Encore title. No room photograph. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "03_example_living.png",
+      "prompt": "Create one photorealistic generic residential condo living and dining inspiration image for Jazz Piano Lounge \u00b7 Emerald Encore. A warm emerald and cognac living room where a compact hybrid grand is part of daily life.. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper. Colors #E8DDCA, #275448, #A46D46, #B29660, #333A36. Furnish exactly with small emerald velvet 180cm two-seat sofa; one cognac leather 80cm club chair; small oval walnut coffee table 85x45cm; compact walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR cream upholstered chairs; compact black Kawai NV12 hybrid grand piano and padded bench; slim bronze floor lamp; amber table lamp; one narrow stepped bronze Deco mirror; two framed black-and-white portraits of Oscar Peterson and Ella Fitzgerald. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness.. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale.. Warm layered dimmable amber lamps, readable moody evening exposure, relaxed joyful inhabited home. Four-person everyday dining separate from cozy sitting for 2\u20134. No commercial stage or bar. Attached image is PRODUCT reference only: reproduce Kawai NV12 shortened grand-styled body (151.5cm wide, ONLY87cm deep), polished black, short lid prop, bench and three pedals. Not a full grand piano. Place on solid wall clear of dining circulation. Realistic modest condo scale, no people, landscape 3:2 editorial photograph.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "04_example_bedroom.png",
+      "prompt": "Style Jazz Piano Lounge \u00b7 Emerald Encore: Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary. A warm emerald and cognac living room where a compact hybrid grand is part of daily life. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper. Palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic primary bedroom ONLY, emerald upholstered queen; walnut nightstands; warm amber ceramic bedside lamps; cream bedding and cognac throw; queen bed, TWO nightstands and TWO table lamps, quiet residential retreat; no piano, no living room. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "05_example_dining.png",
+      "prompt": "Style Jazz Piano Lounge \u00b7 Emerald Encore: Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary. A warm emerald and cognac living room where a compact hybrid grand is part of daily life. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper. Palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic intimate four-seat residential dining space with adjoining sitting area glimpse. Furnish small emerald velvet 180cm two-seat sofa; one cognac leather 80cm club chair; small oval walnut coffee table 85x45cm; compact walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR cream upholstered chairs; compact black Kawai NV12 hybrid grand piano and padded bench; slim bronze floor lamp; amber table lamp; one narrow stepped bronze Deco mirror; two framed black-and-white portraits of Oscar Peterson and Ella Fitzgerald. Show table and FOUR chairs prominently, no restaurant. Landscape 3:2, polished editorial presentation, no people. Reference is PRODUCT only: Kawai NV12 black hybrid grand styling, shallow 87cm body depth,151.5cm width,three pedals,bench,short lid prop. Warm amber lamps with readable moody evening light, cozy joyful lived-in home, no stage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "condo_10_Solarium.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00b7 Emerald Encore (Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: teak and emerald outdoor seating; bronze rechargeable table lamps; compact teak dining set. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper; palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "condo_10_Solarium_v2.png",
+      "prompt": "Edit this solarium concept with ONLY ONE localized correction: through the LEFT glass, change the indoor ivory sectional to the same emerald velvet compact two-seat sofa as the lounge style; no sectional chaise. Keep the entire solarium furniture, black tile, black column, mullions, wood ceiling, light and camera unchanged.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_51_jazz_emerald_encore/condo_10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "condo_20_Living_Alternate.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00b7 Emerald Encore (Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: small emerald velvet 180cm two-seat sofa; one cognac leather 80cm club chair; small oval walnut coffee table 85x45cm; compact walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR cream upholstered chairs; compact black Kawai NV12 hybrid grand piano and padded bench; slim bronze floor lamp; amber table lamp; one narrow stepped bronze Deco mirror; two framed black-and-white portraits of Oscar Peterson and Ella Fitzgerald. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper; palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_51_jazz_emerald_encore/condo_21_Living_Wide_v2.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "condo_20_Living_Alternate_v2.png",
+      "prompt": "Edit this furnished condo ONLY correct wall geometry and art location. The long RIGHTwall from refrigerator to TV is ONE FLAT CONTINUOUS wall with no projecting pilaster or recess. Remove invented white projecting vertical column just left of piano; keep flat wall, same wallpaper section at piano. Remove two jazz portraits from right wall next to refrigerator: they belong opposite on sofa-side wall outside camera. Keep piano TV sofa chair coffee dining table four chairs refrigerator and lighting at exactly same positions. Do not add any openings.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_51_jazz_emerald_encore/condo_20_Living_Alternate.png"
+      ]
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "condo_21_Living_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00b7 Emerald Encore (Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary). Living wide: sofa LEFT by glazing, TV RIGHT wall, dining middle background BEFORE island, kitchen rear RIGHT. Furniture: small emerald velvet 180cm two-seat sofa; one cognac leather 80cm club chair; small oval walnut coffee table 85x45cm; compact walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR cream upholstered chairs; compact black Kawai NV12 hybrid grand piano and padded bench; slim bronze floor lamp; amber table lamp; one narrow stepped bronze Deco mirror; two framed black-and-white portraits of Oscar Peterson and Ella Fitzgerald. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper; palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_51_jazz_emerald_encore/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "condo_21_Living_Wide_v2.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00b7 Emerald Encore (Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary). Living wide: sofa LEFT by glazing, TV RIGHT wall, dining middle background BEFORE island, kitchen rear RIGHT. Furniture: small emerald velvet 180cm two-seat sofa; one cognac leather 80cm club chair; small oval walnut coffee table 85x45cm; compact walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR cream upholstered chairs; compact black Kawai NV12 hybrid grand piano and padded bench; slim bronze floor lamp; amber table lamp; one narrow stepped bronze Deco mirror; two framed black-and-white portraits of Oscar Peterson and Ella Fitzgerald. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper; palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths. CRITICAL: keep the tall refrigerator volume on rear RIGHT, exactly as empty image1. No wallpaper on refrigerator; keep it light gray/cream and fully recognizable. Do not extend the solid wall outward or remove fridge to fit piano. Piano and wallpaper on existing foregroundRIGHTwall only, closer camera than refrigerator, keep front of fridge clear. Preserve full original wide camera framing and original white wall geometry.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_51_jazz_emerald_encore/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "condo_23_Dining_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00b7 Emerald Encore (Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: small emerald velvet 180cm two-seat sofa; one cognac leather 80cm club chair; small oval walnut coffee table 85x45cm; compact walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR cream upholstered chairs; compact black Kawai NV12 hybrid grand piano and padded bench; slim bronze floor lamp; amber table lamp; one narrow stepped bronze Deco mirror; two framed black-and-white portraits of Oscar Peterson and Ella Fitzgerald. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper; palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_51_jazz_emerald_encore/condo_21_Living_Wide_v2.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_51_jazz_emerald_encore",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00b7 Emerald Encore (Jazz Piano Lounge + Contemporary Art Deco + Quiet Luxury Contemporary). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: emerald upholstered queen; walnut nightstands; warm amber ceramic bedside lamps; cream bedding and cognac throw. Materials emerald velvet; cognac leather; walnut; bronze; charcoal woven wallpaper; palette #E8DDCA, #275448, #A46D46, #B29660, #333A36. Use charcoal-green woven-look wallpaper only behind the piano, a warm-ivory room elsewhere, two jazz portraits, and a small ochre geometric cushion for playfulness. Avoid a stage, bar, velvet ropes, commercial banquettes, neon or concert-grand scale.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_51_jazz_emerald_encore/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "f37b74043ffc1e4f685b0d05b47bce4f365eccb41ad24ffbe7f048272bc6c04d"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "ad2942d2351929cdd026b0dfafd939c2a625dc772c5108784e1f2ae0ea1afb1a"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "00c9d6988609c5c5502c096dc0b332d2d5c2bdfb2814571626759247be2aa173"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "945948e1c5fd9d33a8b8f7557443b4987783790e713cd97a67dab9a882907a72"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "8c15a0a80924086a5eb4659fdf10d32c2b3eecd50ca4c47c08972af5802f8c9a"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide_v2.png",
+      "sha256": "0cbef28059858e39ee0034348a7389c90b7b141a824e8e941373f68fdd0200a4"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate_v2.png",
+      "sha256": "21d55e732cb39b06bd0bf2c24ed1e212d6d34b185090e7971722833e71f35076"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "fb188327e09e737c6ef1cc72e88c28f8da059b23b7f3c8e5d3250b287c71d28f"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "beb46b6a4304c4c811f97419d5e847ae1b62ea416071fccf48fb7b168c8da8b8"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium_v2.png",
+      "sha256": "28515264ea8d40625ca4b5b8e0825143590fed7de6f2594efa1e475b55e044ad"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "folder": "style_43_emerald_left_bank",
+  "file": "condo_31_Bedroom_Primary_Wide.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Emerald Left Bank (Parisian Contemporary + Contemporary Art Deco). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: emerald arched upholstered queen; walnut nightstands; ivory linen lamps; cream bedding. Materials emerald velvet; walnut; marble; aged brass; cream linen; palette #EEE5D6, #28564A, #986D4D, #BA9D73, #303735. Use one stepped Deco mirror and a large black-line artwork; echo emerald through only a few smaller textiles. Avoid a matching jewel-tone set on every surface.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_43_emerald_left_bank/04_example_bedroom.png"
+  ]
+}

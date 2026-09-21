@@ -1,0 +1,9 @@
+{
+  "folder": "style_43_emerald_left_bank",
+  "file": "condo_23_Dining_Wide.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Emerald Left Bank (Parisian Contemporary + Contemporary Art Deco). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: emerald curved-back 205cm sofa; cream linen walnut-leg chair; oval white marble coffee table with slender brass legs; walnut media cabinet; 105cm walnut pedestal table with four cream chairs; small opal-brass pendant. Materials emerald velvet; walnut; marble; aged brass; cream linen; palette #EEE5D6, #28564A, #986D4D, #BA9D73, #303735. Use one stepped Deco mirror and a large black-line artwork; echo emerald through only a few smaller textiles. Avoid a matching jewel-tone set on every surface.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_43_emerald_left_bank/condo_21_Living_Wide.png"
+  ]
+}

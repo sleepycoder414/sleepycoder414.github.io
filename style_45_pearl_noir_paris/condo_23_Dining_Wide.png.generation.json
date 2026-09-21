@@ -1,0 +1,9 @@
+{
+  "folder": "style_45_pearl_noir_paris",
+  "file": "condo_23_Dining_Wide.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Pearl & Noir Paris (Parisian Contemporary + Quiet Luxury Contemporary). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: pearl rounded 205cm sofa; charcoal wool swivel chair; oval pale-marble table with black legs; blackened-oak media cabinet; 105cm blackened-oak round table and four pearl chairs; nickel opal globe pendant. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool; palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_45_pearl_noir_paris/condo_21_Living_Wide.png"
+  ]
+}

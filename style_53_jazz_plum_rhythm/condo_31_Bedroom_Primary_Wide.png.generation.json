@@ -1,0 +1,9 @@
+{
+  "folder": "style_53_jazz_plum_rhythm",
+  "file": "condo_31_Bedroom_Primary_Wide.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge · Plum Rhythm (Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: plum curved upholstered queen; walnut nightstands; rose ceramic lamps; oatmeal linen bedding. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper; palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1. Keep mirror on sofa-side wall, two portraits above piano. Plain refrigerator, no decor on fridge. Through solarium LEFTglass living sofa is PLUM VELVET, no ivory sofa.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_53_jazz_plum_rhythm/04_example_bedroom.png"
+  ]
+}

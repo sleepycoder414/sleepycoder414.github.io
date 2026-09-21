@@ -1,0 +1,9 @@
+{
+  "folder": "style_44_cocoa_club_contemporary",
+  "file": "condo_20_Living_Alternate.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Cocoa Club Contemporary (Quiet Luxury Contemporary + Contemporary Art Deco). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: chocolate 210cm tailored sofa; cognac leather club chair; round honed brown-stone coffee table; smoked walnut media cabinet; 105cm smoked walnut dining table and four camel chairs; bronze shallow pendant. Materials chocolate velvet; cognac leather; smoked walnut; brown stone; bronze; palette #EBE2D4, #544037, #A8734E, #A89B84, #292D2C. Keep walls warm ivory with one tobacco-textured accent; let leather and fabric provide richness without new millwork. Avoid making all walls dark or adding a built-in bar.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Any indoor sofa glimpsed through solarium glass must be chocolate velvet, matching living recipe.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_44_cocoa_club_contemporary/condo_21_Living_Wide.png"
+  ]
+}

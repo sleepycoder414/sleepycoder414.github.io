@@ -1,0 +1,9 @@
+{
+  "folder": "style_41_ivory_bronze_salon",
+  "file": "condo_20_Living_Alternate.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Ivory & Bronze Salon (Quiet Luxury Contemporary + Parisian Contemporary). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: ivory slim curved-arm 210cm sofa; taupe velvet barrel chair; oval cream-stone coffee table on walnut legs; slim walnut media cabinet; 105cm round walnut dining table with four ivory upholstered chairs; twin bronze opal pendant. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet; palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_41_ivory_bronze_salon/condo_21_Living_Wide.png"
+  ]
+}

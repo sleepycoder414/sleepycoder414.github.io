@@ -1,0 +1,209 @@
+{
+  "style": {
+    "id": "49",
+    "slug": "silver_screen_soft_deco",
+    "name": "Silver Screen Soft Deco",
+    "blend": "Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco",
+    "definition": "Dove-gray curves and reflective accents evoke old cinema in a light residential room.",
+    "materials": "dove velvet; ivory boucle; silvered mirror; dark walnut; nickel",
+    "colors": [
+      "#EDE9E1",
+      "#A8AAAD",
+      "#C7BDB1",
+      "#62504A",
+      "#323A41"
+    ],
+    "living": "dove-gray curved 205cm sofa; ivory boucle swivel chair; round pale-stone coffee table with nickel base; dark walnut media cabinet; 105cm round dark walnut table and four dove chairs; opal nickel pendant",
+    "bed": "dove fan-shaped queen headboard; dark walnut nightstands; opal lamps; ivory quilt",
+    "solarium": "charcoal aluminum lounge frames with gray cushions; round outdoor dining",
+    "implement": "Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized.",
+    "avoid": "Avoid mirror-clad furniture and theatrical ceiling treatments.",
+    "fit": "Very good",
+    "folder": "style_49_silver_screen_soft_deco",
+    "collection": "favorites"
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "01_moodboard.png",
+      "prompt": "Style Silver Screen Soft Deco: Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco. Dove-gray curves and reflective accents evoke old cinema in a light residential room. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel. Palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one elegant editorial flat-lay moodboard: tactile material samples, upholstery swatches, wood and metal, lighting and furnishing detail cutouts. Style title legible. dove-gray curved 205cm sofa; ivory boucle swivel chair; round pale-stone coffee table with nickel base; dark walnut media cabinet; 105cm round dark walnut table and four dove chairs; opal nickel pendant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "02_palette.png",
+      "prompt": "Style Silver Screen Soft Deco: Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco. Dove-gray curves and reflective accents evoke old cinema in a light residential room. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel. Palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one attractive designer color palette board with five large color fields labeled exact hex codes #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41, tactile material details beside swatches. Silver Screen Soft Deco title. No room photograph. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "03_example_living.png",
+      "prompt": "Style Silver Screen Soft Deco: Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco. Dove-gray curves and reflective accents evoke old cinema in a light residential room. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel. Palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic living room and adjacent four-seat dining example. Furniture dove-gray curved 205cm sofa; ivory boucle swivel chair; round pale-stone coffee table with nickel base; dark walnut media cabinet; 105cm round dark walnut table and four dove chairs; opal nickel pendant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "04_example_bedroom.png",
+      "prompt": "Style Silver Screen Soft Deco: Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco. Dove-gray curves and reflective accents evoke old cinema in a light residential room. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel. Palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic primary bedroom ONLY, dove fan-shaped queen headboard; dark walnut nightstands; opal lamps; ivory quilt; queen bed, TWO nightstands and TWO table lamps, quiet residential retreat; no piano, no living room. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "05_example_dining.png",
+      "prompt": "Style Silver Screen Soft Deco: Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco. Dove-gray curves and reflective accents evoke old cinema in a light residential room. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel. Palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic intimate four-seat residential dining space with adjoining sitting area glimpse. Furnish dove-gray curved 205cm sofa; ivory boucle swivel chair; round pale-stone coffee table with nickel base; dark walnut media cabinet; 105cm round dark walnut table and four dove chairs; opal nickel pendant. Show table and FOUR chairs prominently, no restaurant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "condo_21_Living_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Silver Screen Soft Deco (Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco). Living wide: sofa LEFT by glazing, TV RIGHT wall, dining middle background BEFORE island, kitchen rear RIGHT. Furniture: dove-gray curved 205cm sofa; ivory boucle swivel chair; round pale-stone coffee table with nickel base; dark walnut media cabinet; 105cm round dark walnut table and four dove chairs; opal nickel pendant. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel; palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_49_silver_screen_soft_deco/03_example_living.png"
+      ]
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "condo_20_Living_Alternate.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Silver Screen Soft Deco (Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: dove-gray curved 205cm sofa; ivory boucle swivel chair; round pale-stone coffee table with nickel base; dark walnut media cabinet; 105cm round dark walnut table and four dove chairs; opal nickel pendant. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel; palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_49_silver_screen_soft_deco/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "condo_23_Dining_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Silver Screen Soft Deco (Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: dove-gray curved 205cm sofa; ivory boucle swivel chair; round pale-stone coffee table with nickel base; dark walnut media cabinet; 105cm round dark walnut table and four dove chairs; opal nickel pendant. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel; palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_49_silver_screen_soft_deco/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Silver Screen Soft Deco (Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: dove fan-shaped queen headboard; dark walnut nightstands; opal lamps; ivory quilt. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel; palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_49_silver_screen_soft_deco/04_example_bedroom.png"
+      ]
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "condo_10_Solarium.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Silver Screen Soft Deco (Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: charcoal aluminum lounge frames with gray cushions; round outdoor dining. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel; palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "01_moodboard.png",
+      "prompt": "Style Silver Screen Soft Deco: Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco. Dove-gray curves and reflective accents evoke old cinema in a light residential room. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel. Palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one elegant editorial flat-lay moodboard: tactile material samples, upholstery swatches, wood and metal, lighting and furnishing detail cutouts. Style title legible. dove-gray curved 205cm sofa; ivory boucle swivel chair; round pale-stone coffee table with nickel base; dark walnut media cabinet; 105cm round dark walnut table and four dove chairs; opal nickel pendant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "02_palette.png",
+      "prompt": "Style Silver Screen Soft Deco: Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco. Dove-gray curves and reflective accents evoke old cinema in a light residential room. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel. Palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one attractive designer color palette board with five large color fields labeled exact hex codes #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41, tactile material details beside swatches. Silver Screen Soft Deco title. No room photograph. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "03_example_living.png",
+      "prompt": "Style Silver Screen Soft Deco: Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco. Dove-gray curves and reflective accents evoke old cinema in a light residential room. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel. Palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic living room and adjacent four-seat dining example. Furniture dove-gray curved 205cm sofa; ivory boucle swivel chair; round pale-stone coffee table with nickel base; dark walnut media cabinet; 105cm round dark walnut table and four dove chairs; opal nickel pendant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "04_example_bedroom.png",
+      "prompt": "Style Silver Screen Soft Deco: Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco. Dove-gray curves and reflective accents evoke old cinema in a light residential room. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel. Palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic primary bedroom ONLY, dove fan-shaped queen headboard; dark walnut nightstands; opal lamps; ivory quilt; queen bed, TWO nightstands and TWO table lamps, quiet residential retreat; no piano, no living room. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "05_example_dining.png",
+      "prompt": "Style Silver Screen Soft Deco: Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco. Dove-gray curves and reflective accents evoke old cinema in a light residential room. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel. Palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic intimate four-seat residential dining space with adjoining sitting area glimpse. Furnish dove-gray curved 205cm sofa; ivory boucle swivel chair; round pale-stone coffee table with nickel base; dark walnut media cabinet; 105cm round dark walnut table and four dove chairs; opal nickel pendant. Show table and FOUR chairs prominently, no restaurant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "condo_10_Solarium.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Silver Screen Soft Deco (Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: charcoal aluminum lounge frames with gray cushions; round outdoor dining. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel; palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "condo_20_Living_Alternate.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Silver Screen Soft Deco (Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: dove-gray curved 205cm sofa; ivory boucle swivel chair; round pale-stone coffee table with nickel base; dark walnut media cabinet; 105cm round dark walnut table and four dove chairs; opal nickel pendant. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel; palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Dining table MUST be LEFT in front of island, never RIGHT beside fridge; right wall between fridge and TV is plain ivory, no mirror.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_49_silver_screen_soft_deco/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "condo_21_Living_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Silver Screen Soft Deco (Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco). Living wide: sofa LEFT by glazing, TV RIGHT wall, dining middle background BEFORE island, kitchen rear RIGHT. Furniture: dove-gray curved 205cm sofa; ivory boucle swivel chair; round pale-stone coffee table with nickel base; dark walnut media cabinet; 105cm round dark walnut table and four dove chairs; opal nickel pendant. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel; palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_49_silver_screen_soft_deco/03_example_living.png"
+      ]
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "condo_23_Dining_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Silver Screen Soft Deco (Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: dove-gray curved 205cm sofa; ivory boucle swivel chair; round pale-stone coffee table with nickel base; dark walnut media cabinet; 105cm round dark walnut table and four dove chairs; opal nickel pendant. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel; palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_49_silver_screen_soft_deco/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_49_silver_screen_soft_deco",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Silver Screen Soft Deco (Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: dove fan-shaped queen headboard; dark walnut nightstands; opal lamps; ivory quilt. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel; palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_49_silver_screen_soft_deco/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "5076fc5b731772243e028c8665f26225835d64ce2c89c7acf76605c94669f536"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "f7d746b15cd87d2e84494828dc392bc3205584baa98c861a237dcdd789beaf21"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "f2f6a4200b4380c146c3939013e14fb3019ffef62e354c4ee068ac7906996580"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "0fa69a2cf641fd49333e5a46ace6fd582e0cb356d04dc4430d91501a71762eb7"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "7a3dde9d7b8fde31e194dbc8abfcf320a4644ba418dca84f5860f5a966fd227f"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "839c4f6d42270e8287472b33644840b323293aad4652bb2737e7b40dafe321fe"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate.png",
+      "sha256": "c2e92f9c919d6cb1ecd4f90b2e3f92ac72802736832364124fdb931d2feea57d"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "cdc58bdca6845c35cc0cb68f8dc97f1603afe6326f2a1406af4c68ce6d5e4369"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "4701acdbef19ef82a16253e11f31bcde67a237c44d857488f9c390aab1d02978"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium.png",
+      "sha256": "a7f4a8e212be63ec3f26ad96ea881374d747323797fb530a7cdf2feaf91b78f2"
+    }
+  }
+}

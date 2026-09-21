@@ -1,0 +1,8 @@
+{
+  "folder": "style_51_jazz_emerald_encore",
+  "file": "condo_20_Living_Alternate_v2.png",
+  "prompt": "Edit this furnished condo ONLY correct wall geometry and art location. The long RIGHTwall from refrigerator to TV is ONE FLAT CONTINUOUS wall with no projecting pilaster or recess. Remove invented white projecting vertical column just left of piano; keep flat wall, same wallpaper section at piano. Remove two jazz portraits from right wall next to refrigerator: they belong opposite on sofa-side wall outside camera. Keep piano TV sofa chair coffee dining table four chairs refrigerator and lighting at exactly same positions. Do not add any openings.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_51_jazz_emerald_encore/condo_20_Living_Alternate.png"
+  ]
+}

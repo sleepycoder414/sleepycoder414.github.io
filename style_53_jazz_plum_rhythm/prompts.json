@@ -1,0 +1,235 @@
+{
+  "style": {
+    "id": "53",
+    "slug": "jazz_plum_rhythm",
+    "name": "Jazz Piano Lounge \u00b7 Plum Rhythm",
+    "blend": "Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary",
+    "definition": "Plum, warm rose and lively art give the home an intimate, joyful rhythm.",
+    "materials": "plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper",
+    "colors": [
+      "#EAE0D3",
+      "#654352",
+      "#B78978",
+      "#8D6246",
+      "#B9A16C"
+    ],
+    "living": "small plum velvet 180cm soft curved two-seat sofa; one dusty-rose wool 80cm comfortable armchair; small oval walnut 85x45cm coffee table; slim walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano and black padded bench; small warm-brass dome lamps; one stepped Deco mirror; framed black-and-white portraits of Duke Ellington and Mary Lou Williams; one small mustard-and-rose geometric artwork",
+    "bed": "plum curved upholstered queen; walnut nightstands; rose ceramic lamps; oatmeal linen bedding",
+    "solarium": "teak and muted-plum outdoor cushions; bronze lanterns; round teak dining set",
+    "implement": "Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall.",
+    "avoid": "Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout.",
+    "fit": "Promising; verify piano and bench clearance in the measured model",
+    "folder": "style_53_jazz_plum_rhythm",
+    "collection": "jazz"
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "01_moodboard.png",
+      "prompt": "Style Jazz Piano Lounge \u00c2\u00b7 Plum Rhythm: Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary. Plum, warm rose and lively art give the home an intimate, joyful rhythm. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper. Palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one elegant editorial flat-lay moodboard: tactile material samples, upholstery swatches, wood and metal, lighting and furnishing detail cutouts. Style title legible. small plum velvet 180cm soft curved two-seat sofa; one dusty-rose wool 80cm comfortable armchair; small oval walnut 85x45cm coffee table; slim walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano and black padded bench; small warm-brass dome lamps; one stepped Deco mirror; framed black-and-white portraits of Duke Ellington and Mary Lou Williams; one small mustard-and-rose geometric artwork. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "02_palette.png",
+      "prompt": "Style Jazz Piano Lounge \u00c2\u00b7 Plum Rhythm: Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary. Plum, warm rose and lively art give the home an intimate, joyful rhythm. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper. Palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one attractive designer color palette board with five large color fields labeled exact hex codes #EAE0D3, #654352, #B78978, #8D6246, #B9A16C, tactile material details beside swatches. Jazz Piano Lounge \u00c2\u00b7 Plum Rhythm title. No room photograph. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "03_example_living.png",
+      "prompt": "Style Jazz Piano Lounge \u00c2\u00b7 Plum Rhythm: Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary. Plum, warm rose and lively art give the home an intimate, joyful rhythm. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper. Palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic living room and adjacent four-seat dining example. Furniture small plum velvet 180cm soft curved two-seat sofa; one dusty-rose wool 80cm comfortable armchair; small oval walnut 85x45cm coffee table; slim walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano and black padded bench; small warm-brass dome lamps; one stepped Deco mirror; framed black-and-white portraits of Duke Ellington and Mary Lou Williams; one small mustard-and-rose geometric artwork. Landscape 3:2, polished editorial presentation, no people. Reference is PRODUCT only: Kawai NV12 black hybrid grand styling, shallow 87cm body depth,151.5cm width,three pedals,bench,short lid prop. Warm amber lamps with readable moody evening light, cozy joyful lived-in home, no stage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "04_example_bedroom.png",
+      "prompt": "Style Jazz Piano Lounge \u00c2\u00b7 Plum Rhythm: Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary. Plum, warm rose and lively art give the home an intimate, joyful rhythm. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper. Palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic primary bedroom ONLY, plum curved upholstered queen; walnut nightstands; rose ceramic lamps; oatmeal linen bedding; queen bed, TWO nightstands and TWO table lamps, quiet residential retreat; no piano, no living room. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "05_example_dining.png",
+      "prompt": "Style Jazz Piano Lounge \u00c2\u00b7 Plum Rhythm: Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary. Plum, warm rose and lively art give the home an intimate, joyful rhythm. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper. Palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic intimate four-seat residential dining space with adjoining sitting area glimpse. Furnish small plum velvet 180cm soft curved two-seat sofa; one dusty-rose wool 80cm comfortable armchair; small oval walnut 85x45cm coffee table; slim walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano and black padded bench; small warm-brass dome lamps; one stepped Deco mirror; framed black-and-white portraits of Duke Ellington and Mary Lou Williams; one small mustard-and-rose geometric artwork. Show table and FOUR chairs prominently, no restaurant. Landscape 3:2, polished editorial presentation, no people. Reference is PRODUCT only: Kawai NV12 black hybrid grand styling, shallow 87cm body depth,151.5cm width,three pedals,bench,short lid prop. Warm amber lamps with readable moody evening light, cozy joyful lived-in home, no stage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "condo_21_Living_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00c2\u00b7 Plum Rhythm (Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary). Living wide: sofa LEFT by glazing, TV RIGHT wall, dining middle background BEFORE island, kitchen rear RIGHT. Furniture: small plum velvet 180cm soft curved two-seat sofa; one dusty-rose wool 80cm comfortable armchair; small oval walnut 85x45cm coffee table; slim walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano and black padded bench; small warm-brass dome lamps; one stepped Deco mirror; framed black-and-white portraits of Duke Ellington and Mary Lou Williams; one small mustard-and-rose geometric artwork. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper; palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_53_jazz_plum_rhythm/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "condo_20_Living_Alternate.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00c2\u00b7 Plum Rhythm (Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: small plum velvet 180cm soft curved two-seat sofa; one dusty-rose wool 80cm comfortable armchair; small oval walnut 85x45cm coffee table; slim walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano and black padded bench; small warm-brass dome lamps; one stepped Deco mirror; framed black-and-white portraits of Duke Ellington and Mary Lou Williams; one small mustard-and-rose geometric artwork. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper; palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_53_jazz_plum_rhythm/condo_21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "condo_23_Dining_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00c2\u00b7 Plum Rhythm (Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: small plum velvet 180cm soft curved two-seat sofa; one dusty-rose wool 80cm comfortable armchair; small oval walnut 85x45cm coffee table; slim walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano and black padded bench; small warm-brass dome lamps; one stepped Deco mirror; framed black-and-white portraits of Duke Ellington and Mary Lou Williams; one small mustard-and-rose geometric artwork. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper; palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_53_jazz_plum_rhythm/condo_21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00c2\u00b7 Plum Rhythm (Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: plum curved upholstered queen; walnut nightstands; rose ceramic lamps; oatmeal linen bedding. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper; palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_53_jazz_plum_rhythm/04_example_bedroom.png"
+      ]
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "condo_10_Solarium.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00c2\u00b7 Plum Rhythm (Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: teak and muted-plum outdoor cushions; bronze lanterns; round teak dining set. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper; palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "01_moodboard.png",
+      "prompt": "Style Jazz Piano Lounge \u00b7 Plum Rhythm: Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary. Plum, warm rose and lively art give the home an intimate, joyful rhythm. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper. Palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one elegant editorial flat-lay moodboard: tactile material samples, upholstery swatches, wood and metal, lighting and furnishing detail cutouts. Style title legible. small plum velvet 180cm soft curved two-seat sofa; one dusty-rose wool 80cm comfortable armchair; small oval walnut 85x45cm coffee table; slim walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano and black padded bench; small warm-brass dome lamps; one stepped Deco mirror; framed black-and-white portraits of Duke Ellington and Mary Lou Williams; one small mustard-and-rose geometric artwork. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "02_palette.png",
+      "prompt": "Style Jazz Piano Lounge \u00b7 Plum Rhythm: Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary. Plum, warm rose and lively art give the home an intimate, joyful rhythm. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper. Palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one attractive designer color palette board with five large color fields labeled exact hex codes #EAE0D3, #654352, #B78978, #8D6246, #B9A16C, tactile material details beside swatches. Jazz Piano Lounge \u00b7 Plum Rhythm title. No room photograph. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "03_example_living.png",
+      "prompt": "Style Jazz Piano Lounge \u00b7 Plum Rhythm: Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary. Plum, warm rose and lively art give the home an intimate, joyful rhythm. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper. Palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic living room and adjacent four-seat dining example. Furniture small plum velvet 180cm soft curved two-seat sofa; one dusty-rose wool 80cm comfortable armchair; small oval walnut 85x45cm coffee table; slim walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano and black padded bench; small warm-brass dome lamps; one stepped Deco mirror; framed black-and-white portraits of Duke Ellington and Mary Lou Williams; one small mustard-and-rose geometric artwork. Landscape 3:2, polished editorial presentation, no people. Reference is PRODUCT only: Kawai NV12 black hybrid grand styling, shallow 87cm body depth,151.5cm width,three pedals,bench,short lid prop. Warm amber lamps with readable moody evening light, cozy joyful lived-in home, no stage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "04_example_bedroom.png",
+      "prompt": "Style Jazz Piano Lounge \u00b7 Plum Rhythm: Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary. Plum, warm rose and lively art give the home an intimate, joyful rhythm. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper. Palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic primary bedroom ONLY, plum curved upholstered queen; walnut nightstands; rose ceramic lamps; oatmeal linen bedding; queen bed, TWO nightstands and TWO table lamps, quiet residential retreat; no piano, no living room. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "05_example_dining.png",
+      "prompt": "Style Jazz Piano Lounge \u00b7 Plum Rhythm: Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary. Plum, warm rose and lively art give the home an intimate, joyful rhythm. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper. Palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic intimate four-seat residential dining space with adjoining sitting area glimpse. Furnish small plum velvet 180cm soft curved two-seat sofa; one dusty-rose wool 80cm comfortable armchair; small oval walnut 85x45cm coffee table; slim walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano and black padded bench; small warm-brass dome lamps; one stepped Deco mirror; framed black-and-white portraits of Duke Ellington and Mary Lou Williams; one small mustard-and-rose geometric artwork. Show table and FOUR chairs prominently, no restaurant. Landscape 3:2, polished editorial presentation, no people. Reference is PRODUCT only: Kawai NV12 black hybrid grand styling, shallow 87cm body depth,151.5cm width,three pedals,bench,short lid prop. Warm amber lamps with readable moody evening light, cozy joyful lived-in home, no stage.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "condo_10_Solarium.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00b7 Plum Rhythm (Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: teak and muted-plum outdoor cushions; bronze lanterns; round teak dining set. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper; palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1. Keep mirror on sofa-side wall, two portraits above piano. Plain refrigerator, no decor on fridge. Through solarium LEFTglass living sofa is PLUM VELVET, no ivory sofa.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "condo_20_Living_Alternate.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00b7 Plum Rhythm (Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: small plum velvet 180cm soft curved two-seat sofa; one dusty-rose wool 80cm comfortable armchair; small oval walnut 85x45cm coffee table; slim walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano and black padded bench; small warm-brass dome lamps; one stepped Deco mirror; framed black-and-white portraits of Duke Ellington and Mary Lou Williams; one small mustard-and-rose geometric artwork. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper; palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths. Keep mirror on sofa-side wall, two portraits above piano. Plain refrigerator, no decor on fridge. Through solarium LEFTglass living sofa is PLUM VELVET, no ivory sofa.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_53_jazz_plum_rhythm/condo_21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "condo_20_Living_Alternate_v2.png",
+      "prompt": "Edit this furnished condo. Keep camera architecture piano TV couch chair coffee table color lighting. Move FOUR-chair round dining table from next to refrigerator on RIGHT to LEFT midground directly IN FRONT of island toward camera; retain clear kitchen aisle. Move dining pendant with table. Remove mirror on right wall next to fridge: mirror belongs opposite sofa-side wall outside frame. Do not add walls windows doors. Preserve all other objects.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_53_jazz_plum_rhythm/condo_20_Living_Alternate.png"
+      ]
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "condo_21_Living_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00b7 Plum Rhythm (Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary). Living wide: sofa LEFT by glazing, TV RIGHT wall, dining middle background BEFORE island, kitchen rear RIGHT. Furniture: small plum velvet 180cm soft curved two-seat sofa; one dusty-rose wool 80cm comfortable armchair; small oval walnut 85x45cm coffee table; slim walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano and black padded bench; small warm-brass dome lamps; one stepped Deco mirror; framed black-and-white portraits of Duke Ellington and Mary Lou Williams; one small mustard-and-rose geometric artwork. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper; palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths. Keep refrigerator rearRIGHT recognizable plain cream/gray, no wallpaper or artwork on it. Piano only on existing foregroundRIGHTwall closer camera than fridge. Place stepped mirror on LEFTshortwall by dining; portraits pianoRIGHT. Four chairs clearly at dining. No new wall projections.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_53_jazz_plum_rhythm/03_example_living.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "condo_23_Dining_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00b7 Plum Rhythm (Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: small plum velvet 180cm soft curved two-seat sofa; one dusty-rose wool 80cm comfortable armchair; small oval walnut 85x45cm coffee table; slim walnut TV cabinet with discreet TV; 100cm round walnut dining table and FOUR oatmeal chairs; compact ebony Kawai NV12 hybrid grand piano and black padded bench; small warm-brass dome lamps; one stepped Deco mirror; framed black-and-white portraits of Duke Ellington and Mary Lou Williams; one small mustard-and-rose geometric artwork. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper; palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. Add Kawai NV12 as PRODUCT reference, 151.5cm wide and only87cm deep,short grand-styled polished black body,short lid prop,bench and three pedals. Piano on solid TV wall toward kitchen end but clear of refrigerator, keyboard toward room; reserve bench playing zone and separate walkway. TV sits beside piano, not above lid. In21/20 pianoRIGHT, in23 pianoLEFT may be cropped: never move it to bedroom door wall to force visibility. Moody amber floor/table lamps, still readable architecture. Retain separate daily four-seat dining. No bar/stage/club booths. Keep mirror on sofa-side wall, two portraits above piano. Plain refrigerator, no decor on fridge. Through solarium LEFTglass living sofa is PLUM VELVET, no ivory sofa.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_53_jazz_plum_rhythm/condo_21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/NV12-angled.jpg"
+      ]
+    },
+    {
+      "folder": "style_53_jazz_plum_rhythm",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge \u00b7 Plum Rhythm (Jazz Piano Lounge + Parisian Contemporary + Quiet Luxury Contemporary). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: plum curved upholstered queen; walnut nightstands; rose ceramic lamps; oatmeal linen bedding. Materials plum velvet; dusty rose wool; walnut; warm brass; oatmeal textured wallpaper; palette #EAE0D3, #654352, #B78978, #8D6246, #B9A16C. Use warm oatmeal linen-look wallpaper at the piano, plum and rose in upholstery, brass light pools, and a small joyful geometric print rather than an expensive feature wall. Avoid a theatrical red room, crystal chandeliers, stage lighting and a drinks-only layout.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1. Keep mirror on sofa-side wall, two portraits above piano. Plain refrigerator, no decor on fridge. Through solarium LEFTglass living sofa is PLUM VELVET, no ivory sofa.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_53_jazz_plum_rhythm/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "5f325a88e2ab968bc4411585556cbed0a21369ed2cf7824c0e83977f15a8cb06"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "cdd2acfe5e8b409bb270d99fb5ab0f26c49126ab628e273f411d7883565d1b09"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "fe11cc7a4a1671012c4e8baaa071e31d83ade2969ac10ec32eb4054457e201df"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "ed5b7cb290a9aea74af12754cf61e0e2b99c0fdcade41962c02c98fc391832b4"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "8332e590871765f32a18a9ee87e6b0a936ab0ab3128029f8a467f22e183c647f"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "b16f97b6ebb0b51ecfb66467f8bc45cb97aa232669147a454b80da748c6ab03c"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate_v2.png",
+      "sha256": "5b567c9169478e0a15cf2164a0f8499ededd8dc27c3b93f4e48fffbe1e0746da"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "5f12b207664a83499e0839ad0ccf14ed3141900a20c0d86327725c138b02c546"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "3303b0e5d9b4ce1860dbd020aee41880fbbb8a7c2d91e02c89d41955542b9824"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium.png",
+      "sha256": "598e01c07a5a1212535531657d93f5fa32d4d9c617986191eaa5c7115f430e67"
+    }
+  }
+}

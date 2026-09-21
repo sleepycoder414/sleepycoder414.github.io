@@ -1,0 +1,30 @@
+{
+  "style": "Ivory & Bronze Salon",
+  "expected": 10,
+  "saved": 10,
+  "state": "reviewed",
+  "selected_outputs": {
+    "01_moodboard.png": "01_moodboard.png",
+    "02_palette.png": "02_palette.png",
+    "03_example_living.png": "03_example_living.png",
+    "04_example_bedroom.png": "04_example_bedroom.png",
+    "05_example_dining.png": "05_example_dining.png",
+    "condo_21_Living_Wide.png": "condo_21_Living_Wide.png",
+    "condo_20_Living_Alternate.png": "condo_20_Living_Alternate.png",
+    "condo_23_Dining_Wide.png": "condo_23_Dining_Wide.png",
+    "condo_31_Bedroom_Primary_Wide.png": "condo_31_Bedroom_Primary_Wide.png",
+    "condo_10_Solarium.png": "condo_10_Solarium.png"
+  },
+  "review": {
+    "approved": true,
+    "reviewed_at": "2026-09-20",
+    "scope": "Image concept review, not measured furniture fit",
+    "notes": [
+      "Compared all ten outputs with recipe and generic examples.",
+      "Main furniture palette, queen bed with two lamps, four-seat dining and outdoor solarium furnishings represented.",
+      "Shared living/dining cameras retain sofa side and TV side; jazz piano remains on TV wall.",
+      "Selected correction revisions resolve major layout/architecture errors; minor art, lighting and furniture-detail variations remain."
+    ],
+    "pending_corrections": []
+  }
+}

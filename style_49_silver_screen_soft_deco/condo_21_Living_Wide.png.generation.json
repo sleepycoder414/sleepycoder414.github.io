@@ -1,0 +1,9 @@
+{
+  "folder": "style_49_silver_screen_soft_deco",
+  "file": "condo_21_Living_Wide.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Silver Screen Soft Deco (Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco). Living wide: sofa LEFT by glazing, TV RIGHT wall, dining middle background BEFORE island, kitchen rear RIGHT. Furniture: dove-gray curved 205cm sofa; ivory boucle swivel chair; round pale-stone coffee table with nickel base; dark walnut media cabinet; 105cm round dark walnut table and four dove chairs; opal nickel pendant. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel; palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_49_silver_screen_soft_deco/03_example_living.png"
+  ]
+}

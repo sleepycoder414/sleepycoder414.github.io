@@ -1,0 +1,209 @@
+{
+  "style": {
+    "id": "45",
+    "slug": "pearl_noir_paris",
+    "name": "Pearl & Noir Paris",
+    "blend": "Parisian Contemporary + Quiet Luxury Contemporary",
+    "definition": "Pearl linen, black accents and graphic art give a Parisian room a crisp contemporary edge.",
+    "materials": "pearl linen; blackened oak; pale marble; nickel; charcoal wool",
+    "colors": [
+      "#F1EDE4",
+      "#B7B0A6",
+      "#656767",
+      "#202728",
+      "#9B8871"
+    ],
+    "living": "pearl rounded 205cm sofa; charcoal wool swivel chair; oval pale-marble table with black legs; blackened-oak media cabinet; 105cm blackened-oak round table and four pearl chairs; nickel opal globe pendant",
+    "bed": "pearl upholstered queen with black piping; black oak nightstands; opal nickel lamps; charcoal throw",
+    "solarium": "black aluminum outdoor frames with pearl cushions; round black outdoor dining set",
+    "implement": "Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast.",
+    "avoid": "Avoid glossy black walls or oversized mirrors.",
+    "fit": "Very good",
+    "folder": "style_45_pearl_noir_paris",
+    "collection": "favorites"
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "01_moodboard.png",
+      "prompt": "Style Pearl & Noir Paris: Parisian Contemporary + Quiet Luxury Contemporary. Pearl linen, black accents and graphic art give a Parisian room a crisp contemporary edge. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool. Palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one elegant editorial flat-lay moodboard: tactile material samples, upholstery swatches, wood and metal, lighting and furnishing detail cutouts. Style title legible. pearl rounded 205cm sofa; charcoal wool swivel chair; oval pale-marble table with black legs; blackened-oak media cabinet; 105cm blackened-oak round table and four pearl chairs; nickel opal globe pendant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "02_palette.png",
+      "prompt": "Style Pearl & Noir Paris: Parisian Contemporary + Quiet Luxury Contemporary. Pearl linen, black accents and graphic art give a Parisian room a crisp contemporary edge. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool. Palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one attractive designer color palette board with five large color fields labeled exact hex codes #F1EDE4, #B7B0A6, #656767, #202728, #9B8871, tactile material details beside swatches. Pearl & Noir Paris title. No room photograph. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "03_example_living.png",
+      "prompt": "Style Pearl & Noir Paris: Parisian Contemporary + Quiet Luxury Contemporary. Pearl linen, black accents and graphic art give a Parisian room a crisp contemporary edge. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool. Palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic living room and adjacent four-seat dining example. Furniture pearl rounded 205cm sofa; charcoal wool swivel chair; oval pale-marble table with black legs; blackened-oak media cabinet; 105cm blackened-oak round table and four pearl chairs; nickel opal globe pendant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "04_example_bedroom.png",
+      "prompt": "Style Pearl & Noir Paris: Parisian Contemporary + Quiet Luxury Contemporary. Pearl linen, black accents and graphic art give a Parisian room a crisp contemporary edge. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool. Palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic primary bedroom ONLY, pearl upholstered queen with black piping; black oak nightstands; opal nickel lamps; charcoal throw; queen bed, TWO nightstands and TWO table lamps, quiet residential retreat; no piano, no living room. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "05_example_dining.png",
+      "prompt": "Style Pearl & Noir Paris: Parisian Contemporary + Quiet Luxury Contemporary. Pearl linen, black accents and graphic art give a Parisian room a crisp contemporary edge. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool. Palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic intimate four-seat residential dining space with adjoining sitting area glimpse. Furnish pearl rounded 205cm sofa; charcoal wool swivel chair; oval pale-marble table with black legs; blackened-oak media cabinet; 105cm blackened-oak round table and four pearl chairs; nickel opal globe pendant. Show table and FOUR chairs prominently, no restaurant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "condo_21_Living_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Pearl & Noir Paris (Parisian Contemporary + Quiet Luxury Contemporary). Living wide: sofa LEFT by glazing, TV RIGHT wall, dining middle background BEFORE island, kitchen rear RIGHT. Furniture: pearl rounded 205cm sofa; charcoal wool swivel chair; oval pale-marble table with black legs; blackened-oak media cabinet; 105cm blackened-oak round table and four pearl chairs; nickel opal globe pendant. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool; palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_45_pearl_noir_paris/03_example_living.png"
+      ]
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "condo_20_Living_Alternate.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Pearl & Noir Paris (Parisian Contemporary + Quiet Luxury Contemporary). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: pearl rounded 205cm sofa; charcoal wool swivel chair; oval pale-marble table with black legs; blackened-oak media cabinet; 105cm blackened-oak round table and four pearl chairs; nickel opal globe pendant. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool; palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_45_pearl_noir_paris/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "condo_23_Dining_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Pearl & Noir Paris (Parisian Contemporary + Quiet Luxury Contemporary). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: pearl rounded 205cm sofa; charcoal wool swivel chair; oval pale-marble table with black legs; blackened-oak media cabinet; 105cm blackened-oak round table and four pearl chairs; nickel opal globe pendant. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool; palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_45_pearl_noir_paris/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Pearl & Noir Paris (Parisian Contemporary + Quiet Luxury Contemporary). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: pearl upholstered queen with black piping; black oak nightstands; opal nickel lamps; charcoal throw. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool; palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_45_pearl_noir_paris/04_example_bedroom.png"
+      ]
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "condo_10_Solarium.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Pearl & Noir Paris (Parisian Contemporary + Quiet Luxury Contemporary). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: black aluminum outdoor frames with pearl cushions; round black outdoor dining set. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool; palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "01_moodboard.png",
+      "prompt": "Style Pearl & Noir Paris: Parisian Contemporary + Quiet Luxury Contemporary. Pearl linen, black accents and graphic art give a Parisian room a crisp contemporary edge. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool. Palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one elegant editorial flat-lay moodboard: tactile material samples, upholstery swatches, wood and metal, lighting and furnishing detail cutouts. Style title legible. pearl rounded 205cm sofa; charcoal wool swivel chair; oval pale-marble table with black legs; blackened-oak media cabinet; 105cm blackened-oak round table and four pearl chairs; nickel opal globe pendant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "02_palette.png",
+      "prompt": "Style Pearl & Noir Paris: Parisian Contemporary + Quiet Luxury Contemporary. Pearl linen, black accents and graphic art give a Parisian room a crisp contemporary edge. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool. Palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one attractive designer color palette board with five large color fields labeled exact hex codes #F1EDE4, #B7B0A6, #656767, #202728, #9B8871, tactile material details beside swatches. Pearl & Noir Paris title. No room photograph. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "03_example_living.png",
+      "prompt": "Style Pearl & Noir Paris: Parisian Contemporary + Quiet Luxury Contemporary. Pearl linen, black accents and graphic art give a Parisian room a crisp contemporary edge. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool. Palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic living room and adjacent four-seat dining example. Furniture pearl rounded 205cm sofa; charcoal wool swivel chair; oval pale-marble table with black legs; blackened-oak media cabinet; 105cm blackened-oak round table and four pearl chairs; nickel opal globe pendant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "04_example_bedroom.png",
+      "prompt": "Style Pearl & Noir Paris: Parisian Contemporary + Quiet Luxury Contemporary. Pearl linen, black accents and graphic art give a Parisian room a crisp contemporary edge. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool. Palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic primary bedroom ONLY, pearl upholstered queen with black piping; black oak nightstands; opal nickel lamps; charcoal throw; queen bed, TWO nightstands and TWO table lamps, quiet residential retreat; no piano, no living room. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "05_example_dining.png",
+      "prompt": "Style Pearl & Noir Paris: Parisian Contemporary + Quiet Luxury Contemporary. Pearl linen, black accents and graphic art give a Parisian room a crisp contemporary edge. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool. Palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic intimate four-seat residential dining space with adjoining sitting area glimpse. Furnish pearl rounded 205cm sofa; charcoal wool swivel chair; oval pale-marble table with black legs; blackened-oak media cabinet; 105cm blackened-oak round table and four pearl chairs; nickel opal globe pendant. Show table and FOUR chairs prominently, no restaurant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "condo_10_Solarium.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Pearl & Noir Paris (Parisian Contemporary + Quiet Luxury Contemporary). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: black aluminum outdoor frames with pearl cushions; round black outdoor dining set. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool; palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "condo_20_Living_Alternate.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Pearl & Noir Paris (Parisian Contemporary + Quiet Luxury Contemporary). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: pearl rounded 205cm sofa; charcoal wool swivel chair; oval pale-marble table with black legs; blackened-oak media cabinet; 105cm blackened-oak round table and four pearl chairs; nickel opal globe pendant. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool; palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_45_pearl_noir_paris/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "condo_21_Living_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Pearl & Noir Paris (Parisian Contemporary + Quiet Luxury Contemporary). Living wide: sofa LEFT by glazing, TV RIGHT wall, dining middle background BEFORE island, kitchen rear RIGHT. Furniture: pearl rounded 205cm sofa; charcoal wool swivel chair; oval pale-marble table with black legs; blackened-oak media cabinet; 105cm blackened-oak round table and four pearl chairs; nickel opal globe pendant. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool; palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_45_pearl_noir_paris/03_example_living.png"
+      ]
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "condo_23_Dining_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Pearl & Noir Paris (Parisian Contemporary + Quiet Luxury Contemporary). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: pearl rounded 205cm sofa; charcoal wool swivel chair; oval pale-marble table with black legs; blackened-oak media cabinet; 105cm blackened-oak round table and four pearl chairs; nickel opal globe pendant. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool; palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_45_pearl_noir_paris/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_45_pearl_noir_paris",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Pearl & Noir Paris (Parisian Contemporary + Quiet Luxury Contemporary). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: pearl upholstered queen with black piping; black oak nightstands; opal nickel lamps; charcoal throw. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool; palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_45_pearl_noir_paris/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "b4230753f2f8b07ba3aeeb964a1245c3dcbebe9e7a2e50e6160cf10654633756"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "949640d48d29f3545f559bf92f016d700c895bc47d5f2b8374c900652e1ebc8e"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "0c452528ee227505b9ff47ffbbf294ab7d80cafa6e46d132a17b5fc8369b74aa"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "fc4a662c9a390d81bba743c2bc5e2fb0e52c4bf3306adde1b0397a40d8f8210f"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "47e458facdf8ea7222ff9af3d5fb824e9d35a94c787af2a0737896c6dc303a22"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "6631ddb48e178623563d2139c7fbffd22df25c9af0ea28f3d1719b8855b76c03"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate.png",
+      "sha256": "25f03ec1e9f2cfa1c6bb8960870b8d8e16df36cb8e6d40d3df72412e48ae86b6"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "66527486c239ff01137217944c0fcae961e1a3e017cab2e31c074f17c2adbe32"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "a2802e105b4e9f1a04d8a45cc3eb9fdc89de07d31ef507ab1e547da5e150198a"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium.png",
+      "sha256": "74642d6c0369ec4726f6a2116466c9b6bd52f477b03ca88ab4e6f5498af6eadd"
+    }
+  }
+}

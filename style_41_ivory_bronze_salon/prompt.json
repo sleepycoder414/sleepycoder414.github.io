@@ -1,0 +1,209 @@
+{
+  "style": {
+    "id": "41",
+    "slug": "ivory_bronze_salon",
+    "name": "Ivory & Bronze Salon",
+    "blend": "Quiet Luxury Contemporary + Parisian Contemporary",
+    "definition": "Ivory upholstery and graceful walnut shapes with a single vintage mirror.",
+    "materials": "ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet",
+    "colors": [
+      "#EEE7DA",
+      "#B8A791",
+      "#795D49",
+      "#8B7771",
+      "#353434"
+    ],
+    "living": "ivory slim curved-arm 210cm sofa; taupe velvet barrel chair; oval cream-stone coffee table on walnut legs; slim walnut media cabinet; 105cm round walnut dining table with four ivory upholstered chairs; twin bronze opal pendant",
+    "bed": "ivory curved upholstered queen; walnut nightstands; bronze dome lamps; taupe throw",
+    "solarium": "dark teak and taupe outdoor seating; round teak dining set",
+    "implement": "Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored.",
+    "avoid": "Avoid ornate moldings and oversized chandeliers.",
+    "fit": "Very good",
+    "folder": "style_41_ivory_bronze_salon",
+    "collection": "favorites"
+  },
+  "planned_jobs": [
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "01_moodboard.png",
+      "prompt": "Style Ivory & Bronze Salon: Quiet Luxury Contemporary + Parisian Contemporary. Ivory upholstery and graceful walnut shapes with a single vintage mirror. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet. Palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one elegant editorial flat-lay moodboard: tactile material samples, upholstery swatches, wood and metal, lighting and furnishing detail cutouts. Style title legible. ivory slim curved-arm 210cm sofa; taupe velvet barrel chair; oval cream-stone coffee table on walnut legs; slim walnut media cabinet; 105cm round walnut dining table with four ivory upholstered chairs; twin bronze opal pendant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "02_palette.png",
+      "prompt": "Style Ivory & Bronze Salon: Quiet Luxury Contemporary + Parisian Contemporary. Ivory upholstery and graceful walnut shapes with a single vintage mirror. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet. Palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one attractive designer color palette board with five large color fields labeled exact hex codes #EEE7DA, #B8A791, #795D49, #8B7771, #353434, tactile material details beside swatches. Ivory & Bronze Salon title. No room photograph. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "03_example_living.png",
+      "prompt": "Style Ivory & Bronze Salon: Quiet Luxury Contemporary + Parisian Contemporary. Ivory upholstery and graceful walnut shapes with a single vintage mirror. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet. Palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic living room and adjacent four-seat dining example. Furniture ivory slim curved-arm 210cm sofa; taupe velvet barrel chair; oval cream-stone coffee table on walnut legs; slim walnut media cabinet; 105cm round walnut dining table with four ivory upholstered chairs; twin bronze opal pendant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "04_example_bedroom.png",
+      "prompt": "Style Ivory & Bronze Salon: Quiet Luxury Contemporary + Parisian Contemporary. Ivory upholstery and graceful walnut shapes with a single vintage mirror. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet. Palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic primary bedroom ONLY, ivory curved upholstered queen; walnut nightstands; bronze dome lamps; taupe throw; queen bed, TWO nightstands and TWO table lamps, quiet residential retreat; no piano, no living room. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "05_example_dining.png",
+      "prompt": "Style Ivory & Bronze Salon: Quiet Luxury Contemporary + Parisian Contemporary. Ivory upholstery and graceful walnut shapes with a single vintage mirror. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet. Palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic intimate four-seat residential dining space with adjoining sitting area glimpse. Furnish ivory slim curved-arm 210cm sofa; taupe velvet barrel chair; oval cream-stone coffee table on walnut legs; slim walnut media cabinet; 105cm round walnut dining table with four ivory upholstered chairs; twin bronze opal pendant. Show table and FOUR chairs prominently, no restaurant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "condo_21_Living_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Ivory & Bronze Salon (Quiet Luxury Contemporary + Parisian Contemporary). Living wide: sofa LEFT by glazing, TV RIGHT wall, dining middle background BEFORE island, kitchen rear RIGHT. Furniture: ivory slim curved-arm 210cm sofa; taupe velvet barrel chair; oval cream-stone coffee table on walnut legs; slim walnut media cabinet; 105cm round walnut dining table with four ivory upholstered chairs; twin bronze opal pendant. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet; palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_41_ivory_bronze_salon/03_example_living.png"
+      ]
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "condo_20_Living_Alternate.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Ivory & Bronze Salon (Quiet Luxury Contemporary + Parisian Contemporary). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: ivory slim curved-arm 210cm sofa; taupe velvet barrel chair; oval cream-stone coffee table on walnut legs; slim walnut media cabinet; 105cm round walnut dining table with four ivory upholstered chairs; twin bronze opal pendant. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet; palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_41_ivory_bronze_salon/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "condo_23_Dining_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Ivory & Bronze Salon (Quiet Luxury Contemporary + Parisian Contemporary). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: ivory slim curved-arm 210cm sofa; taupe velvet barrel chair; oval cream-stone coffee table on walnut legs; slim walnut media cabinet; 105cm round walnut dining table with four ivory upholstered chairs; twin bronze opal pendant. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet; palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_41_ivory_bronze_salon/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Ivory & Bronze Salon (Quiet Luxury Contemporary + Parisian Contemporary). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: ivory curved upholstered queen; walnut nightstands; bronze dome lamps; taupe throw. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet; palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_41_ivory_bronze_salon/04_example_bedroom.png"
+      ]
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "condo_10_Solarium.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Ivory & Bronze Salon (Quiet Luxury Contemporary + Parisian Contemporary). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: dark teak and taupe outdoor seating; round teak dining set. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet; palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    }
+  ],
+  "generation_records": [
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "01_moodboard.png",
+      "prompt": "Style Ivory & Bronze Salon: Quiet Luxury Contemporary + Parisian Contemporary. Ivory upholstery and graceful walnut shapes with a single vintage mirror. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet. Palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one elegant editorial flat-lay moodboard: tactile material samples, upholstery swatches, wood and metal, lighting and furnishing detail cutouts. Style title legible. ivory slim curved-arm 210cm sofa; taupe velvet barrel chair; oval cream-stone coffee table on walnut legs; slim walnut media cabinet; 105cm round walnut dining table with four ivory upholstered chairs; twin bronze opal pendant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "02_palette.png",
+      "prompt": "Style Ivory & Bronze Salon: Quiet Luxury Contemporary + Parisian Contemporary. Ivory upholstery and graceful walnut shapes with a single vintage mirror. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet. Palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Create one attractive designer color palette board with five large color fields labeled exact hex codes #EEE7DA, #B8A791, #795D49, #8B7771, #353434, tactile material details beside swatches. Ivory & Bronze Salon title. No room photograph. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "03_example_living.png",
+      "prompt": "Style Ivory & Bronze Salon: Quiet Luxury Contemporary + Parisian Contemporary. Ivory upholstery and graceful walnut shapes with a single vintage mirror. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet. Palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic living room and adjacent four-seat dining example. Furniture ivory slim curved-arm 210cm sofa; taupe velvet barrel chair; oval cream-stone coffee table on walnut legs; slim walnut media cabinet; 105cm round walnut dining table with four ivory upholstered chairs; twin bronze opal pendant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "04_example_bedroom.png",
+      "prompt": "Style Ivory & Bronze Salon: Quiet Luxury Contemporary + Parisian Contemporary. Ivory upholstery and graceful walnut shapes with a single vintage mirror. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet. Palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic primary bedroom ONLY, ivory curved upholstered queen; walnut nightstands; bronze dome lamps; taupe throw; queen bed, TWO nightstands and TWO table lamps, quiet residential retreat; no piano, no living room. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "05_example_dining.png",
+      "prompt": "Style Ivory & Bronze Salon: Quiet Luxury Contemporary + Parisian Contemporary. Ivory upholstery and graceful walnut shapes with a single vintage mirror. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet. Palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers. Achievable tasteful residential condo, modest scale, not palatial commercial venue. Photorealistic generic intimate four-seat residential dining space with adjoining sitting area glimpse. Furnish ivory slim curved-arm 210cm sofa; taupe velvet barrel chair; oval cream-stone coffee table on walnut legs; slim walnut media cabinet; 105cm round walnut dining table with four ivory upholstered chairs; twin bronze opal pendant. Show table and FOUR chairs prominently, no restaurant. Landscape 3:2, polished editorial presentation, no people."
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "condo_10_Solarium.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Ivory & Bronze Salon (Quiet Luxury Contemporary + Parisian Contemporary). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: dark teak and taupe outdoor seating; round teak dining set. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet; palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+      ]
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "condo_20_Living_Alternate.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Ivory & Bronze Salon (Quiet Luxury Contemporary + Parisian Contemporary). Alternate: sofa cropped LEFT foreground, TV RIGHT wall, kitchen rear LEFT. Dining LEFT middle BEFORE island. NO far-left window; NO opening between refrigerator and TV. Furniture: ivory slim curved-arm 210cm sofa; taupe velvet barrel chair; oval cream-stone coffee table on walnut legs; slim walnut media cabinet; 105cm round walnut dining table with four ivory upholstered chairs; twin bronze opal pendant. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet; palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/20_Living_Alternate.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_41_ivory_bronze_salon/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "condo_21_Living_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Ivory & Bronze Salon (Quiet Luxury Contemporary + Parisian Contemporary). Living wide: sofa LEFT by glazing, TV RIGHT wall, dining middle background BEFORE island, kitchen rear RIGHT. Furniture: ivory slim curved-arm 210cm sofa; taupe velvet barrel chair; oval cream-stone coffee table on walnut legs; slim walnut media cabinet; 105cm round walnut dining table with four ivory upholstered chairs; twin bronze opal pendant. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet; palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/21_Living_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_41_ivory_bronze_salon/03_example_living.png"
+      ]
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "condo_23_Dining_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Ivory & Bronze Salon (Quiet Luxury Contemporary + Parisian Contemporary). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: ivory slim curved-arm 210cm sofa; taupe velvet barrel chair; oval cream-stone coffee table on walnut legs; slim walnut media cabinet; 105cm round walnut dining table with four ivory upholstered chairs; twin bronze opal pendant. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet; palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_41_ivory_bronze_salon/condo_21_Living_Wide.png"
+      ]
+    },
+    {
+      "folder": "style_41_ivory_bronze_salon",
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Ivory & Bronze Salon (Quiet Luxury Contemporary + Parisian Contemporary). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: ivory curved upholstered queen; walnut nightstands; bronze dome lamps; taupe throw. Materials ivory wool; walnut; honed cream stone; brushed bronze; taupe velvet; palette #EEE7DA, #B8A791, #795D49, #8B7771, #353434. Choose one bronze-framed vintage mirror and quiet landscape art; keep the rest of the room tailored. Avoid ornate moldings and oversized chandeliers.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+      "referenced_image_paths": [
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+        "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_41_ivory_bronze_salon/04_example_bedroom.png"
+      ]
+    }
+  ],
+  "selected_outputs": {
+    "01_moodboard.png": {
+      "file": "01_moodboard.png",
+      "sha256": "16749cde023e98ca1c78c73f2cff1fd87b420371f2afc23e5648e04dec228f19"
+    },
+    "02_palette.png": {
+      "file": "02_palette.png",
+      "sha256": "34e178c517c5caea029138725e7843c10ed0978337701faf7a7e1c302e4a71e2"
+    },
+    "03_example_living.png": {
+      "file": "03_example_living.png",
+      "sha256": "1e1e7d1d68a662110136cd0967ba61ffdaf2c14c27b9e4db72604b3c47ce9a38"
+    },
+    "04_example_bedroom.png": {
+      "file": "04_example_bedroom.png",
+      "sha256": "32172082afd8f31e141b2b132d5b09127e88c83695229fd325ecf46086b7d4b3"
+    },
+    "05_example_dining.png": {
+      "file": "05_example_dining.png",
+      "sha256": "0fe731ab50b48c91b7e181501b595e59b6b2348bb589d8b565129d47689cd83e"
+    },
+    "condo_21_Living_Wide.png": {
+      "file": "condo_21_Living_Wide.png",
+      "sha256": "2ac4fe06deadcb8c048e68a80819afa4503962efc74ae2ce815f8ab1a9e41a4a"
+    },
+    "condo_20_Living_Alternate.png": {
+      "file": "condo_20_Living_Alternate.png",
+      "sha256": "14b181eca3ebe9d4f4c9f8aa7b397f448e8073ee010c69cbd86cf2f04f17d165"
+    },
+    "condo_23_Dining_Wide.png": {
+      "file": "condo_23_Dining_Wide.png",
+      "sha256": "649f7efd1af5baabeb818aef7cd852e410d88db1049a77b1bcac92bbd41b1a82"
+    },
+    "condo_31_Bedroom_Primary_Wide.png": {
+      "file": "condo_31_Bedroom_Primary_Wide.png",
+      "sha256": "ef88aa078e02225dc839739ec5c06d90de4a4c772cc9b9680b59ce5f527d8a14"
+    },
+    "condo_10_Solarium.png": {
+      "file": "condo_10_Solarium.png",
+      "sha256": "e8d0d1e3140c809bde89e69d055fa5f76f8195c87973d1acc5150fa992b20af0"
+    }
+  }
+}

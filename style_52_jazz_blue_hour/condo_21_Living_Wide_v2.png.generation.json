@@ -1,0 +1,8 @@
+{
+  "folder": "style_52_jazz_blue_hour",
+  "file": "condo_21_Living_Wide_v2.png",
+  "prompt": "Edit this furnished condo image ONLY remove the Art Deco mirror currently attached to the cream refrigerator at back right. Restore plain refrigerator finish there. Hang that same mirror on LEFT short wall beside dining table, replacing the ochre art there. Keep ALL other furniture, piano, wall geometry, view, lighting and colors exactly unchanged.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_52_jazz_blue_hour/condo_21_Living_Wide.png"
+  ]
+}

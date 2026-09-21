@@ -1,0 +1,8 @@
+{
+  "folder": "style_50_burgundy_brass_gallery",
+  "file": "condo_10_Solarium.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Burgundy & Brass Gallery (Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary). Solarium ONLY: preserve BLACK tiled floor, wood ceiling, black mullions and large BLACK cylindrical column RIGHT. Outdoor dining LEFT middle, outdoor lounge foreground. LEFT glass looks into living room, no bed. Keep passages clear. Furniture: dark teak frames with burgundy outdoor cushions; round teak dining set. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass; palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/10_Solarium.png"
+  ]
+}

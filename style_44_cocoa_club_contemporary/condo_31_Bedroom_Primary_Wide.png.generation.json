@@ -1,0 +1,9 @@
+{
+  "folder": "style_44_cocoa_club_contemporary",
+  "file": "condo_31_Bedroom_Primary_Wide.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Cocoa Club Contemporary (Quiet Luxury Contemporary + Contemporary Art Deco). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: cocoa upholstered queen; walnut nightstands; bronze and linen lamps; oatmeal bedding. Materials chocolate velvet; cognac leather; smoked walnut; brown stone; bronze; palette #EBE2D4, #544037, #A8734E, #A89B84, #292D2C. Keep walls warm ivory with one tobacco-textured accent; let leather and fabric provide richness without new millwork. Avoid making all walls dark or adding a built-in bar.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1. Any indoor sofa glimpsed through solarium glass must be chocolate velvet, matching living recipe.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_44_cocoa_club_contemporary/04_example_bedroom.png"
+  ]
+}

@@ -40,4 +40,3 @@ Keep circulation and glass clear; maximalism needs storage and editing. Existing
 ## Deliverables and traceability
 
 12 planned PNGs: mood board, palette, three standalone generic examples, and all seven condo edits. Exact prompts: [prompts.json](prompts.json). Generation status: [status.json](status.json). Built-in image_gen mode. Read [reference mapping](../REFERENCE_MAP.md) for camera relationships and [research basis](../README.md) for trend sources. Style schedules and palettes are original editorial proposals.
-

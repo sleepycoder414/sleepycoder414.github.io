@@ -1,0 +1,9 @@
+{
+  "folder": "style_48_olive_atelier",
+  "file": "condo_23_Dining_Wide.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Olive Atelier (Parisian Contemporary + Quiet Luxury Contemporary). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: olive tailored curved-arm 205cm sofa; parchment wool chair; oval travertine coffee table; walnut media cabinet; 105cm walnut table and four parchment chairs; bronze linen pendant. Materials olive linen; parchment wool; walnut; travertine; bronze; palette #EAE5D8, #72775B, #B4A384, #795E47, #353C35. Layer two differently sized artworks beside a small vintage mirror; use olive linen rather than high-shine velvet. Avoid rustic distressing and too many small objects.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_48_olive_atelier/condo_21_Living_Wide.png"
+  ]
+}

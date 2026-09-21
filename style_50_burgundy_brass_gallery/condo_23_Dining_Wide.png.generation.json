@@ -1,0 +1,9 @@
+{
+  "folder": "style_50_burgundy_brass_gallery",
+  "file": "condo_23_Dining_Wide.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Burgundy & Brass Gallery (Parisian Contemporary + Contemporary Art Deco + Quiet Luxury Contemporary). Reverse dining view: round dining table FOUR chairs NEAR foreground, sofa BACK RIGHT on short wall beside glazing, TV far LEFT edge partly cropped. Bedroom door RIGHT stays clear; kitchen counter bottom RIGHT. Do not put TV on sofa wall. Furniture: burgundy low curved 205cm sofa; ivory linen club chair; oval dark-marble coffee table on slim brass legs; walnut media cabinet; 105cm walnut pedestal table and four ivory chairs; brass globe pendant. Materials burgundy velvet; ivory linen; walnut; dark marble; brushed brass; palette #EDE4D4, #713D47, #936B4C, #B49A6B, #2B3334. Make one colorful abstract artwork the focal point, with a restrained brass mirror and a quiet wool rug. Avoid ornate gold trim and wall-to-wall dark finishes.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_50_burgundy_brass_gallery/condo_21_Living_Wide.png"
+  ]
+}

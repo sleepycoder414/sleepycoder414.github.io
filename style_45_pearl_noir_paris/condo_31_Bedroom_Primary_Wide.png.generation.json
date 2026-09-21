@@ -1,0 +1,9 @@
+{
+  "folder": "style_45_pearl_noir_paris",
+  "file": "condo_31_Bedroom_Primary_Wide.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Pearl & Noir Paris (Parisian Contemporary + Quiet Luxury Contemporary). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: pearl upholstered queen with black piping; black oak nightstands; opal nickel lamps; charcoal throw. Materials pearl linen; blackened oak; pale marble; nickel; charcoal wool; palette #F1EDE4, #B7B0A6, #656767, #202728, #9B8871. Add a slender antique-silver mirror and two bold monochrome works; use warm light to soften the graphic contrast. Avoid glossy black walls or oversized mirrors.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_45_pearl_noir_paris/04_example_bedroom.png"
+  ]
+}

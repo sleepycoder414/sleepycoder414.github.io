@@ -1,0 +1,9 @@
+{
+  "folder": "style_49_silver_screen_soft_deco",
+  "file": "condo_31_Bedroom_Primary_Wide.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Silver Screen Soft Deco (Quiet Luxury Contemporary + Parisian Contemporary + Contemporary Art Deco). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: dove fan-shaped queen headboard; dark walnut nightstands; opal lamps; ivory quilt. Materials dove velvet; ivory boucle; silvered mirror; dark walnut; nickel; palette #EDE9E1, #A8AAAD, #C7BDB1, #62504A, #323A41. Use a single stepped silver mirror and a low-contrast scallop rug; keep reflections localized. Avoid mirror-clad furniture and theatrical ceiling treatments.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_49_silver_screen_soft_deco/04_example_bedroom.png"
+  ]
+}

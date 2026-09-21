@@ -1,0 +1,9 @@
+{
+  "folder": "style_52_jazz_blue_hour",
+  "file": "condo_23_Dining_Wide_v2.png",
+  "prompt": "Furnish EMPTY IMAGE1 from this EXACT reverse camera. Image2 furnishes same room from opposite direction: style/furniture identity only. ABSOLUTE layout: BLUE rounded sofa against BACK RIGHT SHORT WALL BESIDE bedroom door. Piano and TV on LEFT foreground wall, mostly OUTSIDE FRAME LEFT: show ONLY cropped black keyboard edge at FAR LEFT if visible. NEVER show piano on back wall. Never put wallpaper/portraits above sofa; leave that wall warm ivory, small stepped mirror above sofa-side wall. FOUR oatmeal dining chairs round smoked oak table foreground. Oatmeal rounded accent chair near glazing LEFT of sofa, oval smoked oak coffee table. Inkblue herringbone wallpaper on LEFT wall only, mostly cropped. Warm amber moody lighting, original geometry doors/window mullions and counter corner unchanged. Do not change camera to reveal piano. Blue Hour Jazz residential concept. Piano deliberately cropped is correct.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/23_Dining_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_52_jazz_blue_hour/condo_21_Living_Wide_v2.png"
+  ]
+}

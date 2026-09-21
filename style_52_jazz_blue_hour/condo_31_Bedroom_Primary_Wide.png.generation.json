@@ -1,0 +1,9 @@
+{
+  "folder": "style_52_jazz_blue_hour",
+  "file": "condo_31_Bedroom_Primary_Wide.png",
+  "prompt": "EDIT IMAGE 1 empty condo shell; preserve EXACT camera, perspective, wall positions, openings, glazing mullions, floor and ceiling, kitchen cabinetry and counters. Add furnishings to implement Jazz Piano Lounge · Blue Hour (Jazz Piano Lounge + Parisian Contemporary + Contemporary Art Deco). Bedroom ONLY: queen headboard RIGHT wall, two nightstands and two lamps. Preserve LEFT slider with transom and separate operable window bay. Furniture: ink-blue upholstered queen; smoked oak nightstands; amber glass bedside lamps; oatmeal bedding. Materials ink blue velvet; oatmeal linen; smoked oak; amber glass; aged brass; palette #E7E0D3, #293D51, #B47A3F, #9B8B77, #353431. Use an ink-blue fine-herringbone wallpaper accent at the piano and warm ivory elsewhere; add one ochre pillow and an amber lamp, with a reading chair angled toward music. Avoid nightclub darkness, blue LEDs, oversized art collections and high-cost built-in cabinetry.. Do not import generic example architecture. Supporting interior image is furnishing/color identity only. Realistic residential proportions, photorealistic, no people. No piano in this room. Retain the room type in IMAGE1. Match the shared-room mirror on sofa-side wall, portraits and ochre art above piano, no mirror on fridge. Through solarium LEFTglass the living sofa is INK BLUE.",
+  "referenced_image_paths": [
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/ref/31_Bedroom_Primary_Wide.png",
+    "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_52_jazz_blue_hour/04_example_bedroom.png"
+  ]
+}
