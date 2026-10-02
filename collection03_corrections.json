@@ -1,0 +1,34 @@
+[
+  {
+    "folder": "style_51_jazz_emerald_encore",
+    "file": "condo_10_Solarium_v2.png",
+    "prompt": "Edit this solarium concept with ONLY ONE localized correction: through the LEFT glass, change the indoor ivory sectional to the same emerald velvet compact two-seat sofa as the lounge style; no sectional chaise. Keep the entire solarium furniture, black tile, black column, mullions, wood ceiling, light and camera unchanged.",
+    "referenced_image_paths": [
+      "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_51_jazz_emerald_encore/condo_10_Solarium.png"
+    ]
+  },
+  {
+    "folder": "style_51_jazz_emerald_encore",
+    "file": "condo_20_Living_Alternate_v2.png",
+    "prompt": "Edit this furnished condo ONLY correct wall geometry and art location. The long RIGHTwall from refrigerator to TV is ONE FLAT CONTINUOUS wall with no projecting pilaster or recess. Remove invented white projecting vertical column just left of piano; keep flat wall, same wallpaper section at piano. Remove two jazz portraits from right wall next to refrigerator: they belong opposite on sofa-side wall outside camera. Keep piano TV sofa chair coffee dining table four chairs refrigerator and lighting at exactly same positions. Do not add any openings.",
+    "referenced_image_paths": [
+      "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_51_jazz_emerald_encore/condo_20_Living_Alternate.png"
+    ]
+  },
+  {
+    "folder": "style_53_jazz_plum_rhythm",
+    "file": "condo_20_Living_Alternate_v2.png",
+    "prompt": "Edit this furnished condo. Keep camera architecture piano TV couch chair coffee table color lighting. Move FOUR-chair round dining table from next to refrigerator on RIGHT to LEFT midground directly IN FRONT of island toward camera; retain clear kitchen aisle. Move dining pendant with table. Remove mirror on right wall next to fridge: mirror belongs opposite sofa-side wall outside frame. Do not add walls windows doors. Preserve all other objects.",
+    "referenced_image_paths": [
+      "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_53_jazz_plum_rhythm/condo_20_Living_Alternate.png"
+    ]
+  },
+  {
+    "folder": "style_42_champagne_deco",
+    "file": "condo_20_Living_Alternate_v2.png",
+    "prompt": "Edit this furnished image ONLY move the round dining table and FOURchairs LEFT to sit directly in front of the kitchen island toward camera, not beside refrigerator. Move pendant with table. Keep original camera kitchen wall fridge living sofa chair coffee table TV colors intact. Keep clear aisle. Remove mirror and art from rightwall between fridge and TV: these are on opposite wall outside this camera. No new architecture.",
+    "referenced_image_paths": [
+      "C:/Users/tlam/Documents/Codex/Condo_Builder/ideation/style_42_champagne_deco/condo_20_Living_Alternate.png"
+    ]
+  }
+]

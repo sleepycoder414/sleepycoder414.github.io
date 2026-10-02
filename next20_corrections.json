@@ -1,0 +1,87 @@
+{
+  "state": "completed",
+  "pending": [],
+  "revisions": [
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_10_Solarium_v2.png",
+      "generation_record": "style_21_desert_modern/condo_10_Solarium_v2.png.generation.json"
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_20_Living_Alternate_v2.png",
+      "generation_record": "style_21_desert_modern/condo_20_Living_Alternate_v2.png.generation.json"
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_23_Dining_Wide_v2.png",
+      "generation_record": "style_21_desert_modern/condo_23_Dining_Wide_v2.png.generation.json"
+    },
+    {
+      "folder": "style_21_desert_modern",
+      "file": "condo_31_Bedroom_Primary_Wide_v2.png",
+      "generation_record": "style_21_desert_modern/condo_31_Bedroom_Primary_Wide_v2.png.generation.json"
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_10_Solarium_v2.png",
+      "generation_record": "style_22_california_casual/condo_10_Solarium_v2.png.generation.json"
+    },
+    {
+      "folder": "style_22_california_casual",
+      "file": "condo_31_Bedroom_Primary_Wide_v2.png",
+      "generation_record": "style_22_california_casual/condo_31_Bedroom_Primary_Wide_v2.png.generation.json"
+    },
+    {
+      "folder": "style_24_bauhaus_warm",
+      "file": "condo_21_Living_Wide_v2.png",
+      "generation_record": "style_24_bauhaus_warm/condo_21_Living_Wide_v2.png.generation.json"
+    },
+    {
+      "folder": "style_25_seventies_earth",
+      "file": "condo_23_Dining_Wide_v2.png",
+      "generation_record": "style_25_seventies_earth/condo_23_Dining_Wide_v2.png.generation.json"
+    },
+    {
+      "folder": "style_26_playful_postmodern",
+      "file": "condo_23_Dining_Wide_v2.png",
+      "generation_record": "style_26_playful_postmodern/condo_23_Dining_Wide_v2.png.generation.json"
+    },
+    {
+      "folder": "style_27_colorful_scandi",
+      "file": "condo_23_Dining_Wide_v2.png",
+      "generation_record": "style_27_colorful_scandi/condo_23_Dining_Wide_v2.png.generation.json"
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "02_palette_v2.png",
+      "generation_record": "style_30_french_country_light/02_palette_v2.png.generation.json"
+    },
+    {
+      "folder": "style_30_french_country_light",
+      "file": "condo_10_Solarium_v2.png",
+      "generation_record": "style_30_french_country_light/condo_10_Solarium_v2.png.generation.json"
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_20_Living_Alternate_v2.png",
+      "generation_record": "style_31_shaker_contemporary/condo_20_Living_Alternate_v2.png.generation.json"
+    },
+    {
+      "folder": "style_31_shaker_contemporary",
+      "file": "condo_20_Living_Alternate_v3.png",
+      "generation_record": "style_31_shaker_contemporary/condo_20_Living_Alternate_v3.png.generation.json"
+    },
+    {
+      "folder": "style_36_midcentury_botanical",
+      "file": "condo_20_Living_Alternate_v2.png",
+      "generation_record": "style_36_midcentury_botanical/condo_20_Living_Alternate_v2.png.generation.json"
+    },
+    {
+      "folder": "style_39_nordic_folk",
+      "file": "condo_20_Living_Alternate_v2.png",
+      "generation_record": "style_39_nordic_folk/condo_20_Living_Alternate_v2.png.generation.json"
+    }
+  ],
+  "note": "Highest numeric revision is selected by build_style_pages.py. Earlier attempts remain for provenance; see per-style review.json for accepted results."
+}

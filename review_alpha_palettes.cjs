@@ -1,0 +1,3 @@
+const {chromium}=require('C:/Users/tlam/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const {pathToFileURL}=require('url');const path=require('path');
+(async()=>{const b=await chromium.launch({channel:'msedge',headless:true});const p=await b.newPage({viewport:{width:1536,height:1024}});for(const f of ['style_33_pnw_japandi_organic','style_37_belgian_mediterranean']){await p.goto(pathToFileURL(path.join(__dirname,f,'index.html')).href);await p.setContent('<body style="margin:0;background:#ede8df"><img style="width:100%" src="02_palette.png"></body>');await p.locator('img').evaluate(i=>i.decode());await p.screenshot({path:path.join(__dirname,'review/'+f+'-palette.png')});}await b.close()})();

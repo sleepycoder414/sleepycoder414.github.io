@@ -1,0 +1,422 @@
+[
+  {
+    "id": "01",
+    "slug": "pacific_northwest",
+    "name": "Pacific Northwest Modern",
+    "definition": "A regional interpretation of modern design that brings forest, stone and water into a comfortable home.",
+    "materials": "white oak; basalt; oatmeal wool; forest-green woven fabric; black steel",
+    "colors": [
+      "#EEE9DD",
+      "#BC9568",
+      "#405746",
+      "#727570",
+      "#292D2C"
+    ],
+    "living": "forest-green tailored sofa; round dark-oak coffee table; oak media cabinet; oak rectangular dining table and six oak chairs; black shallow dome pendants",
+    "bed": "oak spindle beds, ivory linen, forest-green throws, landscape art",
+    "solarium": "teak slatted outdoor chairs with forest-green cushions and teak dining table",
+    "fit": "Excellent",
+    "implement": "Keep the existing oak and black framing; deepen the green textiles and add one substantial landscape artwork.",
+    "avoid": "Avoid log-cabin motifs and heavy live-edge slabs in the narrow shared room.",
+    "folder": "style_01_pacific_northwest"
+  },
+  {
+    "id": "02",
+    "slug": "japandi",
+    "name": "Japandi",
+    "definition": "Japanese restraint and Scandinavian comfort expressed through quiet proportions, natural materials and useful objects.",
+    "materials": "light oak; walnut accents; linen; rice paper; matte clay",
+    "colors": [
+      "#EFE9DE",
+      "#CBB99D",
+      "#86745D",
+      "#6F7965",
+      "#30322E"
+    ],
+    "living": "oatmeal low tailored sofa; round walnut coffee table; oak media cabinet; oak rectangular dining table with six woven-seat oak chairs; white paper globe pendants",
+    "bed": "low oak queen beds, ivory linen, muted olive throws, one ink landscape",
+    "solarium": "teak chairs with oatmeal cushions and teak dining table",
+    "fit": "Excellent",
+    "implement": "Reuse the birch beds and paper lights; simplify art groupings and repeat oak, linen and olive.",
+    "avoid": "Do not remove useful storage to achieve empty surfaces.",
+    "folder": "style_02_japandi"
+  },
+  {
+    "id": "03",
+    "slug": "warm_scandinavian",
+    "name": "Warm Scandinavian",
+    "definition": "Light, practical Nordic rooms softened by tactile textiles and warm wood rather than stark white.",
+    "materials": "pale ash; birch; wool; cotton; opal glass",
+    "colors": [
+      "#F3EFE5",
+      "#D6C3A5",
+      "#B7C2AE",
+      "#A8B7C1",
+      "#535A54"
+    ],
+    "living": "pale sage tailored sofa; round pale-oak coffee table; pale-oak media cabinet; pale-ash rectangular dining table and six spindle chairs; opal globe pendants",
+    "bed": "birch spindle beds, white cotton, blue-gray throws, simple botanical prints",
+    "solarium": "light teak chairs with sage cushions and matching table",
+    "fit": "Excellent",
+    "implement": "Keep most current furniture; add washable wool-look textiles, light blue accents and diffused lamps.",
+    "avoid": "Too many white surfaces can flatten the room; maintain warm timber contrast.",
+    "folder": "style_03_warm_scandinavian"
+  },
+  {
+    "id": "04",
+    "slug": "organic_modern",
+    "name": "Organic Modern",
+    "definition": "Modern simplicity with rounded silhouettes and the texture of stone, wood and natural cloth.",
+    "materials": "oak; travertine; boucle; linen; matte plaster",
+    "colors": [
+      "#EEE7DA",
+      "#C6B499",
+      "#B29A7B",
+      "#83866E",
+      "#594C40"
+    ],
+    "living": "cream softly rounded sofa; round travertine coffee table; oak media cabinet; oak rectangular dining table with six curved oak chairs; cream sculptural pendants",
+    "bed": "cream upholstered queen beds, sand linen, olive throws, textured abstract art",
+    "solarium": "teak chairs with cream cushions and teak table",
+    "fit": "Excellent",
+    "implement": "Introduce one rounded upholstered anchor and a tactile rug while retaining the cream kitchen.",
+    "avoid": "Keep sculptural furniture compact; large curved sofas can consume circulation.",
+    "folder": "style_04_organic_modern"
+  },
+  {
+    "id": "05",
+    "slug": "warm_minimalism",
+    "name": "Warm Minimalism",
+    "definition": "A reduced palette and carefully chosen forms, with warmth supplied by texture and light.",
+    "materials": "oak veneer; wool felt; linen; satin stone; matte metal",
+    "colors": [
+      "#EDE8DF",
+      "#C9BCA8",
+      "#A69886",
+      "#746B61",
+      "#383633"
+    ],
+    "living": "sand straight-arm sofa; round taupe stone coffee table; flush oak media cabinet; oak rectangular table and six simple upholstered chairs; small linen drum pendants",
+    "bed": "flat oak queen beds, ivory bedding, taupe throws, one tonal print",
+    "solarium": "teak chairs with taupe cushions and simple teak table",
+    "fit": "Excellent",
+    "implement": "Use concealed storage and fewer, larger accessories; match wall and textile undertones.",
+    "avoid": "Minimal does not mean eliminating bedside lighting or practical storage.",
+    "folder": "style_05_warm_minimalism"
+  },
+  {
+    "id": "06",
+    "slug": "biophilic_contemporary",
+    "name": "Biophilic Contemporary",
+    "definition": "Contemporary interiors organized around daylight, landscape views, botanical color and tangible natural materials.",
+    "materials": "oak; cork; linen; green ceramic; textured wool",
+    "colors": [
+      "#F0EBDD",
+      "#C0A17B",
+      "#75865C",
+      "#385C4A",
+      "#424846"
+    ],
+    "living": "olive woven sofa; round oak coffee table; oak media cabinet; oak rectangular dining table with six green upholstered chairs; woven natural pendants",
+    "bed": "oak queen beds, ivory linen, moss throws, botanical artwork",
+    "solarium": "teak outdoor chairs with moss cushions, teak dining table, clustered planters",
+    "fit": "Excellent",
+    "implement": "Frame the lake view with a few plants and repeat green inside; keep plants off door tracks.",
+    "avoid": "Check actual light and watering needs before purchasing plants.",
+    "folder": "style_06_biophilic_contemporary"
+  },
+  {
+    "id": "07",
+    "slug": "midcentury_modern",
+    "name": "Mid-century Modern",
+    "definition": "A lasting modernist vocabulary of tapered legs, functional storage and expressive but economical shapes.",
+    "materials": "walnut; teak; cognac leather; woven wool; aged brass",
+    "colors": [
+      "#F0E7D6",
+      "#976747",
+      "#B66D3D",
+      "#65765B",
+      "#303C3D"
+    ],
+    "living": "cognac leather sofa on slim legs; round walnut coffee table; walnut sliding-door media cabinet; walnut rectangular table and six curved-back chairs; opal saucer pendants",
+    "bed": "walnut queen beds, ivory cotton, ochre throws, geometric prints",
+    "solarium": "teak chairs with ochre cushions and teak table",
+    "fit": "Very good",
+    "implement": "Trade one anchor for walnut or cognac and connect it to the current ash chairs.",
+    "avoid": "Avoid making every object a recognizable retro icon.",
+    "folder": "style_07_midcentury_modern"
+  },
+  {
+    "id": "08",
+    "slug": "scandi_midcentury",
+    "name": "Scandinavian + Mid-century",
+    "definition": "Nordic lightness combined with the warmer color and elegant joinery of mid-century furniture.",
+    "materials": "oak; walnut; wool; linen; opal glass",
+    "colors": [
+      "#F1ECDD",
+      "#CBB38C",
+      "#A56F46",
+      "#7E9182",
+      "#404A4C"
+    ],
+    "living": "muted blue-green sofa; round walnut coffee table; oak media cabinet; oak rectangular table and six curved-back chairs; opal saucer pendants",
+    "bed": "oak queen beds, cream cotton, caramel throws, graphic landscapes",
+    "solarium": "teak chairs with blue-green cushions and teak table",
+    "fit": "Excellent",
+    "implement": "Retain oak dining furniture, add walnut at the coffee table and caramel textiles.",
+    "avoid": "Limit contrasting woods to two clear families.",
+    "folder": "style_08_scandi_midcentury"
+  },
+  {
+    "id": "09",
+    "slug": "japanese_wabi_sabi",
+    "name": "Contemporary Wabi-sabi",
+    "definition": "A contemporary interpretation of the Japanese appreciation of impermanence and imperfect materials; understated, tactile and personal.",
+    "materials": "weathered oak; linen; clay; limewash effect; rough stone",
+    "colors": [
+      "#E7DECC",
+      "#B7A78D",
+      "#938575",
+      "#6C705E",
+      "#443D34"
+    ],
+    "living": "flax linen sofa; round weathered-oak coffee table; quiet oak media cabinet; weathered-oak rectangular table with six woven-seat chairs; handmade paper pendants",
+    "bed": "low oak queen beds, undyed linen, earth-brown throws, subtle ink art",
+    "solarium": "weathered teak chairs with flax cushions and teak table",
+    "fit": "Very good",
+    "implement": "Choose irregular ceramics and softly textured walls; keep the room functional and uncluttered.",
+    "avoid": "Avoid manufactured distressing everywhere or treating a cultural philosophy as a prop theme.",
+    "folder": "style_09_japanese_wabi_sabi"
+  },
+  {
+    "id": "10",
+    "slug": "belgian_linen",
+    "name": "Belgian Linen Minimalism",
+    "definition": "Relaxed European restraint with generous linen, muted stone colors and worn wood.",
+    "materials": "washed linen; weathered oak; limestone; wool; dark bronze",
+    "colors": [
+      "#EDE7DB",
+      "#C6BCA9",
+      "#A69B87",
+      "#79766B",
+      "#4A4942"
+    ],
+    "living": "flax slipcovered sofa; round aged-oak coffee table; aged-oak media cabinet; oak rectangular dining table and six linen-seat chairs; linen drum pendants",
+    "bed": "linen upholstered queen beds, ivory linen, mushroom throws, quiet landscape art",
+    "solarium": "weathered teak chairs with flax cushions and table",
+    "fit": "Very good",
+    "implement": "Use tailored slipcovers, matte ceramics and tonal textiles against existing cream cabinetry.",
+    "avoid": "Keep slipcovered pieces shallow enough for this condo.",
+    "folder": "style_10_belgian_linen"
+  },
+  {
+    "id": "11",
+    "slug": "quiet_luxury",
+    "name": "Quiet Luxury Contemporary",
+    "definition": "Polished, restrained interiors whose richness comes from proportion, material quality and subtle contrast.",
+    "materials": "walnut; wool; honed stone; linen; brushed bronze",
+    "colors": [
+      "#EFE8DC",
+      "#BCAE98",
+      "#8A7562",
+      "#54433A",
+      "#252C2D"
+    ],
+    "living": "warm ivory tailored sofa; round honed brown-stone coffee table; walnut media cabinet; walnut rectangular dining table and six taupe upholstered chairs; bronze and opal pendants",
+    "bed": "taupe upholstered queen beds, ivory bedding, chocolate throws, large tonal art",
+    "solarium": "dark teak chairs with taupe cushions and table",
+    "fit": "Very good",
+    "implement": "Keep black marble and cream millwork; add walnut and better layered lighting.",
+    "avoid": "Gloss and decorative gold can overwhelm the restrained effect.",
+    "folder": "style_11_quiet_luxury"
+  },
+  {
+    "id": "12",
+    "slug": "soft_contemporary",
+    "name": "Soft Contemporary",
+    "definition": "Current clean-lined design with comfortable curves, balanced color and accessible materials.",
+    "materials": "oak; woven upholstery; ceramic; wool; satin nickel",
+    "colors": [
+      "#F0EAE0",
+      "#C5B7A3",
+      "#A4AFAC",
+      "#8D8277",
+      "#3E484B"
+    ],
+    "living": "dusty blue-gray sofa; round oak coffee table; oak media cabinet; oak rectangular table and six taupe curved-back chairs; frosted-glass pendants",
+    "bed": "taupe upholstered queen beds, cream cotton, blue-gray throws, soft abstract art",
+    "solarium": "teak chairs with blue-gray cushions and teak table",
+    "fit": "Excellent",
+    "implement": "Use softer seating and abstract art while preserving the current open arrangement.",
+    "avoid": "Avoid oversized sectionals and many competing curves.",
+    "folder": "style_12_soft_contemporary"
+  },
+  {
+    "id": "13",
+    "slug": "modern_coastal",
+    "name": "Modern Coastal",
+    "definition": "Airy interiors with sand, faded blue and natural fibers, without literal nautical decoration.",
+    "materials": "white oak; linen; woven rope; cotton; sea-glass accents",
+    "colors": [
+      "#F5F0E6",
+      "#D4C1A1",
+      "#A8BFC2",
+      "#6E929B",
+      "#45575B"
+    ],
+    "living": "ivory linen sofa; round white-oak coffee table; white-oak media cabinet; oak rectangular table and six woven chairs; woven pale pendants",
+    "bed": "oak queen beds, white cotton, faded-blue throws, abstract water art",
+    "solarium": "teak chairs with sea-blue cushions and teak table",
+    "fit": "Very good",
+    "implement": "Let the lake view supply the water reference; use sandy textiles and restrained blue.",
+    "avoid": "Avoid ropes, anchors and beach signs as themed decor.",
+    "folder": "style_13_modern_coastal"
+  },
+  {
+    "id": "14",
+    "slug": "mediterranean_modern",
+    "name": "Modern Mediterranean",
+    "definition": "A contemporary take on sunwashed mineral finishes, earthy ceramics and relaxed woven furniture.",
+    "materials": "cream plaster; terracotta; oak; linen; woven rush",
+    "colors": [
+      "#F1E7D6",
+      "#D7BE99",
+      "#B97755",
+      "#8D9775",
+      "#504C3D"
+    ],
+    "living": "cream linen sofa; round pale-stone coffee table; oak media cabinet; oak rectangular table and six rush-seat chairs; woven pendants",
+    "bed": "oak queen beds, ivory linen, clay throws, earthy abstract artwork",
+    "solarium": "teak chairs with clay cushions and table, terracotta planters",
+    "fit": "Good",
+    "implement": "Introduce clay through cushions and pots and mineral texture through paint samples.",
+    "avoid": "Do not add arches or change windows to simulate a villa.",
+    "folder": "style_14_mediterranean_modern"
+  },
+  {
+    "id": "15",
+    "slug": "modern_rustic",
+    "name": "Modern Rustic",
+    "definition": "Simple contemporary furniture paired with rugged wood, wool and earthy color.",
+    "materials": "reclaimed-look oak; wool; leather; stone; iron",
+    "colors": [
+      "#ECE3D3",
+      "#B79B76",
+      "#957454",
+      "#6C715C",
+      "#393D38"
+    ],
+    "living": "camel woven sofa; round rustic-oak coffee table; oak media cabinet; oak rectangular table and six leather-seat chairs; black metal dome pendants",
+    "bed": "oak queen beds, ivory bedding, olive wool throws, landscape art",
+    "solarium": "teak chairs with camel cushions and teak table",
+    "fit": "Good",
+    "implement": "Add texture with a rug and wood accent; keep the existing smooth cabinets as visual relief.",
+    "avoid": "Avoid bulky farmhouse tables or faux beams under the 2.7 m ceiling.",
+    "folder": "style_15_modern_rustic"
+  },
+  {
+    "id": "16",
+    "slug": "transitional",
+    "name": "Warm Transitional",
+    "definition": "Classic comfort simplified by modern lines, mixing traditional upholstery with restrained contemporary finishes.",
+    "materials": "oak; linen; wool; aged brass; marble",
+    "colors": [
+      "#F0E8DA",
+      "#C9BBA6",
+      "#A3927B",
+      "#7A897D",
+      "#48433D"
+    ],
+    "living": "cream tailored sofa with slim rolled arms; round dark-oak coffee table; oak media cabinet; oak rectangular table and six upholstered chairs; linen drum pendants",
+    "bed": "linen upholstered queen beds, ivory cotton, sage throws, framed landscapes",
+    "solarium": "teak chairs with cream cushions and teak table",
+    "fit": "Very good",
+    "implement": "Pair understated classic fabrics with current cream cabinets and black counters.",
+    "avoid": "Keep trim modest; elaborate moldings would fight the condo's simple shell.",
+    "folder": "style_16_transitional"
+  },
+  {
+    "id": "17",
+    "slug": "modern_heritage",
+    "name": "Modern Heritage / New Traditional",
+    "definition": "Familiar traditional patterns and vintage character edited for a modern apartment.",
+    "materials": "walnut; small-scale botanical cloth; wool; ceramic; aged brass",
+    "colors": [
+      "#F0E5D4",
+      "#B5A58B",
+      "#7F8A70",
+      "#864F46",
+      "#443E37"
+    ],
+    "living": "olive tailored sofa; round walnut coffee table; walnut media cabinet; walnut rectangular table with six cream upholstered chairs; pleated linen pendants",
+    "bed": "oak queen beds, ivory quilt, muted burgundy throws, vintage botanical prints",
+    "solarium": "teak chairs with olive cushions and table",
+    "fit": "Good",
+    "implement": "Start with a patterned rug and framed art, keeping large furniture simple.",
+    "avoid": "Layer two pattern scales at most in each small bedroom.",
+    "folder": "style_17_modern_heritage"
+  },
+  {
+    "id": "18",
+    "slug": "parisian_contemporary",
+    "name": "Parisian Contemporary",
+    "definition": "An edited mix of graceful vintage pieces, contemporary upholstery and artistic detail.",
+    "materials": "walnut; ivory linen; marble; brass; muted velvet",
+    "colors": [
+      "#F2EBDD",
+      "#C5B5A1",
+      "#A79589",
+      "#756D76",
+      "#34383B"
+    ],
+    "living": "ivory curved-arm sofa; round marble coffee table; walnut media cabinet; walnut rectangular table and six taupe upholstered chairs; brass and opal pendants",
+    "bed": "ivory upholstered queen beds, white linen, dusty-mauve throws, abstract black-line art",
+    "solarium": "dark teak chairs with ivory cushions and teak table",
+    "fit": "Good",
+    "implement": "Use one antique-style mirror or lamp and expressive art rather than recreating a period apartment.",
+    "avoid": "Keep ceilings and openings unchanged; avoid oversized chandeliers.",
+    "folder": "style_18_parisian_contemporary"
+  },
+  {
+    "id": "19",
+    "slug": "art_deco_contemporary",
+    "name": "Contemporary Art Deco",
+    "definition": "Geometric rhythm, rich color and refined metal details adapted to compact contemporary rooms.",
+    "materials": "walnut; emerald velvet; ribbed glass; marble; brushed brass",
+    "colors": [
+      "#F0E6D5",
+      "#A58A62",
+      "#265D50",
+      "#7C4543",
+      "#292F34"
+    ],
+    "living": "emerald channel-backed sofa; round dark-marble coffee table with brass base; walnut media cabinet; walnut rectangular table and six emerald chairs; ribbed-glass pendants",
+    "bed": "emerald upholstered queen beds, ivory bedding, bronze throws, geometric art",
+    "solarium": "dark teak chairs with emerald cushions and teak table",
+    "fit": "Good",
+    "implement": "Echo the existing fluted cabinets with ribbed glass and a small number of brass accents.",
+    "avoid": "Use geometry in textiles rather than adding bulky decorative construction.",
+    "folder": "style_19_art_deco_contemporary"
+  },
+  {
+    "id": "20",
+    "slug": "curated_maximalism",
+    "name": "Curated Eclectic / Maximalism",
+    "definition": "A personal mix of eras, pattern and saturated color held together by recurring hues and deliberate scale.",
+    "materials": "walnut; patterned wool; velvet; ceramic; antique brass",
+    "colors": [
+      "#EFE2CF",
+      "#9A6549",
+      "#42645A",
+      "#873F4B",
+      "#C39944"
+    ],
+    "living": "burgundy velvet sofa; round walnut coffee table; walnut media cabinet; walnut rectangular table and six olive upholstered chairs; ochre pleated pendants; jewel-tone patterned rug",
+    "bed": "oak queen beds, cream bedding, burgundy patterned throws, curated colorful gallery art",
+    "solarium": "teak chairs with burgundy cushions and table, colorful pots",
+    "fit": "Good, bold option",
+    "implement": "Use burgundy, green and ochre repeatedly; concentrate the gallery on an uninterrupted wall.",
+    "avoid": "Keep circulation and glass clear; maximalism needs storage and editing.",
+    "folder": "style_20_curated_maximalism"
+  }
+]

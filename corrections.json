@@ -1,0 +1,12 @@
+[
+  {
+    "folder": "style_12_soft_contemporary",
+    "file": "03_example_living_v2.png",
+    "prompt": "Create ONE single full-frame photoreal interior photograph of a Soft Contemporary living room. Dusty blue-gray curved sofa, one taupe swivel barrel chair, round thick oak drum coffee table, oak media console with TV, satin nickel lamps, a blue-gray abstract artwork and textured cream wool rug. A small dining table and four taupe chairs in background. Elegant achievable apartment, daylight, landscape composition. This is a GENERIC STYLE EXAMPLE. Fill the entire image with this ONE room photograph. Absolutely no text, labels, swatches, collage, panels, inset images, charts, margins or graphic design."
+  },
+  {
+    "folder": "style_03_warm_scandinavian",
+    "file": "condo_20_Living_Alternate_v2.png",
+    "prompt": "Edit image1 with ONLY these corrections. Remove the invented exterior glazed door/window at far back LEFT beyond dining and replace with continuous plain warm cream opaque wall matching the empty architectural reference image2. Make the dining table rectangular pale ash, same as image3, with exactly FOUR spindle chairs. Keep camera/framing, sofa, chair, coffee table, TV, cabinet, botanical artwork, kitchen and all other furnishings in image1 unchanged. Image2 is architecture reference; image3 is matching furniture reference."
+  }
+]

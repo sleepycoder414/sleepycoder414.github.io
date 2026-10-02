@@ -1,0 +1,26 @@
+const {chromium}=require('C:/Users/tlam/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const path=require('path');
+const {pathToFileURL}=require('url');
+(async()=>{
+  const browser=await chromium.launch({channel:'msedge',headless:true});
+  const page=await browser.newPage({viewport:{width:1440,height:1000}});
+  const errors=[];page.on('pageerror',e=>errors.push(e.message));
+  const url=pathToFileURL(path.join(__dirname,'index.html')).href;
+  await page.goto(url);
+  if(await page.locator('.card').count()!==53)throw Error('Expected 53 styles');
+  await page.locator('[data-filter="favorites"]').click();
+  if(await page.locator('.card:visible').count()!==10)throw Error('Favorite collection filter');
+  await page.goto(url+'?collection=jazz');
+  if(await page.locator('.card:visible').count()!==3)throw Error('Jazz deep link');
+  await page.screenshot({path:path.join(__dirname,'review','jazz-collection-desktop.png')});
+  await page.locator('.card:visible').first().click();
+  if(!await page.locator('#implementation').innerText().then(t=>t.includes('NV12')))throw Error('Piano implementation missing');
+  await page.locator('[data-view="1"]').click();
+  await page.locator('.toggle').click();
+  if(!(await page.locator('.viewer img').getAttribute('src')).includes('../ref/'))throw Error('Empty comparison');
+  await page.setViewportSize({width:390,height:844});
+  await page.screenshot({path:path.join(__dirname,'review','jazz-style-mobile.png')});
+  if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth))throw Error('Mobile overflow');
+  await browser.close();if(errors.length)throw Error(errors.join('\n'));
+  console.log('53 cards, collection filters/deep links, piano guide, empty comparison and mobile layout passed');
+})();

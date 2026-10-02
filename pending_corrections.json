@@ -1,0 +1,50 @@
+{
+  "reason": "Built-in image generation usage limit reached",
+  "resets_at_utc": "2026-09-13T19:34:59.000Z",
+  "state": "completed",
+  "completed_jobs": [
+    {
+      "n": 14,
+      "file": "condo_20_Living_Alternate_v2.png",
+      "src": "condo_20_Living_Alternate.png",
+      "prompt": "Edit this image only: the large exterior sliding glass door between refrigerator and TV is a hallucination. Completely remove that opening, view and curtains and replace with a continuous solid warm cream plaster wall, with one framed terracotta abstract artwork. Keep every other object, Mediterranean furnishings, camera and lighting exactly unchanged.",
+      "folder": "style_14_mediterranean_modern"
+    },
+    {
+      "n": 19,
+      "file": "condo_20_Living_Alternate_v2.png",
+      "src": "condo_20_Living_Alternate.png",
+      "prompt": "Edit only the invented exterior glass door behind the dining table between kitchen and TV. Fill it completely with solid cream wall and one Art Deco artwork. There is no exterior opening on this wall. Preserve every other object, camera, emerald sofa, burgundy chair, walnut furniture, brass, rug and dining set.",
+      "folder": "style_19_art_deco_contemporary"
+    },
+    {
+      "n": 20,
+      "file": "condo_20_Living_Alternate_v2.png",
+      "src": "condo_20_Living_Alternate.png",
+      "prompt": "Edit only the invented exterior window at the far back LEFT behind dining table. Replace all that blue sky, window frame and view with a solid warm cream wall with layered vintage framed artwork. No exterior opening at that far end. Keep every other object, exact camera, burgundy sofa, patterned chair, walnut furniture, rugs and four seat dining set unchanged.",
+      "folder": "style_20_curated_maximalism"
+    },
+    {
+      "n": 19,
+      "file": "condo_10_Solarium_v2.png",
+      "src": "condo_10_Solarium.png",
+      "prompt": "Change ONLY the four emerald upholstered dining chairs to clearly outdoor teak and black metal dining chairs with slender curved backs and removable emerald weatherproof seat pads. Preserve Art Deco brass accents, dining table, outdoor lounge furniture, architecture, rug, view and camera exactly.",
+      "folder": "style_19_art_deco_contemporary"
+    },
+    {
+      "n": 11,
+      "file": "condo_21_Living_Wide_v4.png",
+      "src": "condo_21_Living_Wide_v2.png",
+      "prompt": "Precise object removal. There are five dining chairs. Remove the extra far-left dining chair whose back is visible immediately beside the closed interior door, behind the large front chair. Leave exactly four dining chairs total around the same compact rectangular walnut table. Preserve the remaining four chairs and ALL other image pixels, furniture, camera, architecture, artwork, lighting and crisp detail.",
+      "folder": "style_11_quiet_luxury"
+    },
+    {
+      "n": 20,
+      "file": "condo_10_Solarium_v2.png",
+      "src": "condo_10_Solarium.png",
+      "prompt": "Edit ONLY the interior glimpse through LEFT glass: remove the bed, headboard and bedroom arrangement. This glass looks into the LIVING ROOM. Show the back of the burgundy sofa facing inward toward a walnut TV cabinet and wall television, with vintage gallery art. Keep solarium outdoor rope/wood furniture, patterns, plants, architecture and camera unchanged.",
+      "folder": "style_20_curated_maximalism"
+    }
+  ],
+  "jobs": []
+}

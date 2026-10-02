@@ -1,0 +1,619 @@
+{
+  "revision": "empty-shell-v2",
+  "expected_condo_edits": 100,
+  "saved_condo_edits": 100,
+  "styles": [
+    {
+      "revision": "empty-shell-v2",
+      "style": "Pacific Northwest Modern",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "forest-green tailored sofa; round dark-oak coffee table; oak media cabinet; oak rectangular dining table and six oak chairs; black shallow dome pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Japandi",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "oatmeal low tailored sofa; round walnut coffee table; oak media cabinet; oak rectangular dining table with six woven-seat oak chairs; white paper globe pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Warm Scandinavian",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "pale sage tailored sofa; round pale-oak coffee table; pale-oak media cabinet; pale-ash rectangular dining table and six spindle chairs; opal globe pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Organic Modern",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "cream softly rounded sofa; round travertine coffee table; oak media cabinet; oak rectangular dining table with six curved oak chairs; cream sculptural pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Warm Minimalism",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "sand straight-arm sofa; round taupe stone coffee table; flush oak media cabinet; oak rectangular table and six simple upholstered chairs; small linen drum pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Biophilic Contemporary",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "olive woven sofa; round oak coffee table; oak media cabinet; oak rectangular dining table with six green upholstered chairs; woven natural pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Mid-century Modern",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "cognac leather sofa on slim legs; round walnut coffee table; walnut sliding-door media cabinet; walnut rectangular table and six curved-back chairs; opal saucer pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Scandinavian + Mid-century",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "muted blue-green sofa; round walnut coffee table; oak media cabinet; oak rectangular table and six curved-back chairs; opal saucer pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Contemporary Wabi-sabi",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "flax linen sofa; round weathered-oak coffee table; quiet oak media cabinet; weathered-oak rectangular table with six woven-seat chairs; handmade paper pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Belgian Linen Minimalism",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "flax slipcovered sofa; round aged-oak coffee table; aged-oak media cabinet; oak rectangular dining table and six linen-seat chairs; linen drum pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Quiet Luxury Contemporary",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "warm ivory tailored sofa; round honed brown-stone coffee table; walnut media cabinet; walnut rectangular dining table and six taupe upholstered chairs; bronze and opal pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "resolved_corrections": [
+          {
+            "file": "condo_21_Living_Wide_v2.png",
+            "required_change": "Precise object removal. There are five dining chairs. Remove the extra far-left dining chair whose back is visible immediately beside the closed interior door, behind the large front chair. Leave exactly four dining chairs total around the same compact rectangular walnut table. Preserve the remaining four chairs and ALL other image pixels, furniture, camera, architecture, artwork, lighting and crisp detail."
+          }
+        ],
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Soft Contemporary",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "dusty blue-gray sofa; round oak coffee table; oak media cabinet; oak rectangular table and six taupe curved-back chairs; frosted-glass pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Modern Coastal",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "ivory linen sofa; round white-oak coffee table; white-oak media cabinet; oak rectangular table and six woven chairs; woven pale pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Modern Mediterranean",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "cream linen sofa; round pale-stone coffee table; oak media cabinet; oak rectangular table and six rush-seat chairs; woven pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "resolved_corrections": [
+          {
+            "file": "condo_20_Living_Alternate.png",
+            "required_change": "Edit this image only: the large exterior sliding glass door between refrigerator and TV is a hallucination. Completely remove that opening, view and curtains and replace with a continuous solid warm cream plaster wall, with one framed terracotta abstract artwork. Keep every other object, Mediterranean furnishings, camera and lighting exactly unchanged."
+          }
+        ],
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Modern Rustic",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "camel woven sofa; round rustic-oak coffee table; oak media cabinet; oak rectangular table and six leather-seat chairs; black metal dome pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Warm Transitional",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "cream tailored sofa with slim rolled arms; round dark-oak coffee table; oak media cabinet; oak rectangular table and six upholstered chairs; linen drum pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Modern Heritage / New Traditional",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "olive tailored sofa; round walnut coffee table; walnut media cabinet; walnut rectangular table with six cream upholstered chairs; pleated linen pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Parisian Contemporary",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "ivory curved-arm sofa; round marble coffee table; walnut media cabinet; walnut rectangular table and six taupe upholstered chairs; brass and opal pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Contemporary Art Deco",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "emerald channel-backed sofa; round dark-marble coffee table with brass base; walnut media cabinet; walnut rectangular table and six emerald chairs; ribbed-glass pendants",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "resolved_corrections": [
+          {
+            "file": "condo_20_Living_Alternate.png",
+            "required_change": "Edit only the invented exterior glass door behind the dining table between kitchen and TV. Fill it completely with solid cream wall and one Art Deco artwork. There is no exterior opening on this wall. Preserve every other object, camera, emerald sofa, burgundy chair, walnut furniture, brass, rug and dining set."
+          },
+          {
+            "file": "condo_10_Solarium.png",
+            "required_change": "Change ONLY the four emerald upholstered dining chairs to clearly outdoor teak and black metal dining chairs with slender curved backs and removable emerald weatherproof seat pads. Preserve Art Deco brass accents, dining table, outdoor lounge furniture, architecture, rug, view and camera exactly."
+          }
+        ],
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    },
+    {
+      "revision": "empty-shell-v2",
+      "style": "Curated Eclectic / Maximalism",
+      "expected_condo_edits": 5,
+      "saved_condo_edits": [
+        "condo_21_Living_Wide.png",
+        "condo_20_Living_Alternate.png",
+        "condo_23_Dining_Wide.png",
+        "condo_31_Bedroom_Primary_Wide.png",
+        "condo_10_Solarium.png"
+      ],
+      "missing_condo_edits": [],
+      "base_assets_present": [
+        "01_moodboard.png",
+        "02_palette.png",
+        "03_example_living.png",
+        "04_example_bedroom.png",
+        "05_example_dining.png"
+      ],
+      "review": {
+        "reviewed_at": "2026-09-13",
+        "approved": true,
+        "scope": "Five empty-reference condo concepts visually compared with the style examples, including shared furnishings, room function and architecture.",
+        "style_signature": "burgundy velvet sofa; round walnut coffee table; walnut media cabinet; walnut rectangular table and six olive upholstered chairs; ochre pleated pendants; jewel-tone patterned rug",
+        "limitations": "Image concepts have minor differences in furniture scale, artwork and placement between cameras; not dimensionally verified model renders.",
+        "resolved_corrections": [
+          {
+            "file": "condo_20_Living_Alternate.png",
+            "required_change": "Edit only the invented exterior window at the far back LEFT behind dining table. Replace all that blue sky, window frame and view with a solid warm cream wall with layered vintage framed artwork. No exterior opening at that far end. Keep every other object, exact camera, burgundy sofa, patterned chair, walnut furniture, rugs and four seat dining set unchanged."
+          },
+          {
+            "file": "condo_10_Solarium.png",
+            "required_change": "Edit ONLY the interior glimpse through LEFT glass: remove the bed, headboard and bedroom arrangement. This glass looks into the LIVING ROOM. Show the back of the burgundy sofa facing inward toward a walnut TV cabinet and wall television, with vintage gallery art. Keep solarium outdoor rope/wood furniture, patterns, plants, architecture and camera unchanged."
+          }
+        ],
+        "pending_corrections": []
+      },
+      "state": "reviewed"
+    }
+  ]
+}
